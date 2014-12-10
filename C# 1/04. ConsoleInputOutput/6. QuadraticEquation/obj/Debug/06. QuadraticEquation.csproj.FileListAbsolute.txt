@@ -1,0 +1,8 @@
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\04. ConsoleInputOutput\6. QuadraticEquation\bin\Debug\_6.QuadraticEquation.exe.config
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\04. ConsoleInputOutput\6. QuadraticEquation\obj\Debug\_6.QuadraticEquation.exe
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\04. ConsoleInputOutput\6. QuadraticEquation\obj\Debug\_6.QuadraticEquation.pdb
+D:\Projects\04. ConsoleInputOutput\6. QuadraticEquation\bin\Debug\_6.QuadraticEquation.exe.config
+D:\Projects\04. ConsoleInputOutput\6. QuadraticEquation\obj\Debug\_6.QuadraticEquation.exe
+D:\Projects\04. ConsoleInputOutput\6. QuadraticEquation\obj\Debug\_6.QuadraticEquation.pdb
+D:\Projects\04. ConsoleInputOutput\6. QuadraticEquation\bin\Debug\_6.QuadraticEquation.exe
+D:\Projects\04. ConsoleInputOutput\6. QuadraticEquation\bin\Debug\_6.QuadraticEquation.pdb

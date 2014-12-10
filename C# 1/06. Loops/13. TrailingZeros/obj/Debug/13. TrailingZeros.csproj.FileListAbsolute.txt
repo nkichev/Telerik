@@ -1,0 +1,5 @@
+D:\Projects\06. Loops\13. TrailingZeros\bin\Debug\_13.TrailingZeros.exe.config
+D:\Projects\06. Loops\13. TrailingZeros\bin\Debug\_13.TrailingZeros.exe
+D:\Projects\06. Loops\13. TrailingZeros\bin\Debug\_13.TrailingZeros.pdb
+D:\Projects\06. Loops\13. TrailingZeros\obj\Debug\_13.TrailingZeros.exe
+D:\Projects\06. Loops\13. TrailingZeros\obj\Debug\_13.TrailingZeros.pdb

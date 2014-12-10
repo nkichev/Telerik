@@ -1,0 +1,5 @@
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\02. DividedBy7And5\bin\Debug\_02.DividedBy7And5.exe.config
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\02. DividedBy7And5\bin\Debug\_02.DividedBy7And5.exe
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\02. DividedBy7And5\bin\Debug\_02.DividedBy7And5.pdb
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\02. DividedBy7And5\obj\Debug\_02.DividedBy7And5.exe
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\02. DividedBy7And5\obj\Debug\_02.DividedBy7And5.pdb

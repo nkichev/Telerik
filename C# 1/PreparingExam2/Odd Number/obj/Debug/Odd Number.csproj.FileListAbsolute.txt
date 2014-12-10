@@ -1,0 +1,5 @@
+D:\Projects\PreparingExam\Odd Number\bin\Debug\Odd Number.exe.config
+D:\Projects\PreparingExam\Odd Number\bin\Debug\Odd Number.exe
+D:\Projects\PreparingExam\Odd Number\bin\Debug\Odd Number.pdb
+D:\Projects\PreparingExam\Odd Number\obj\Debug\Odd Number.exe
+D:\Projects\PreparingExam\Odd Number\obj\Debug\Odd Number.pdb

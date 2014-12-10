@@ -1,0 +1,4 @@
+c:\users\kichev\documents\visual studio 2012\Projects\1. IntroProgramming\8. Square\bin\Debug\_8.Square.exe
+c:\users\kichev\documents\visual studio 2012\Projects\1. IntroProgramming\8. Square\bin\Debug\_8.Square.pdb
+c:\users\kichev\documents\visual studio 2012\Projects\1. IntroProgramming\8. Square\obj\Debug\_8.Square.exe
+c:\users\kichev\documents\visual studio 2012\Projects\1. IntroProgramming\8. Square\obj\Debug\_8.Square.pdb

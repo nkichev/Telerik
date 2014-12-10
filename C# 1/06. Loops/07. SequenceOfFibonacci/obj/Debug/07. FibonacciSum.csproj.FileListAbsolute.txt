@@ -1,0 +1,5 @@
+D:\Projects\06. Loops\07. SequenceOfFibonacci\bin\Debug\_07.SequenceOfFibonacci.exe.config
+D:\Projects\06. Loops\07. SequenceOfFibonacci\bin\Debug\_07.SequenceOfFibonacci.exe
+D:\Projects\06. Loops\07. SequenceOfFibonacci\bin\Debug\_07.SequenceOfFibonacci.pdb
+D:\Projects\06. Loops\07. SequenceOfFibonacci\obj\Debug\_07.SequenceOfFibonacci.exe
+D:\Projects\06. Loops\07. SequenceOfFibonacci\obj\Debug\_07.SequenceOfFibonacci.pdb

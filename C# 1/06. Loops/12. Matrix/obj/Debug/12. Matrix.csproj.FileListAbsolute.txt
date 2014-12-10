@@ -1,0 +1,8 @@
+D:\Projects\06. Loops\12. Matrix\bin\Debug\_12.Matrix.exe.config
+D:\Projects\06. Loops\12. Matrix\bin\Debug\_12.Matrix.exe
+D:\Projects\06. Loops\12. Matrix\bin\Debug\_12.Matrix.pdb
+D:\Projects\06. Loops\12. Matrix\obj\Debug\_12.Matrix.exe
+D:\Projects\06. Loops\12. Matrix\obj\Debug\_12.Matrix.pdb
+D:\Projects\C# 1\06. Loops\12. Matrix\bin\Debug\_12.Matrix.exe.config
+D:\Projects\C# 1\06. Loops\12. Matrix\obj\Debug\_12.Matrix.exe
+D:\Projects\C# 1\06. Loops\12. Matrix\obj\Debug\_12.Matrix.pdb

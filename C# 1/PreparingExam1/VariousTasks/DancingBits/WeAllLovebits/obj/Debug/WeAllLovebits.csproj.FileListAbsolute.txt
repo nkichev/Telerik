@@ -1,0 +1,5 @@
+C:\Workshop\DancingBits\WeAllLovebits\bin\Debug\WeAllLovebits.exe.config
+C:\Workshop\DancingBits\WeAllLovebits\bin\Debug\WeAllLovebits.exe
+C:\Workshop\DancingBits\WeAllLovebits\bin\Debug\WeAllLovebits.pdb
+C:\Workshop\DancingBits\WeAllLovebits\obj\Debug\WeAllLovebits.exe
+C:\Workshop\DancingBits\WeAllLovebits\obj\Debug\WeAllLovebits.pdb

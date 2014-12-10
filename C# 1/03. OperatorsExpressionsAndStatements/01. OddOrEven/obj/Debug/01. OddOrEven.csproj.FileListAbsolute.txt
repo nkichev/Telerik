@@ -1,0 +1,6 @@
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\01. OddOrEven\bin\Debug\_01.OddOrEven.exe.config
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\01. OddOrEven\bin\Debug\_01.OddOrEven.exe
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\01. OddOrEven\bin\Debug\_01.OddOrEven.pdb
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\01. OddOrEven\obj\Debug\01. OddOrEven.csprojResolveAssemblyReference.cache
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\01. OddOrEven\obj\Debug\_01.OddOrEven.exe
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\01. OddOrEven\obj\Debug\_01.OddOrEven.pdb

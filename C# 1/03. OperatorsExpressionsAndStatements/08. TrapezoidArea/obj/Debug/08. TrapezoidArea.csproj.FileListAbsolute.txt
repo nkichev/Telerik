@@ -1,0 +1,5 @@
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\08. TrapezoidArea\bin\Debug\_08.TrapezoidArea.exe.config
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\08. TrapezoidArea\bin\Debug\_08.TrapezoidArea.exe
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\08. TrapezoidArea\bin\Debug\_08.TrapezoidArea.pdb
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\08. TrapezoidArea\obj\Debug\_08.TrapezoidArea.exe
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\08. TrapezoidArea\obj\Debug\_08.TrapezoidArea.pdb

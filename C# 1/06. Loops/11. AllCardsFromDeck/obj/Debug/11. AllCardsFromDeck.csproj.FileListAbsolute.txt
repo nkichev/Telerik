@@ -1,0 +1,5 @@
+D:\Projects\06. Loops\11. AllCardsFromDeck\bin\Debug\_11.AllCardsFromDeck.exe.config
+D:\Projects\06. Loops\11. AllCardsFromDeck\bin\Debug\_11.AllCardsFromDeck.exe
+D:\Projects\06. Loops\11. AllCardsFromDeck\bin\Debug\_11.AllCardsFromDeck.pdb
+D:\Projects\06. Loops\11. AllCardsFromDeck\obj\Debug\_11.AllCardsFromDeck.exe
+D:\Projects\06. Loops\11. AllCardsFromDeck\obj\Debug\_11.AllCardsFromDeck.pdb

@@ -1,0 +1,5 @@
+D:\Projects\06. Loops\03. MinAndMax\bin\Debug\_03.MinAndMax.exe.config
+D:\Projects\06. Loops\03. MinAndMax\bin\Debug\_03.MinAndMax.exe
+D:\Projects\06. Loops\03. MinAndMax\bin\Debug\_03.MinAndMax.pdb
+D:\Projects\06. Loops\03. MinAndMax\obj\Debug\_03.MinAndMax.exe
+D:\Projects\06. Loops\03. MinAndMax\obj\Debug\_03.MinAndMax.pdb

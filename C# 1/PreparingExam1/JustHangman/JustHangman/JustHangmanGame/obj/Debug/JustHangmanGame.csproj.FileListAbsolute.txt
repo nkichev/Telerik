@@ -1,0 +1,9 @@
+c:\users\academy\documents\visual studio 2012\Projects\JustHangman\JustHangmanGame\bin\Debug\JustHangmanGame.exe.config
+c:\users\academy\documents\visual studio 2012\Projects\JustHangman\JustHangmanGame\bin\Debug\JustHangmanGame.exe
+c:\users\academy\documents\visual studio 2012\Projects\JustHangman\JustHangmanGame\bin\Debug\JustHangmanGame.pdb
+c:\users\academy\documents\visual studio 2012\Projects\JustHangman\JustHangmanGame\obj\Debug\JustHangmanGame.csprojResolveAssemblyReference.cache
+c:\users\academy\documents\visual studio 2012\Projects\JustHangman\JustHangmanGame\obj\Debug\JustHangmanGame.exe
+c:\users\academy\documents\visual studio 2012\Projects\JustHangman\JustHangmanGame\obj\Debug\JustHangmanGame.pdb
+C:\Users\kichev\Desktop\JustHangman\JustHangman\JustHangmanGame\bin\Debug\JustHangmanGame.exe.config
+C:\Users\kichev\Desktop\JustHangman\JustHangman\JustHangmanGame\obj\Debug\JustHangmanGame.exe
+C:\Users\kichev\Desktop\JustHangman\JustHangman\JustHangmanGame\obj\Debug\JustHangmanGame.pdb

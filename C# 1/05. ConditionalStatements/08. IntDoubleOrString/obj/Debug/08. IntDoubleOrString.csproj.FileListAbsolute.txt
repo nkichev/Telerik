@@ -1,0 +1,8 @@
+D:\Projects\05. ConditionalStatements\08. IntDoubleOrString\bin\Debug\_08.IntDoubleOrString.exe.config
+D:\Projects\05. ConditionalStatements\08. IntDoubleOrString\bin\Debug\_08.IntDoubleOrString.exe
+D:\Projects\05. ConditionalStatements\08. IntDoubleOrString\bin\Debug\_08.IntDoubleOrString.pdb
+D:\Projects\05. ConditionalStatements\08. IntDoubleOrString\obj\Debug\_08.IntDoubleOrString.exe
+D:\Projects\05. ConditionalStatements\08. IntDoubleOrString\obj\Debug\_08.IntDoubleOrString.pdb
+D:\Projects\C# 1\05. ConditionalStatements\08. IntDoubleOrString\bin\Debug\_08.IntDoubleOrString.exe.config
+D:\Projects\C# 1\05. ConditionalStatements\08. IntDoubleOrString\obj\Debug\_08.IntDoubleOrString.exe
+D:\Projects\C# 1\05. ConditionalStatements\08. IntDoubleOrString\obj\Debug\_08.IntDoubleOrString.pdb

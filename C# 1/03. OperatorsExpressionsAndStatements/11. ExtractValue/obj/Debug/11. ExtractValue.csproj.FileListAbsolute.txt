@@ -1,0 +1,5 @@
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\11. ExtractValue\bin\Debug\_11.ExtractValue.exe.config
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\11. ExtractValue\bin\Debug\_11.ExtractValue.exe
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\11. ExtractValue\bin\Debug\_11.ExtractValue.pdb
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\11. ExtractValue\obj\Debug\_11.ExtractValue.exe
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\11. ExtractValue\obj\Debug\_11.ExtractValue.pdb

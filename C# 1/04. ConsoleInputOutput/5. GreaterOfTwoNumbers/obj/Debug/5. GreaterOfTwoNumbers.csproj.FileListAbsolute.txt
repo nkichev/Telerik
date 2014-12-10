@@ -1,0 +1,6 @@
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\4. ConsoleInputOutput\5. GreaterOfTwoNumbers\bin\Debug\_5.GreaterOfTwoNumbers.exe.config
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\4. ConsoleInputOutput\5. GreaterOfTwoNumbers\bin\Debug\_5.GreaterOfTwoNumbers.exe
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\4. ConsoleInputOutput\5. GreaterOfTwoNumbers\bin\Debug\_5.GreaterOfTwoNumbers.pdb
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\4. ConsoleInputOutput\5. GreaterOfTwoNumbers\obj\Debug\5. GreaterOfTwoNumbers.csprojResolveAssemblyReference.cache
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\4. ConsoleInputOutput\5. GreaterOfTwoNumbers\obj\Debug\_5.GreaterOfTwoNumbers.exe
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\4. ConsoleInputOutput\5. GreaterOfTwoNumbers\obj\Debug\_5.GreaterOfTwoNumbers.pdb

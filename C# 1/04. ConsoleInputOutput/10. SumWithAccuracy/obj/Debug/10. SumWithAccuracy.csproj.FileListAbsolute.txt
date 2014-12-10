@@ -1,0 +1,8 @@
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\4. ConsoleInputOutput\10. SumWithAccuracy\bin\Debug\_10.SumWithAccuracy.exe.config
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\4. ConsoleInputOutput\10. SumWithAccuracy\bin\Debug\_10.SumWithAccuracy.exe
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\4. ConsoleInputOutput\10. SumWithAccuracy\bin\Debug\_10.SumWithAccuracy.pdb
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\4. ConsoleInputOutput\10. SumWithAccuracy\obj\Debug\_10.SumWithAccuracy.exe
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\4. ConsoleInputOutput\10. SumWithAccuracy\obj\Debug\_10.SumWithAccuracy.pdb
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\04. ConsoleInputOutput\10. SumWithAccuracy\bin\Debug\_10.SumWithAccuracy.exe.config
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\04. ConsoleInputOutput\10. SumWithAccuracy\obj\Debug\_10.SumWithAccuracy.exe
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\04. ConsoleInputOutput\10. SumWithAccuracy\obj\Debug\_10.SumWithAccuracy.pdb

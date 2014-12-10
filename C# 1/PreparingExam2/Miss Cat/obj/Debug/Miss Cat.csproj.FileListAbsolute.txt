@@ -1,0 +1,6 @@
+D:\Projects\PreparingExam\Miss Cat\bin\Debug\Miss Cat.exe.config
+D:\Projects\PreparingExam\Miss Cat\bin\Debug\Miss Cat.exe
+D:\Projects\PreparingExam\Miss Cat\bin\Debug\Miss Cat.pdb
+D:\Projects\PreparingExam\Miss Cat\obj\Debug\Miss Cat.csprojResolveAssemblyReference.cache
+D:\Projects\PreparingExam\Miss Cat\obj\Debug\Miss Cat.exe
+D:\Projects\PreparingExam\Miss Cat\obj\Debug\Miss Cat.pdb

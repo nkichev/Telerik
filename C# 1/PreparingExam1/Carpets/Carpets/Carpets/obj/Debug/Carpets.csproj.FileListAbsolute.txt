@@ -1,0 +1,9 @@
+C:\Workshop\Carpets\Carpets\bin\Debug\Carpets.exe.config
+C:\Workshop\Carpets\Carpets\bin\Debug\Carpets.exe
+C:\Workshop\Carpets\Carpets\bin\Debug\Carpets.pdb
+C:\Workshop\Carpets\Carpets\obj\Debug\Carpets.csprojResolveAssemblyReference.cache
+C:\Workshop\Carpets\Carpets\obj\Debug\Carpets.exe
+C:\Workshop\Carpets\Carpets\obj\Debug\Carpets.pdb
+C:\Users\kichev\Desktop\Carpets\Carpets\Carpets\bin\Debug\Carpets.exe.config
+C:\Users\kichev\Desktop\Carpets\Carpets\Carpets\obj\Debug\Carpets.exe
+C:\Users\kichev\Desktop\Carpets\Carpets\Carpets\obj\Debug\Carpets.pdb

@@ -1,0 +1,6 @@
+D:\Projects\05. ConditionalStatements\09. IfTheSumIsZero\bin\Debug\_09.IfTheSumIsZero.exe.config
+D:\Projects\05. ConditionalStatements\09. IfTheSumIsZero\bin\Debug\_09.IfTheSumIsZero.exe
+D:\Projects\05. ConditionalStatements\09. IfTheSumIsZero\bin\Debug\_09.IfTheSumIsZero.pdb
+D:\Projects\05. ConditionalStatements\09. IfTheSumIsZero\obj\Debug\_09.IfTheSumIsZero.exe
+D:\Projects\05. ConditionalStatements\09. IfTheSumIsZero\obj\Debug\_09.IfTheSumIsZero.pdb
+D:\Projects\05. ConditionalStatements\09. IfTheSumIsZero\obj\Debug\09. IfTheSumIsZero.csprojResolveAssemblyReference.cache

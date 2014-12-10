@@ -1,0 +1,6 @@
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\4. ConsoleInputOutput\4. NumbersBetween\bin\Debug\_4.NumbersBetween.exe.config
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\4. ConsoleInputOutput\4. NumbersBetween\bin\Debug\_4.NumbersBetween.exe
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\4. ConsoleInputOutput\4. NumbersBetween\bin\Debug\_4.NumbersBetween.pdb
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\4. ConsoleInputOutput\4. NumbersBetween\obj\Debug\4. NumbersBetween.csprojResolveAssemblyReference.cache
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\4. ConsoleInputOutput\4. NumbersBetween\obj\Debug\_4.NumbersBetween.exe
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\4. ConsoleInputOutput\4. NumbersBetween\obj\Debug\_4.NumbersBetween.pdb

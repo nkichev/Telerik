@@ -1,0 +1,6 @@
+D:\Projects\PreparingExam\Astrological Digits\bin\Debug\Astrological Digits.exe.config
+D:\Projects\PreparingExam\Astrological Digits\bin\Debug\Astrological Digits.exe
+D:\Projects\PreparingExam\Astrological Digits\bin\Debug\Astrological Digits.pdb
+D:\Projects\PreparingExam\Astrological Digits\obj\Debug\Astrological Digits.csprojResolveAssemblyReference.cache
+D:\Projects\PreparingExam\Astrological Digits\obj\Debug\Astrological Digits.exe
+D:\Projects\PreparingExam\Astrological Digits\obj\Debug\Astrological Digits.pdb

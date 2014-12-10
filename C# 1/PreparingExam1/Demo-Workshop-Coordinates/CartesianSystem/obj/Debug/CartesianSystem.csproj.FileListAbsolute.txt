@@ -1,0 +1,9 @@
+C:\Users\academy\Desktop\Workshop\If-else\Evlogi\Coordinates\CartesianSystem\bin\Debug\CartesianSystem.exe.config
+C:\Users\academy\Desktop\Workshop\If-else\Evlogi\Coordinates\CartesianSystem\bin\Debug\CartesianSystem.exe
+C:\Users\academy\Desktop\Workshop\If-else\Evlogi\Coordinates\CartesianSystem\bin\Debug\CartesianSystem.pdb
+C:\Users\academy\Desktop\Workshop\If-else\Evlogi\Coordinates\CartesianSystem\obj\Debug\CartesianSystem.csprojResolveAssemblyReference.cache
+C:\Users\academy\Desktop\Workshop\If-else\Evlogi\Coordinates\CartesianSystem\obj\Debug\CartesianSystem.exe
+C:\Users\academy\Desktop\Workshop\If-else\Evlogi\Coordinates\CartesianSystem\obj\Debug\CartesianSystem.pdb
+C:\Users\kichev\Desktop\Demo-Workshop-Coordinates\CartesianSystem\bin\Debug\CartesianSystem.exe.config
+C:\Users\kichev\Desktop\Demo-Workshop-Coordinates\CartesianSystem\obj\Debug\CartesianSystem.exe
+C:\Users\kichev\Desktop\Demo-Workshop-Coordinates\CartesianSystem\obj\Debug\CartesianSystem.pdb

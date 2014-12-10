@@ -1,0 +1,5 @@
+C:\Workshop\DancingBits\OddNumber\bin\Debug\OddNumber.exe.config
+C:\Workshop\DancingBits\OddNumber\bin\Debug\OddNumber.exe
+C:\Workshop\DancingBits\OddNumber\bin\Debug\OddNumber.pdb
+C:\Workshop\DancingBits\OddNumber\obj\Debug\OddNumber.exe
+C:\Workshop\DancingBits\OddNumber\obj\Debug\OddNumber.pdb

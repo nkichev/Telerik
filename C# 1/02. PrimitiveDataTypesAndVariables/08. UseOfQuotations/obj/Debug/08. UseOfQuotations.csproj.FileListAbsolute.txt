@@ -1,0 +1,14 @@
+C:\Users\kichev\Desktop\02. PrimitiveDataTypesAndVariables\08. UseOfQuotations\bin\Debug\_08.UseOfQuotations.exe.config
+C:\Users\kichev\Desktop\02. PrimitiveDataTypesAndVariables\08. UseOfQuotations\bin\Debug\_08.UseOfQuotations.exe
+C:\Users\kichev\Desktop\02. PrimitiveDataTypesAndVariables\08. UseOfQuotations\bin\Debug\_08.UseOfQuotations.pdb
+C:\Users\kichev\Desktop\02. PrimitiveDataTypesAndVariables\08. UseOfQuotations\obj\Debug\_08.UseOfQuotations.exe
+C:\Users\kichev\Desktop\02. PrimitiveDataTypesAndVariables\08. UseOfQuotations\obj\Debug\_08.UseOfQuotations.pdb
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\02. PrimitiveDataTypesAndVariables\08. UseOfQuotations\bin\Debug\_08.UseOfQuotations.exe.config
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\02. PrimitiveDataTypesAndVariables\08. UseOfQuotations\obj\Debug\_08.UseOfQuotations.exe
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\02. PrimitiveDataTypesAndVariables\08. UseOfQuotations\obj\Debug\_08.UseOfQuotations.pdb
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\02. PrimitiveDataTypesAndVariables\08. UseOfQuotations\bin\Debug\_08.UseOfQuotations.exe
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\02. PrimitiveDataTypesAndVariables\08. UseOfQuotations\bin\Debug\_08.UseOfQuotations.pdb
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\02. PrimitiveDataTypesAndVariables\08. UseOfQuotations\obj\Debug\08. UseOfQuotations.csprojResolveAssemblyReference.cache
+D:\Projects\02. PrimitiveDataTypesAndVariables\08. UseOfQuotations\bin\Debug\_08.UseOfQuotations.exe.config
+D:\Projects\02. PrimitiveDataTypesAndVariables\08. UseOfQuotations\obj\Debug\_08.UseOfQuotations.exe
+D:\Projects\02. PrimitiveDataTypesAndVariables\08. UseOfQuotations\obj\Debug\_08.UseOfQuotations.pdb

@@ -1,0 +1,5 @@
+D:\Projects\06. Loops\02. NotDivisibleBy3And7\bin\Debug\_02.NotDivisibleBy3And7.exe.config
+D:\Projects\06. Loops\02. NotDivisibleBy3And7\bin\Debug\_02.NotDivisibleBy3And7.exe
+D:\Projects\06. Loops\02. NotDivisibleBy3And7\bin\Debug\_02.NotDivisibleBy3And7.pdb
+D:\Projects\06. Loops\02. NotDivisibleBy3And7\obj\Debug\_02.NotDivisibleBy3And7.exe
+D:\Projects\06. Loops\02. NotDivisibleBy3And7\obj\Debug\_02.NotDivisibleBy3And7.pdb

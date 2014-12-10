@@ -1,0 +1,4 @@
+c:\users\kichev\documents\visual studio 2012\Projects\1. IntroProgramming\3. PrintName\bin\Debug\_3.PrintName.exe
+c:\users\kichev\documents\visual studio 2012\Projects\1. IntroProgramming\3. PrintName\bin\Debug\_3.PrintName.pdb
+c:\users\kichev\documents\visual studio 2012\Projects\1. IntroProgramming\3. PrintName\obj\Debug\_3.PrintName.exe
+c:\users\kichev\documents\visual studio 2012\Projects\1. IntroProgramming\3. PrintName\obj\Debug\_3.PrintName.pdb

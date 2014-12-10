@@ -1,0 +1,5 @@
+C:\Users\academy\Desktop\Workshop\If-else\Evlogi\Coordinates\ShipDamage\bin\Debug\ShipDamage.exe.config
+C:\Users\academy\Desktop\Workshop\If-else\Evlogi\Coordinates\ShipDamage\bin\Debug\ShipDamage.exe
+C:\Users\academy\Desktop\Workshop\If-else\Evlogi\Coordinates\ShipDamage\bin\Debug\ShipDamage.pdb
+C:\Users\academy\Desktop\Workshop\If-else\Evlogi\Coordinates\ShipDamage\obj\Debug\ShipDamage.exe
+C:\Users\academy\Desktop\Workshop\If-else\Evlogi\Coordinates\ShipDamage\obj\Debug\ShipDamage.pdb

@@ -1,0 +1,5 @@
+D:\Projects\PreparingExam\Math Expression\bin\Debug\Math Expression.exe.config
+D:\Projects\PreparingExam\Math Expression\bin\Debug\Math Expression.exe
+D:\Projects\PreparingExam\Math Expression\bin\Debug\Math Expression.pdb
+D:\Projects\PreparingExam\Math Expression\obj\Debug\Math Expression.exe
+D:\Projects\PreparingExam\Math Expression\obj\Debug\Math Expression.pdb

@@ -1,0 +1,4 @@
+c:\users\kichev\documents\visual studio 2012\Projects\1. IntroProgramming\9. FirstTenMembers\bin\Debug\_9.FirstTenMembers.exe
+c:\users\kichev\documents\visual studio 2012\Projects\1. IntroProgramming\9. FirstTenMembers\bin\Debug\_9.FirstTenMembers.pdb
+c:\users\kichev\documents\visual studio 2012\Projects\1. IntroProgramming\9. FirstTenMembers\obj\Debug\_9.FirstTenMembers.exe
+c:\users\kichev\documents\visual studio 2012\Projects\1. IntroProgramming\9. FirstTenMembers\obj\Debug\_9.FirstTenMembers.pdb

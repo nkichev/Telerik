@@ -1,0 +1,8 @@
+C:\Users\kichev\Desktop\02. PrimitiveDataTypesAndVariables\03. SafelyCompare\bin\Debug\_03.SafelyCompare.exe.config
+C:\Users\kichev\Desktop\02. PrimitiveDataTypesAndVariables\03. SafelyCompare\bin\Debug\_03.SafelyCompare.exe
+C:\Users\kichev\Desktop\02. PrimitiveDataTypesAndVariables\03. SafelyCompare\bin\Debug\_03.SafelyCompare.pdb
+C:\Users\kichev\Desktop\02. PrimitiveDataTypesAndVariables\03. SafelyCompare\obj\Debug\_03.SafelyCompare.exe
+C:\Users\kichev\Desktop\02. PrimitiveDataTypesAndVariables\03. SafelyCompare\obj\Debug\_03.SafelyCompare.pdb
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\02. PrimitiveDataTypesAndVariables\03. SafelyCompare\bin\Debug\_03.SafelyCompare.exe.config
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\02. PrimitiveDataTypesAndVariables\03. SafelyCompare\obj\Debug\_03.SafelyCompare.exe
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\02. PrimitiveDataTypesAndVariables\03. SafelyCompare\obj\Debug\_03.SafelyCompare.pdb

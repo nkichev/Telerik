@@ -1,0 +1,8 @@
+C:\Users\kichev\Desktop\02. PrimitiveDataTypesAndVariables\10. FirmRecords\bin\Debug\_10.FirmRecords.exe.config
+C:\Users\kichev\Desktop\02. PrimitiveDataTypesAndVariables\10. FirmRecords\bin\Debug\_10.FirmRecords.exe
+C:\Users\kichev\Desktop\02. PrimitiveDataTypesAndVariables\10. FirmRecords\bin\Debug\_10.FirmRecords.pdb
+C:\Users\kichev\Desktop\02. PrimitiveDataTypesAndVariables\10. FirmRecords\obj\Debug\_10.FirmRecords.exe
+C:\Users\kichev\Desktop\02. PrimitiveDataTypesAndVariables\10. FirmRecords\obj\Debug\_10.FirmRecords.pdb
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\02. PrimitiveDataTypesAndVariables\10. FirmRecords\bin\Debug\_10.FirmRecords.exe.config
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\02. PrimitiveDataTypesAndVariables\10. FirmRecords\obj\Debug\_10.FirmRecords.exe
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\02. PrimitiveDataTypesAndVariables\10. FirmRecords\obj\Debug\_10.FirmRecords.pdb

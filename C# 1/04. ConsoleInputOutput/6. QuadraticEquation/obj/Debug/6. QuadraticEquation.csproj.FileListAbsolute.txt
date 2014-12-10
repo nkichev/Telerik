@@ -1,0 +1,6 @@
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\4. ConsoleInputOutput\6. QuadraticEquation\bin\Debug\_6.QuadraticEquation.exe.config
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\4. ConsoleInputOutput\6. QuadraticEquation\bin\Debug\_6.QuadraticEquation.exe
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\4. ConsoleInputOutput\6. QuadraticEquation\bin\Debug\_6.QuadraticEquation.pdb
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\4. ConsoleInputOutput\6. QuadraticEquation\obj\Debug\6. QuadraticEquation.csprojResolveAssemblyReference.cache
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\4. ConsoleInputOutput\6. QuadraticEquation\obj\Debug\_6.QuadraticEquation.exe
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\4. ConsoleInputOutput\6. QuadraticEquation\obj\Debug\_6.QuadraticEquation.pdb

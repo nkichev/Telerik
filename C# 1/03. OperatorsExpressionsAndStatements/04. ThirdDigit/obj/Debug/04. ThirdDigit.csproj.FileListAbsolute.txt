@@ -1,0 +1,5 @@
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\04. ThirdDigit\bin\Debug\_04.ThirdDigit.exe.config
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\04. ThirdDigit\bin\Debug\_04.ThirdDigit.exe
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\04. ThirdDigit\bin\Debug\_04.ThirdDigit.pdb
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\04. ThirdDigit\obj\Debug\_04.ThirdDigit.exe
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\04. ThirdDigit\obj\Debug\_04.ThirdDigit.pdb

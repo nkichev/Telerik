@@ -1,0 +1,5 @@
+D:\Projects\PreparingExam\Next Day\bin\Debug\Next Day.exe.config
+D:\Projects\PreparingExam\Next Day\bin\Debug\Next Day.exe
+D:\Projects\PreparingExam\Next Day\bin\Debug\Next Day.pdb
+D:\Projects\PreparingExam\Next Day\obj\Debug\Next Day.exe
+D:\Projects\PreparingExam\Next Day\obj\Debug\Next Day.pdb

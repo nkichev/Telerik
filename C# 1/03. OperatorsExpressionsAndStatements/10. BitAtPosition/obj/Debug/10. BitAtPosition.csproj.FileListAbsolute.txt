@@ -1,0 +1,6 @@
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\10. BitAtPosition\bin\Debug\_10.BitAtPosition.exe.config
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\10. BitAtPosition\bin\Debug\_10.BitAtPosition.exe
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\10. BitAtPosition\bin\Debug\_10.BitAtPosition.pdb
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\10. BitAtPosition\obj\Debug\10. BitAtPosition.csprojResolveAssemblyReference.cache
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\10. BitAtPosition\obj\Debug\_10.BitAtPosition.exe
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\10. BitAtPosition\obj\Debug\_10.BitAtPosition.pdb

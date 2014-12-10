@@ -1,0 +1,5 @@
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\4. ConsoleInputOutput\3. CompanyInformation\bin\Debug\_3.CompanyInformation.exe.config
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\4. ConsoleInputOutput\3. CompanyInformation\bin\Debug\_3.CompanyInformation.exe
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\4. ConsoleInputOutput\3. CompanyInformation\bin\Debug\_3.CompanyInformation.pdb
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\4. ConsoleInputOutput\3. CompanyInformation\obj\Debug\_3.CompanyInformation.exe
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\4. ConsoleInputOutput\3. CompanyInformation\obj\Debug\_3.CompanyInformation.pdb

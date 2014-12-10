@@ -1,0 +1,9 @@
+C:\Workshop\Pillars\Lines\bin\Debug\Lines.exe.config
+C:\Workshop\Pillars\Lines\bin\Debug\Lines.exe
+C:\Workshop\Pillars\Lines\bin\Debug\Lines.pdb
+C:\Workshop\Pillars\Lines\obj\Debug\Lines.csprojResolveAssemblyReference.cache
+C:\Workshop\Pillars\Lines\obj\Debug\Lines.exe
+C:\Workshop\Pillars\Lines\obj\Debug\Lines.pdb
+C:\Users\kichev\Desktop\Preparing for the exam\PillarsAndLines\Pillars\Lines\bin\Debug\Lines.exe.config
+C:\Users\kichev\Desktop\Preparing for the exam\PillarsAndLines\Pillars\Lines\obj\Debug\Lines.exe
+C:\Users\kichev\Desktop\Preparing for the exam\PillarsAndLines\Pillars\Lines\obj\Debug\Lines.pdb

@@ -1,0 +1,6 @@
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\04. ConsoleInputOutput\1. ReadThreeIntegers\bin\Debug\_1.ReadThreeIntegers.exe.config
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\04. ConsoleInputOutput\1. ReadThreeIntegers\obj\Debug\_1.ReadThreeIntegers.exe
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\04. ConsoleInputOutput\1. ReadThreeIntegers\obj\Debug\_1.ReadThreeIntegers.pdb
+D:\Projects\04. ConsoleInputOutput\1. ReadThreeIntegers\bin\Debug\_1.ReadThreeIntegers.exe.config
+D:\Projects\04. ConsoleInputOutput\1. ReadThreeIntegers\obj\Debug\_1.ReadThreeIntegers.exe
+D:\Projects\04. ConsoleInputOutput\1. ReadThreeIntegers\obj\Debug\_1.ReadThreeIntegers.pdb

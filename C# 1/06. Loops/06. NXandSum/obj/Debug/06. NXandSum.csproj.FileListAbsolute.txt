@@ -1,0 +1,6 @@
+D:\Projects\06. Loops\06. NXandSum\bin\Debug\_06.NXandSum.exe.config
+D:\Projects\06. Loops\06. NXandSum\bin\Debug\_06.NXandSum.exe
+D:\Projects\06. Loops\06. NXandSum\bin\Debug\_06.NXandSum.pdb
+D:\Projects\06. Loops\06. NXandSum\obj\Debug\06. NXandSum.csprojResolveAssemblyReference.cache
+D:\Projects\06. Loops\06. NXandSum\obj\Debug\_06.NXandSum.exe
+D:\Projects\06. Loops\06. NXandSum\obj\Debug\_06.NXandSum.pdb

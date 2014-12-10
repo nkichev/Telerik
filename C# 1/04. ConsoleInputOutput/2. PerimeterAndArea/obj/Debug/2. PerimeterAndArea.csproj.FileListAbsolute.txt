@@ -1,0 +1,5 @@
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\4. ConsoleInputOutput\2. PerimeterAndArea\bin\Debug\_2.PerimeterAndArea.exe.config
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\4. ConsoleInputOutput\2. PerimeterAndArea\bin\Debug\_2.PerimeterAndArea.exe
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\4. ConsoleInputOutput\2. PerimeterAndArea\bin\Debug\_2.PerimeterAndArea.pdb
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\4. ConsoleInputOutput\2. PerimeterAndArea\obj\Debug\_2.PerimeterAndArea.exe
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\4. ConsoleInputOutput\2. PerimeterAndArea\obj\Debug\_2.PerimeterAndArea.pdb

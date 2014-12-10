@@ -1,0 +1,2 @@
+C:\Users\kichev\Desktop\02. PrimitiveDataTypesAndVariables\14. BankAccount\bin\Debug\_14.BankAccount.exe.config
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\02. PrimitiveDataTypesAndVariables\14. BankAccount\bin\Debug\_14.BankAccount.exe.config

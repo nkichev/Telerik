@@ -1,0 +1,6 @@
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\09. WithinCircleOutOfRectangle\bin\Debug\_09.WithinCircleOutOfRectangle.exe.config
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\09. WithinCircleOutOfRectangle\bin\Debug\_09.WithinCircleOutOfRectangle.exe
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\09. WithinCircleOutOfRectangle\bin\Debug\_09.WithinCircleOutOfRectangle.pdb
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\09. WithinCircleOutOfRectangle\obj\Debug\09. WithinCircleOutOfRectangle.csprojResolveAssemblyReference.cache
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\09. WithinCircleOutOfRectangle\obj\Debug\_09.WithinCircleOutOfRectangle.exe
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\09. WithinCircleOutOfRectangle\obj\Debug\_09.WithinCircleOutOfRectangle.pdb

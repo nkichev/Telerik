@@ -1,0 +1,6 @@
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\13. ExchangingBits\bin\Debug\_13.ExchangingBits.exe.config
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\13. ExchangingBits\bin\Debug\_13.ExchangingBits.exe
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\13. ExchangingBits\bin\Debug\_13.ExchangingBits.pdb
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\13. ExchangingBits\obj\Debug\13. ExchangingBits.csprojResolveAssemblyReference.cache
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\13. ExchangingBits\obj\Debug\_13.ExchangingBits.exe
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\13. ExchangingBits\obj\Debug\_13.ExchangingBits.pdb

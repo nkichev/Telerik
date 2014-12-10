@@ -1,0 +1,9 @@
+C:\Users\EnikA\Desktop\ExamTasks\BitBalls\bin\Debug\BitBalls.exe.config
+C:\Users\EnikA\Desktop\ExamTasks\BitBalls\bin\Debug\BitBalls.exe
+C:\Users\EnikA\Desktop\ExamTasks\BitBalls\bin\Debug\BitBalls.pdb
+C:\Users\EnikA\Desktop\ExamTasks\BitBalls\obj\Debug\BitBalls.csprojResolveAssemblyReference.cache
+C:\Users\EnikA\Desktop\ExamTasks\BitBalls\obj\Debug\BitBalls.exe
+C:\Users\EnikA\Desktop\ExamTasks\BitBalls\obj\Debug\BitBalls.pdb
+C:\Users\kichev\Desktop\Course\Preparing for the exam\AngryBitsBitBall\ExamTasks\BitBalls\bin\Debug\BitBalls.exe.config
+C:\Users\kichev\Desktop\Course\Preparing for the exam\AngryBitsBitBall\ExamTasks\BitBalls\obj\Debug\BitBalls.exe
+C:\Users\kichev\Desktop\Course\Preparing for the exam\AngryBitsBitBall\ExamTasks\BitBalls\obj\Debug\BitBalls.pdb

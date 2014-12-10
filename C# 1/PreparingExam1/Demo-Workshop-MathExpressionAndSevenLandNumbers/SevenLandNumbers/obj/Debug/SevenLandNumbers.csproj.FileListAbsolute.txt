@@ -1,0 +1,5 @@
+C:\Users\academy\Desktop\Workshop\If-else\Subo\MathExpression\SevenLandNumbers\bin\Debug\SevenLandNumbers.exe.config
+C:\Users\academy\Desktop\Workshop\If-else\Subo\MathExpression\SevenLandNumbers\bin\Debug\SevenLandNumbers.exe
+C:\Users\academy\Desktop\Workshop\If-else\Subo\MathExpression\SevenLandNumbers\bin\Debug\SevenLandNumbers.pdb
+C:\Users\academy\Desktop\Workshop\If-else\Subo\MathExpression\SevenLandNumbers\obj\Debug\SevenLandNumbers.exe
+C:\Users\academy\Desktop\Workshop\If-else\Subo\MathExpression\SevenLandNumbers\obj\Debug\SevenLandNumbers.pdb

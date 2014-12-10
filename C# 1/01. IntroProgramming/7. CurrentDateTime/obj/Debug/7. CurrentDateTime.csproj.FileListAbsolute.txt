@@ -1,0 +1,4 @@
+c:\users\kichev\documents\visual studio 2012\Projects\1. IntroProgramming\7. CurrentDateTime\bin\Debug\_7.CurrentDateTime.exe
+c:\users\kichev\documents\visual studio 2012\Projects\1. IntroProgramming\7. CurrentDateTime\bin\Debug\_7.CurrentDateTime.pdb
+c:\users\kichev\documents\visual studio 2012\Projects\1. IntroProgramming\7. CurrentDateTime\obj\Debug\_7.CurrentDateTime.exe
+c:\users\kichev\documents\visual studio 2012\Projects\1. IntroProgramming\7. CurrentDateTime\obj\Debug\_7.CurrentDateTime.pdb

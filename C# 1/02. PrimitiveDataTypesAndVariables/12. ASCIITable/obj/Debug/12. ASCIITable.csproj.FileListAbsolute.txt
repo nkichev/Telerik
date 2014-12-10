@@ -1,0 +1,8 @@
+C:\Users\kichev\Desktop\02. PrimitiveDataTypesAndVariables\12. ASCIITable\bin\Debug\_12.ASCIITable.exe.config
+C:\Users\kichev\Desktop\02. PrimitiveDataTypesAndVariables\12. ASCIITable\bin\Debug\_12.ASCIITable.exe
+C:\Users\kichev\Desktop\02. PrimitiveDataTypesAndVariables\12. ASCIITable\bin\Debug\_12.ASCIITable.pdb
+C:\Users\kichev\Desktop\02. PrimitiveDataTypesAndVariables\12. ASCIITable\obj\Debug\_12.ASCIITable.exe
+C:\Users\kichev\Desktop\02. PrimitiveDataTypesAndVariables\12. ASCIITable\obj\Debug\_12.ASCIITable.pdb
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\02. PrimitiveDataTypesAndVariables\12. ASCIITable\bin\Debug\_12.ASCIITable.exe.config
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\02. PrimitiveDataTypesAndVariables\12. ASCIITable\obj\Debug\_12.ASCIITable.exe
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\02. PrimitiveDataTypesAndVariables\12. ASCIITable\obj\Debug\_12.ASCIITable.pdb

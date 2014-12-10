@@ -1,0 +1,5 @@
+D:\Projects\06. Loops\10. CatalanNumber\bin\Debug\_10.CatalanNumber.exe.config
+D:\Projects\06. Loops\10. CatalanNumber\bin\Debug\_10.CatalanNumber.exe
+D:\Projects\06. Loops\10. CatalanNumber\bin\Debug\_10.CatalanNumber.pdb
+D:\Projects\06. Loops\10. CatalanNumber\obj\Debug\_10.CatalanNumber.exe
+D:\Projects\06. Loops\10. CatalanNumber\obj\Debug\_10.CatalanNumber.pdb

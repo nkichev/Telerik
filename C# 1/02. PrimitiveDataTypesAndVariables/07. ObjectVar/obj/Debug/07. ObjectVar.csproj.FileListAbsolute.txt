@@ -1,0 +1,8 @@
+C:\Users\kichev\Desktop\02. PrimitiveDataTypesAndVariables\07. ObjectVar\bin\Debug\_07.ObjectVar.exe.config
+C:\Users\kichev\Desktop\02. PrimitiveDataTypesAndVariables\07. ObjectVar\bin\Debug\_07.ObjectVar.exe
+C:\Users\kichev\Desktop\02. PrimitiveDataTypesAndVariables\07. ObjectVar\bin\Debug\_07.ObjectVar.pdb
+C:\Users\kichev\Desktop\02. PrimitiveDataTypesAndVariables\07. ObjectVar\obj\Debug\_07.ObjectVar.exe
+C:\Users\kichev\Desktop\02. PrimitiveDataTypesAndVariables\07. ObjectVar\obj\Debug\_07.ObjectVar.pdb
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\02. PrimitiveDataTypesAndVariables\07. ObjectVar\bin\Debug\_07.ObjectVar.exe.config
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\02. PrimitiveDataTypesAndVariables\07. ObjectVar\obj\Debug\_07.ObjectVar.exe
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\02. PrimitiveDataTypesAndVariables\07. ObjectVar\obj\Debug\_07.ObjectVar.pdb

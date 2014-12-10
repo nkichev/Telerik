@@ -1,0 +1,9 @@
+D:\Projects\06. Loops\14. Spiral\bin\Debug\_14.Spiral.exe.config
+D:\Projects\06. Loops\14. Spiral\bin\Debug\_14.Spiral.exe
+D:\Projects\06. Loops\14. Spiral\bin\Debug\_14.Spiral.pdb
+D:\Projects\06. Loops\14. Spiral\obj\Debug\_14.Spiral.exe
+D:\Projects\06. Loops\14. Spiral\obj\Debug\_14.Spiral.pdb
+D:\Projects\06. Loops\14. Spiral\obj\Debug\14. Spiral.csprojResolveAssemblyReference.cache
+D:\Projects\C# 1\06. Loops\14. Spiral\bin\Debug\_14.Spiral.exe.config
+D:\Projects\C# 1\06. Loops\14. Spiral\obj\Debug\_14.Spiral.exe
+D:\Projects\C# 1\06. Loops\14. Spiral\obj\Debug\_14.Spiral.pdb

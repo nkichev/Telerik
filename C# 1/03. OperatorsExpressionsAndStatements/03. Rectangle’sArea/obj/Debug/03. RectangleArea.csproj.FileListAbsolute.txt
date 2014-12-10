@@ -1,0 +1,5 @@
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\03. Rectangle’sArea\bin\Debug\_03.Rectangle_sArea.exe.config
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\03. Rectangle’sArea\bin\Debug\_03.Rectangle_sArea.exe
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\03. Rectangle’sArea\bin\Debug\_03.Rectangle_sArea.pdb
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\03. Rectangle’sArea\obj\Debug\_03.Rectangle_sArea.exe
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\03. Rectangle’sArea\obj\Debug\_03.Rectangle_sArea.pdb

@@ -1,0 +1,5 @@
+c:\users\kichev\documents\visual studio 2012\Projects\1. IntroProgramming\2. HelloCSharp\bin\Debug\_2.HelloCSharp.exe
+c:\users\kichev\documents\visual studio 2012\Projects\1. IntroProgramming\2. HelloCSharp\bin\Debug\_2.HelloCSharp.pdb
+c:\users\kichev\documents\visual studio 2012\Projects\1. IntroProgramming\2. HelloCSharp\obj\Debug\2. HelloCSharp.csprojResolveAssemblyReference.cache
+c:\users\kichev\documents\visual studio 2012\Projects\1. IntroProgramming\2. HelloCSharp\obj\Debug\_2.HelloCSharp.exe
+c:\users\kichev\documents\visual studio 2012\Projects\1. IntroProgramming\2. HelloCSharp\obj\Debug\_2.HelloCSharp.pdb

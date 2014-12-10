@@ -1,0 +1,6 @@
+C:\Users\academy\Desktop\Workshop\If-else\Evlogi\Coordinates\FighterAttack\bin\Debug\FighterAttack.exe.config
+C:\Users\academy\Desktop\Workshop\If-else\Evlogi\Coordinates\FighterAttack\bin\Debug\FighterAttack.exe
+C:\Users\academy\Desktop\Workshop\If-else\Evlogi\Coordinates\FighterAttack\bin\Debug\FighterAttack.pdb
+C:\Users\academy\Desktop\Workshop\If-else\Evlogi\Coordinates\FighterAttack\obj\Debug\FighterAttack.csprojResolveAssemblyReference.cache
+C:\Users\academy\Desktop\Workshop\If-else\Evlogi\Coordinates\FighterAttack\obj\Debug\FighterAttack.exe
+C:\Users\academy\Desktop\Workshop\If-else\Evlogi\Coordinates\FighterAttack\obj\Debug\FighterAttack.pdb

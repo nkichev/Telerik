@@ -1,0 +1,12 @@
+C:\Users\academy\Desktop\Workshop\If-else\Subo\MathExpression\MathExpression\bin\Debug\MathExpression.exe.config
+C:\Users\academy\Desktop\Workshop\If-else\Subo\MathExpression\MathExpression\bin\Debug\MathExpression.exe
+C:\Users\academy\Desktop\Workshop\If-else\Subo\MathExpression\MathExpression\bin\Debug\MathExpression.pdb
+C:\Users\academy\Desktop\Workshop\If-else\Subo\MathExpression\MathExpression\obj\Debug\MathExpression.csprojResolveAssemblyReference.cache
+C:\Users\academy\Desktop\Workshop\If-else\Subo\MathExpression\MathExpression\obj\Debug\MathExpression.exe
+C:\Users\academy\Desktop\Workshop\If-else\Subo\MathExpression\MathExpression\obj\Debug\MathExpression.pdb
+C:\Users\kichev\Desktop\Demo-Workshop-MathExpressionAndSevenLandNumbers\MathExpression\bin\Debug\MathExpression.exe.config
+C:\Users\kichev\Desktop\Demo-Workshop-MathExpressionAndSevenLandNumbers\MathExpression\obj\Debug\MathExpression.exe
+C:\Users\kichev\Desktop\Demo-Workshop-MathExpressionAndSevenLandNumbers\MathExpression\obj\Debug\MathExpression.pdb
+C:\Users\kichev\Desktop\Preparing for the exam\Demo-Workshop-MathExpressionAndSevenLandNumbers\MathExpression\bin\Debug\MathExpression.exe.config
+C:\Users\kichev\Desktop\Preparing for the exam\Demo-Workshop-MathExpressionAndSevenLandNumbers\MathExpression\obj\Debug\MathExpression.exe
+C:\Users\kichev\Desktop\Preparing for the exam\Demo-Workshop-MathExpressionAndSevenLandNumbers\MathExpression\obj\Debug\MathExpression.pdb

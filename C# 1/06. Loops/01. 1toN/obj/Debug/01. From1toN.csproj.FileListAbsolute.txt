@@ -1,0 +1,9 @@
+D:\Projects\06. Loops\01. 1toN\bin\Debug\01. 1toN.exe.config
+D:\Projects\06. Loops\01. 1toN\bin\Debug\01. 1toN.exe
+D:\Projects\06. Loops\01. 1toN\bin\Debug\01. 1toN.pdb
+D:\Projects\06. Loops\01. 1toN\obj\Debug\01. From1toN.csprojResolveAssemblyReference.cache
+D:\Projects\06. Loops\01. 1toN\obj\Debug\01. 1toN.exe
+D:\Projects\06. Loops\01. 1toN\obj\Debug\01. 1toN.pdb
+D:\Projects\C# 1\06. Loops\01. 1toN\bin\Debug\01. 1toN.exe.config
+D:\Projects\C# 1\06. Loops\01. 1toN\obj\Debug\01. 1toN.exe
+D:\Projects\C# 1\06. Loops\01. 1toN\obj\Debug\01. 1toN.pdb

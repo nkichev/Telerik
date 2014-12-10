@@ -1,0 +1,6 @@
+D:\Projects\PreparingExam\Least Majority Multiple\bin\Debug\Least Majority Multiple.exe.config
+D:\Projects\PreparingExam\Least Majority Multiple\bin\Debug\Least Majority Multiple.exe
+D:\Projects\PreparingExam\Least Majority Multiple\bin\Debug\Least Majority Multiple.pdb
+D:\Projects\PreparingExam\Least Majority Multiple\obj\Debug\Least Majority Multiple.csprojResolveAssemblyReference.cache
+D:\Projects\PreparingExam\Least Majority Multiple\obj\Debug\Least Majority Multiple.exe
+D:\Projects\PreparingExam\Least Majority Multiple\obj\Debug\Least Majority Multiple.pdb

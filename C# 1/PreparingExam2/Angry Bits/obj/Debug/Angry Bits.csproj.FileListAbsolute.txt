@@ -1,0 +1,6 @@
+D:\Projects\PreparingExam\Angry Bits\bin\Debug\Angry Bits.exe.config
+D:\Projects\PreparingExam\Angry Bits\bin\Debug\Angry Bits.exe
+D:\Projects\PreparingExam\Angry Bits\bin\Debug\Angry Bits.pdb
+D:\Projects\PreparingExam\Angry Bits\obj\Debug\Angry Bits.csprojResolveAssemblyReference.cache
+D:\Projects\PreparingExam\Angry Bits\obj\Debug\Angry Bits.exe
+D:\Projects\PreparingExam\Angry Bits\obj\Debug\Angry Bits.pdb

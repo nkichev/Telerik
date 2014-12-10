@@ -1,0 +1,5 @@
+D:\Projects\06. Loops\04. NAndK\bin\Debug\_04.NAndK.exe.config
+D:\Projects\06. Loops\04. NAndK\bin\Debug\_04.NAndK.exe
+D:\Projects\06. Loops\04. NAndK\bin\Debug\_04.NAndK.pdb
+D:\Projects\06. Loops\04. NAndK\obj\Debug\_04.NAndK.exe
+D:\Projects\06. Loops\04. NAndK\obj\Debug\_04.NAndK.pdb

@@ -1,0 +1,6 @@
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\06. IsWithinACircle\bin\Debug\_06.IsWithinACircle.exe.config
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\06. IsWithinACircle\bin\Debug\_06.IsWithinACircle.exe
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\06. IsWithinACircle\bin\Debug\_06.IsWithinACircle.pdb
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\06. IsWithinACircle\obj\Debug\06. IsWithinACircle.csprojResolveAssemblyReference.cache
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\06. IsWithinACircle\obj\Debug\_06.IsWithinACircle.exe
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\06. IsWithinACircle\obj\Debug\_06.IsWithinACircle.pdb

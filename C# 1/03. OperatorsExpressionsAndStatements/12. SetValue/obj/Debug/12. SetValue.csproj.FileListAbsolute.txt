@@ -1,0 +1,5 @@
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\12. SetValue\bin\Debug\_12.SetValue.exe.config
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\12. SetValue\bin\Debug\_12.SetValue.exe
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\12. SetValue\bin\Debug\_12.SetValue.pdb
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\12. SetValue\obj\Debug\_12.SetValue.exe
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\12. SetValue\obj\Debug\_12.SetValue.pdb

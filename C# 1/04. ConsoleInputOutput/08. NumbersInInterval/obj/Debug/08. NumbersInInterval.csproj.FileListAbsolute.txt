@@ -1,0 +1,8 @@
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\4. ConsoleInputOutput\08. NumbersInInterval\bin\Debug\_08.NumbersInInterval.exe.config
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\4. ConsoleInputOutput\08. NumbersInInterval\bin\Debug\_08.NumbersInInterval.exe
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\4. ConsoleInputOutput\08. NumbersInInterval\bin\Debug\_08.NumbersInInterval.pdb
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\4. ConsoleInputOutput\08. NumbersInInterval\obj\Debug\_08.NumbersInInterval.exe
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\4. ConsoleInputOutput\08. NumbersInInterval\obj\Debug\_08.NumbersInInterval.pdb
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\04. ConsoleInputOutput\08. NumbersInInterval\bin\Debug\_08.NumbersInInterval.exe.config
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\04. ConsoleInputOutput\08. NumbersInInterval\obj\Debug\_08.NumbersInInterval.exe
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\04. ConsoleInputOutput\08. NumbersInInterval\obj\Debug\_08.NumbersInInterval.pdb

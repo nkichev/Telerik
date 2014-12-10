@@ -1,0 +1,6 @@
+D:\Projects\05. ConditionalStatements\02. PlusOrMinus\bin\Debug\_02.PlusOrMinus.exe.config
+D:\Projects\05. ConditionalStatements\02. PlusOrMinus\bin\Debug\_02.PlusOrMinus.exe
+D:\Projects\05. ConditionalStatements\02. PlusOrMinus\bin\Debug\_02.PlusOrMinus.pdb
+D:\Projects\05. ConditionalStatements\02. PlusOrMinus\obj\Debug\02. PlusOrMinus.csprojResolveAssemblyReference.cache
+D:\Projects\05. ConditionalStatements\02. PlusOrMinus\obj\Debug\_02.PlusOrMinus.exe
+D:\Projects\05. ConditionalStatements\02. PlusOrMinus\obj\Debug\_02.PlusOrMinus.pdb

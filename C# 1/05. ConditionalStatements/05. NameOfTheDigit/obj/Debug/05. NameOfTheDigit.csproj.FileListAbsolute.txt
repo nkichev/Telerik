@@ -1,0 +1,9 @@
+D:\Projects\05. ConditionalStatements\05. NameOfTheDigit\bin\Debug\_05.NameOfTheDigit.exe.config
+D:\Projects\05. ConditionalStatements\05. NameOfTheDigit\bin\Debug\_05.NameOfTheDigit.exe
+D:\Projects\05. ConditionalStatements\05. NameOfTheDigit\bin\Debug\_05.NameOfTheDigit.pdb
+D:\Projects\05. ConditionalStatements\05. NameOfTheDigit\obj\Debug\05. NameOfTheDigit.csprojResolveAssemblyReference.cache
+D:\Projects\05. ConditionalStatements\05. NameOfTheDigit\obj\Debug\_05.NameOfTheDigit.exe
+D:\Projects\05. ConditionalStatements\05. NameOfTheDigit\obj\Debug\_05.NameOfTheDigit.pdb
+D:\Projects\C# 1\05. ConditionalStatements\05. NameOfTheDigit\bin\Debug\_05.NameOfTheDigit.exe.config
+D:\Projects\C# 1\05. ConditionalStatements\05. NameOfTheDigit\obj\Debug\_05.NameOfTheDigit.exe
+D:\Projects\C# 1\05. ConditionalStatements\05. NameOfTheDigit\obj\Debug\_05.NameOfTheDigit.pdb

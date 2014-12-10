@@ -1,0 +1,6 @@
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\05. ThirdBit\bin\Debug\_05.ThirdBit.exe.config
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\05. ThirdBit\obj\Debug\05. ThirdBit.csprojResolveAssemblyReference.cache
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\05. ThirdBit\bin\Debug\_05.ThirdBit.exe
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\05. ThirdBit\bin\Debug\_05.ThirdBit.pdb
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\05. ThirdBit\obj\Debug\_05.ThirdBit.exe
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\05. ThirdBit\obj\Debug\_05.ThirdBit.pdb

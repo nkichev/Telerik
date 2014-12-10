@@ -1,0 +1,5 @@
+C:\Workshop\DancingBits\SheetsVariant2\bin\Debug\SheetsVariant2.exe.config
+C:\Workshop\DancingBits\SheetsVariant2\bin\Debug\SheetsVariant2.exe
+C:\Workshop\DancingBits\SheetsVariant2\bin\Debug\SheetsVariant2.pdb
+C:\Workshop\DancingBits\SheetsVariant2\obj\Debug\SheetsVariant2.exe
+C:\Workshop\DancingBits\SheetsVariant2\obj\Debug\SheetsVariant2.pdb

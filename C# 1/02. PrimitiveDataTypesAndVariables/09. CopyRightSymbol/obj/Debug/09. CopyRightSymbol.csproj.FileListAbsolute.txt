@@ -1,0 +1,8 @@
+C:\Users\kichev\Desktop\02. PrimitiveDataTypesAndVariables\09. CopyRightSymbol\bin\Debug\_09.CopyRightSymbol.exe.config
+C:\Users\kichev\Desktop\02. PrimitiveDataTypesAndVariables\09. CopyRightSymbol\bin\Debug\_09.CopyRightSymbol.exe
+C:\Users\kichev\Desktop\02. PrimitiveDataTypesAndVariables\09. CopyRightSymbol\bin\Debug\_09.CopyRightSymbol.pdb
+C:\Users\kichev\Desktop\02. PrimitiveDataTypesAndVariables\09. CopyRightSymbol\obj\Debug\_09.CopyRightSymbol.exe
+C:\Users\kichev\Desktop\02. PrimitiveDataTypesAndVariables\09. CopyRightSymbol\obj\Debug\_09.CopyRightSymbol.pdb
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\02. PrimitiveDataTypesAndVariables\09. CopyRightSymbol\bin\Debug\_09.CopyRightSymbol.exe.config
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\02. PrimitiveDataTypesAndVariables\09. CopyRightSymbol\obj\Debug\_09.CopyRightSymbol.exe
+C:\Users\kichev\Documents\Visual Studio 2012\Projects\02. PrimitiveDataTypesAndVariables\09. CopyRightSymbol\obj\Debug\_09.CopyRightSymbol.pdb

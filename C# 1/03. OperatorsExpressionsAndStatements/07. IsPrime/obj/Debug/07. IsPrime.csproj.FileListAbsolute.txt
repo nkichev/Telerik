@@ -1,0 +1,5 @@
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\07. IsPrime\bin\Debug\_07.IsPrime.exe.config
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\07. IsPrime\bin\Debug\_07.IsPrime.exe
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\07. IsPrime\bin\Debug\_07.IsPrime.pdb
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\07. IsPrime\obj\Debug\_07.IsPrime.exe
+C:\Users\kichev\Desktop\3. OperatorsExpressionsAndStatements\07. IsPrime\obj\Debug\_07.IsPrime.pdb

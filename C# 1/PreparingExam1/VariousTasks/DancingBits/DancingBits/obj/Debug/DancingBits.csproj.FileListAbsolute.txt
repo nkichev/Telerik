@@ -1,0 +1,6 @@
+C:\Workshop\DancingBits\DancingBits\bin\Debug\DancingBits.exe.config
+C:\Workshop\DancingBits\DancingBits\obj\Debug\DancingBits.csprojResolveAssemblyReference.cache
+C:\Workshop\DancingBits\DancingBits\bin\Debug\DancingBits.exe
+C:\Workshop\DancingBits\DancingBits\bin\Debug\DancingBits.pdb
+C:\Workshop\DancingBits\DancingBits\obj\Debug\DancingBits.exe
+C:\Workshop\DancingBits\DancingBits\obj\Debug\DancingBits.pdb

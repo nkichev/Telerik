@@ -1,0 +1,4 @@
+c:\users\kichev\documents\visual studio 2012\Projects\1. IntroProgramming\6. PrintFirstAndLastName\bin\Debug\_6.PrintFirstAndLastName.exe
+c:\users\kichev\documents\visual studio 2012\Projects\1. IntroProgramming\6. PrintFirstAndLastName\bin\Debug\_6.PrintFirstAndLastName.pdb
+c:\users\kichev\documents\visual studio 2012\Projects\1. IntroProgramming\6. PrintFirstAndLastName\obj\Debug\_6.PrintFirstAndLastName.exe
+c:\users\kichev\documents\visual studio 2012\Projects\1. IntroProgramming\6. PrintFirstAndLastName\obj\Debug\_6.PrintFirstAndLastName.pdb
