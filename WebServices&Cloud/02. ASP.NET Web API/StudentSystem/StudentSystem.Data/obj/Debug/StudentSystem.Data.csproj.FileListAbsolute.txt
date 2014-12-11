@@ -1,0 +1,12 @@
+D:\nikiProjects\StudentSystem.Data\bin\Debug\StudentSystem.Data.dll.config
+D:\nikiProjects\StudentSystem.Data\bin\Debug\StudentSystem.Data.dll
+D:\nikiProjects\StudentSystem.Data\bin\Debug\StudentSystem.Data.pdb
+D:\nikiProjects\StudentSystem.Data\bin\Debug\EntityFramework.dll
+D:\nikiProjects\StudentSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\nikiProjects\StudentSystem.Data\bin\Debug\StudentSystem.Models.dll
+D:\nikiProjects\StudentSystem.Data\bin\Debug\StudentSystem.Models.pdb
+D:\nikiProjects\StudentSystem.Data\bin\Debug\EntityFramework.xml
+D:\nikiProjects\StudentSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\nikiProjects\StudentSystem.Data\obj\Debug\StudentSystem.Data.csprojResolveAssemblyReference.cache
+D:\nikiProjects\StudentSystem.Data\obj\Debug\StudentSystem.Data.dll
+D:\nikiProjects\StudentSystem.Data\obj\Debug\StudentSystem.Data.pdb
