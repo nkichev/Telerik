@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Points", "Points\Points.csproj", "{9DF2829E-7DE9-4DB6-AF83-115A57E6C81E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericList", "GenericList\GenericList.csproj", "{AF293F4A-71B1-481C-8BE2-ECD5D023064A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrix", "Matrix\Matrix.csproj", "{2D82AEB9-481B-4776-90F1-947473C103FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DF2829E-7DE9-4DB6-AF83-115A57E6C81E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DF2829E-7DE9-4DB6-AF83-115A57E6C81E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DF2829E-7DE9-4DB6-AF83-115A57E6C81E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DF2829E-7DE9-4DB6-AF83-115A57E6C81E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF293F4A-71B1-481C-8BE2-ECD5D023064A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF293F4A-71B1-481C-8BE2-ECD5D023064A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF293F4A-71B1-481C-8BE2-ECD5D023064A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF293F4A-71B1-481C-8BE2-ECD5D023064A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D82AEB9-481B-4776-90F1-947473C103FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D82AEB9-481B-4776-90F1-947473C103FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D82AEB9-481B-4776-90F1-947473C103FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D82AEB9-481B-4776-90F1-947473C103FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

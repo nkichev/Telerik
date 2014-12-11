@@ -1,0 +1,5 @@
+D:\Projects\OOP\06.CommonTypeSystem\02.Person\bin\Debug\02.Person.exe.config
+D:\Projects\OOP\06.CommonTypeSystem\02.Person\bin\Debug\02.Person.exe
+D:\Projects\OOP\06.CommonTypeSystem\02.Person\bin\Debug\02.Person.pdb
+D:\Projects\OOP\06.CommonTypeSystem\02.Person\obj\Debug\02.Person.exe
+D:\Projects\OOP\06.CommonTypeSystem\02.Person\obj\Debug\02.Person.pdb

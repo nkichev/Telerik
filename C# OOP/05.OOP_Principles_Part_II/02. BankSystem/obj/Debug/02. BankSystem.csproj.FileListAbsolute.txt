@@ -1,0 +1,6 @@
+D:\Projects\OOP\05.OOP_Principles_Part_II\02. BankSystem\bin\Debug\_02.BankSystem.exe.config
+D:\Projects\OOP\05.OOP_Principles_Part_II\02. BankSystem\bin\Debug\_02.BankSystem.exe
+D:\Projects\OOP\05.OOP_Principles_Part_II\02. BankSystem\bin\Debug\_02.BankSystem.pdb
+D:\Projects\OOP\05.OOP_Principles_Part_II\02. BankSystem\obj\Debug\02. BankSystem.csprojResolveAssemblyReference.cache
+D:\Projects\OOP\05.OOP_Principles_Part_II\02. BankSystem\obj\Debug\_02.BankSystem.exe
+D:\Projects\OOP\05.OOP_Principles_Part_II\02. BankSystem\obj\Debug\_02.BankSystem.pdb

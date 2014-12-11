@@ -1,0 +1,8 @@
+C:\Users\kichev\Desktop\01.Defining_Classes_Part_I\Defining_Classes_Part_I\bin\Debug\Defining_Classes_Part_I.exe.config
+C:\Users\kichev\Desktop\01.Defining_Classes_Part_I\Defining_Classes_Part_I\bin\Debug\Defining_Classes_Part_I.exe
+C:\Users\kichev\Desktop\01.Defining_Classes_Part_I\Defining_Classes_Part_I\bin\Debug\Defining_Classes_Part_I.pdb
+C:\Users\kichev\Desktop\01.Defining_Classes_Part_I\Defining_Classes_Part_I\obj\Debug\Defining_Classes_Part_I.exe
+C:\Users\kichev\Desktop\01.Defining_Classes_Part_I\Defining_Classes_Part_I\obj\Debug\Defining_Classes_Part_I.pdb
+D:\Projects\OOP\01.Defining_Classes_Part_I\Defining_Classes_Part_I\bin\Debug\Defining_Classes_Part_I.exe.config
+D:\Projects\OOP\01.Defining_Classes_Part_I\Defining_Classes_Part_I\obj\Debug\Defining_Classes_Part_I.exe
+D:\Projects\OOP\01.Defining_Classes_Part_I\Defining_Classes_Part_I\obj\Debug\Defining_Classes_Part_I.pdb

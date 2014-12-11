@@ -1,0 +1,5 @@
+D:\Projects\OOP\05.OOP_Principles_Part_II\03. InvalidRangeException\bin\Debug\_03.InvalidRangeException.exe.config
+D:\Projects\OOP\05.OOP_Principles_Part_II\03. InvalidRangeException\bin\Debug\_03.InvalidRangeException.exe
+D:\Projects\OOP\05.OOP_Principles_Part_II\03. InvalidRangeException\bin\Debug\_03.InvalidRangeException.pdb
+D:\Projects\OOP\05.OOP_Principles_Part_II\03. InvalidRangeException\obj\Debug\_03.InvalidRangeException.exe
+D:\Projects\OOP\05.OOP_Principles_Part_II\03. InvalidRangeException\obj\Debug\_03.InvalidRangeException.pdb

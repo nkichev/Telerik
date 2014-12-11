@@ -1,0 +1,5 @@
+D:\Projects\OOP\03.Extension_Methods_Delegates_Lambda_LINQ\06.AllNumsDivBy7and3\bin\Debug\06.AllNumsDivBy7and3.exe.config
+D:\Projects\OOP\03.Extension_Methods_Delegates_Lambda_LINQ\06.AllNumsDivBy7and3\bin\Debug\06.AllNumsDivBy7and3.exe
+D:\Projects\OOP\03.Extension_Methods_Delegates_Lambda_LINQ\06.AllNumsDivBy7and3\bin\Debug\06.AllNumsDivBy7and3.pdb
+D:\Projects\OOP\03.Extension_Methods_Delegates_Lambda_LINQ\06.AllNumsDivBy7and3\obj\Debug\06.AllNumsDivBy7and3.exe
+D:\Projects\OOP\03.Extension_Methods_Delegates_Lambda_LINQ\06.AllNumsDivBy7and3\obj\Debug\06.AllNumsDivBy7and3.pdb

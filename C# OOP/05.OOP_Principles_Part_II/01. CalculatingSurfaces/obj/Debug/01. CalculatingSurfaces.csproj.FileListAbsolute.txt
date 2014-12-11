@@ -1,0 +1,7 @@
+D:\Projects\OOP\05.OOP_Principles_Part_II\01. CalculatingSurfaces\bin\Debug\_01.CalculatingSurfaces.exe.config
+D:\Projects\OOP\05.OOP_Principles_Part_II\01. CalculatingSurfaces\bin\Debug\_01.CalculatingSurfaces.exe
+D:\Projects\OOP\05.OOP_Principles_Part_II\01. CalculatingSurfaces\bin\Debug\_01.CalculatingSurfaces.pdb
+D:\Projects\OOP\05.OOP_Principles_Part_II\01. CalculatingSurfaces\obj\Debug\01. CalculatingSurfaces.csprojResolveAssemblyReference.cache
+D:\Projects\OOP\05.OOP_Principles_Part_II\01. CalculatingSurfaces\obj\Debug\_01.CalculatingSurfaces.exe
+D:\Projects\OOP\05.OOP_Principles_Part_II\01. CalculatingSurfaces\obj\Debug\_01.CalculatingSurfaces.pdb
+D:\Projects\OOP\05.OOP_Principles_Part_II\bin\Debug\_01.CalculatingSurfaces.exe.config

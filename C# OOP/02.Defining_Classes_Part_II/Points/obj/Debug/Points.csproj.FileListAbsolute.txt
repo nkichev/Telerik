@@ -1,0 +1,8 @@
+D:\Projects\OOP\02.Defining_Classes_Part_II\Points\bin\Debug\Points.exe.config
+D:\Projects\OOP\02.Defining_Classes_Part_II\Points\bin\Debug\Points.exe
+D:\Projects\OOP\02.Defining_Classes_Part_II\Points\bin\Debug\Points.pdb
+D:\Projects\OOP\02.Defining_Classes_Part_II\Points\obj\Debug\Points.exe
+D:\Projects\OOP\02.Defining_Classes_Part_II\Points\obj\Debug\Points.pdb
+C:\Users\kichev\Desktop\02.Defining_Classes_Part_II\Points\bin\Debug\Points.exe.config
+C:\Users\kichev\Desktop\02.Defining_Classes_Part_II\Points\obj\Debug\Points.exe
+C:\Users\kichev\Desktop\02.Defining_Classes_Part_II\Points\obj\Debug\Points.pdb

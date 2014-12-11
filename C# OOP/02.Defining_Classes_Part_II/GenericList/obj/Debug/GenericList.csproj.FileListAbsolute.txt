@@ -1,0 +1,8 @@
+D:\Projects\OOP\02.Defining_Classes_Part_II\GenericList\bin\Debug\GenericList.exe.config
+D:\Projects\OOP\02.Defining_Classes_Part_II\GenericList\bin\Debug\GenericList.exe
+D:\Projects\OOP\02.Defining_Classes_Part_II\GenericList\bin\Debug\GenericList.pdb
+D:\Projects\OOP\02.Defining_Classes_Part_II\GenericList\obj\Debug\GenericList.exe
+D:\Projects\OOP\02.Defining_Classes_Part_II\GenericList\obj\Debug\GenericList.pdb
+C:\Users\kichev\Desktop\02.Defining_Classes_Part_II\GenericList\bin\Debug\GenericList.exe.config
+C:\Users\kichev\Desktop\02.Defining_Classes_Part_II\GenericList\obj\Debug\GenericList.exe
+C:\Users\kichev\Desktop\02.Defining_Classes_Part_II\GenericList\obj\Debug\GenericList.pdb

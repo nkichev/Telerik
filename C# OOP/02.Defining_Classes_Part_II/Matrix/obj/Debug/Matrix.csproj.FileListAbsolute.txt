@@ -1,0 +1,8 @@
+D:\Projects\OOP\02.Defining_Classes_Part_II\Matrix\bin\Debug\Matrix.exe.config
+D:\Projects\OOP\02.Defining_Classes_Part_II\Matrix\bin\Debug\Matrix.exe
+D:\Projects\OOP\02.Defining_Classes_Part_II\Matrix\bin\Debug\Matrix.pdb
+D:\Projects\OOP\02.Defining_Classes_Part_II\Matrix\obj\Debug\Matrix.exe
+D:\Projects\OOP\02.Defining_Classes_Part_II\Matrix\obj\Debug\Matrix.pdb
+C:\Users\kichev\Desktop\02.Defining_Classes_Part_II\Matrix\bin\Debug\Matrix.exe.config
+C:\Users\kichev\Desktop\02.Defining_Classes_Part_II\Matrix\obj\Debug\Matrix.exe
+C:\Users\kichev\Desktop\02.Defining_Classes_Part_II\Matrix\obj\Debug\Matrix.pdb

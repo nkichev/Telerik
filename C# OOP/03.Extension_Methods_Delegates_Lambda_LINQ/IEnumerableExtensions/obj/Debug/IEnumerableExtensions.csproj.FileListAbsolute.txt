@@ -1,0 +1,6 @@
+D:\Projects\OOP\03.Extension_Methods_Delegates_Lambda_LINQ\IEnumerableExtensions\bin\Debug\IEnumerableExtensions.exe.config
+D:\Projects\OOP\03.Extension_Methods_Delegates_Lambda_LINQ\IEnumerableExtensions\bin\Debug\IEnumerableExtensions.exe
+D:\Projects\OOP\03.Extension_Methods_Delegates_Lambda_LINQ\IEnumerableExtensions\bin\Debug\IEnumerableExtensions.pdb
+D:\Projects\OOP\03.Extension_Methods_Delegates_Lambda_LINQ\IEnumerableExtensions\obj\Debug\IEnumerableExtensions.csprojResolveAssemblyReference.cache
+D:\Projects\OOP\03.Extension_Methods_Delegates_Lambda_LINQ\IEnumerableExtensions\obj\Debug\IEnumerableExtensions.exe
+D:\Projects\OOP\03.Extension_Methods_Delegates_Lambda_LINQ\IEnumerableExtensions\obj\Debug\IEnumerableExtensions.pdb
