@@ -1,0 +1,212 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        // 01. Write functions for working with shapes in  standard Planar coordinate system
+        // Points are represented by coordinates P(X, Y)
+        // Lines are represented by two points, marking their beginning and ending
+        // L(P1(X1,Y1), P2(X2,Y2))
+        // Calculate the distance between two points
+        // Check if three segment lines can form a triangle
+
+        function calcDistanceTwoPoints(firstPoint, secondPoint) {
+            var distance = Math.sqrt(Math.pow(secondPoint.x - firstPoint.x, 2) + Math.pow(secondPoint.y - firstPoint.y, 2));
+
+            return distance;
+        }
+
+        function checkIfCanFormTriangle(firstLine, secondLine, thirdLine) {
+            var canFormTriangle = false;
+            var firstLineLength = calcDistanceTwoPoints(firstLine.start, firstLine.end);
+            var secondLineLength = calcDistanceTwoPoints(secondLine.start, secondLine.end);
+            var thirdLineLength = calcDistanceTwoPoints(thirdLine.start, thirdLine.end);
+
+            if ((firstLineLength < (secondLineLength + thirdLineLength)) &&
+                (thirdLineLength < (secondLineLength + firstLineLength)) &&
+                (secondLineLength < (firstLineLength + thirdLineLength))) {
+
+                canFormTriangle = true;
+            }
+
+            return canFormTriangle;
+        }
+
+        var firstLine = {
+            start: { x: 3, y: 1 },
+            end: { x: 5, y: 1 }
+        };
+        var secondLine = {
+            start: { x: 1, y: 3 },
+            end: { x: 1, y: 5 }
+        };
+        var thirdLine = {
+            start: { x: 3, y: 4 },
+            end: { x: 3, y: 6 }
+        };
+
+
+        var distanceTwoPoints = calcDistanceTwoPoints(firstLine.start, firstLine.end);
+        var canFormTriangle = checkIfCanFormTriangle(firstLine, secondLine, thirdLine);
+
+        jsConsole.writeLine('The distance between points is : ' + distanceTwoPoints);
+        jsConsole.writeLine('Can firstLine, secondLine and thirdLine form triangle ? ' + canFormTriangle);
+
+        // 02. Write a function that removes all elements with a given value
+        // var arr = [1, 2, 1, 4, 1, 3, 4, 1, 111, 3, 2, 1, '1'];
+        // arr.remove(1); //arr = [2,4,3,4,111,3,2,'1'];
+        //
+        // Attach it to the array type
+        // Read about prototype and how to attach methods
+
+        if (!Array.prototype.remove) {
+            Array.prototype.remove = function (arr, valueToRemove) {
+                var newArr = [];
+
+                for (var i = 0; i < arr.length; i++) {
+                    if (arr[i] !== valueToRemove) {
+                        newArr.push(arr[i]);
+                    }
+                }
+
+                // Another way to do the trick
+                // for (var i = 0; i < arr.length; i++) {
+                //     if (arr[i] === valueToRemove) {
+                //         arr.splice(i, 1);
+                //         i--;
+                //     }
+                // }
+
+                return arr = newArr;
+            }
+        }
+
+        var arr = [1, 2, 1, 4, 1, 3, 4, 1, 1, 4, '1'];
+
+        var newArr = arr.remove(arr, 1);
+        jsConsole.writeLine(newArr);
+
+        // 03. Write a function that makes a deep copy of an object
+        // The function should work for both primitive and reference types
+
+        function deepCopy(target, copy) {
+            var copy = copy || {};
+
+            for (var i in target) {
+                if (typeof target[i] === 'object') {
+                    copy[i] = (target[i].constructor === Array) ? [] : {};
+                    deepCopy(target[i], copy[i]);
+                }
+                else {
+                    copy[i] = target[i];
+                }
+            }
+            return copy;
+        }
+
+        var gosho = {   
+            name: 'gosho',
+            age: '23'
+        };
+
+        var cloneGosho = deepCopy(gosho);
+
+        jsConsole.writeLine(cloneGosho.name);
+        jsConsole.writeLine(cloneGosho.age);
+
+        cloneGosho.age = 24;
+        jsConsole.writeLine(cloneGosho.age);
+
+        
+        // 04. Write a function that checks if a given object contains a given property
+        // var obj  = …;
+        // var hasProp = hasProperty(obj, 'length');
+
+        function hasProperty(obj, searchedProperty) {
+            var hasProp = false;
+            for (var objProperty in obj) {
+                if (objProperty === searchedProperty) {
+                    hasProp = true;
+                }
+            }
+
+            return hasProp;
+        }
+
+        var person = {
+            name: 'Ananas',
+            age: '23'
+        }
+
+        jsConsole.writeLine('Does \'person\' contains property \'name\' ? ' + hasProperty(person, 'name'));
+        jsConsole.writeLine('Does \'person\' contains property \'address\' ? ' + hasProperty(person, 'address'));
+
+        // 05. Write a function that finds the youngest person in a given array of persons and prints his/hers full name
+        // Each person have properties firstname, lastname and age, as shown:
+        // var persons = [
+        // { firstname : 'Gosho', lastname: 'Petrov', age: 32 }, 
+        // { firstname : 'Bay', lastname: 'Ivan', age: 81},… ]; 
+
+        function findYoungestPerson(persons) {
+            var ageOfYoungest = persons[0].age;
+            var index;
+
+            for (var i = 0; i < persons.length; i++) {
+                if (persons[i].age < ageOfYoungest) {
+                    ageOfYoungest = persons[i].age;
+                    index = i;
+                }
+            }
+            jsConsole.writeLine('The youngest person first name: ' + persons[index].firstname + ', last name:  ' + persons[index].lastname);
+        }
+
+        findYoungestPerson([
+            { firstname: 'gosho', lastname: 'petrov', age: 32 },
+            { firstname: 'ivan', lastname: 'dimitrov', age: 23 },
+            { firstname: 'dimitar', lastname: 'ivanov', age: 14 },
+            { firstname: 'peter', lastname: 'georgiev', age: 18 }]);
+
+        // 06. Write a function that groups an array of persons by age, first or last name. 
+        // The function must return an associative array, with keys - the groups, and values -arrays with persons in this groups
+        // Use function overloading (i.e. just one function)
+        // var persons = {…};
+        // var groupedByFname = group(persons, 'firstname');
+        // var groupedByAge = group(persons, 'age');
+
+        var persons = [
+            { firstname: 'ivan', lastname: 'dimitrov', age: 24 },
+            { firstname: 'nikola', lastname: 'ivanov', age: 23 },
+            { firstname: 'dinko', lastname: 'todorov', age: 23 },
+            { firstname: 'hristiqn', lastname: 'nikodimov', age: 26 }];
+
+        function groupPersons(array, groupBy) {
+            var grouped = {};
+
+            for (var index in array) {
+                var person = array[index];
+                var group = person[groupBy];
+
+                if (!grouped[group]) {
+                    grouped[group] = [];
+                }
+                grouped[group].push(person);
+            }
+            return grouped;
+        }
+
+        var groupedPersons = groupPersons(persons, 'age');
+
+        for (var i in groupedPersons) {
+            for (var j in groupedPersons[i]) {
+                var person = groupedPersons[i][j];
+                jsConsole.writeLine(person.firstname + ' ' + person.lastname + ' ' + person.age);
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Check If Contains Given Property</title>
+    <link rel="stylesheet" type="text/css" href="styles/js-console.css" />
+</head>
+<body>
+    <p><strong>Write a function that checks if a given object contains a given property</strong></p>
+    <label>Property:</label><input type="text" id="propName"/><span><strong>* Type a property name</strong></span><br />
+    <input type="submit" onclick="CkeckProperty()" value="Ckeck"/>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+
+        var person = {
+
+            firstName: 'Ivan',
+            lastName: 'Ivanov',
+            Age: 18,
+            toString: function () {
+
+                return 'Name: ' + this.firstName + ' ' + this.lastName + ' Age: ' + this.Age;
+
+            }
+        }
+
+        jsConsole.writeLine('Object:');
+        jsConsole.writeLine(person);
+        jsConsole.writeLine();
+        jsConsole.writeLine('Object Properties:');
+        PrintProperties(person);
+        jsConsole.writeLine();
+
+        function hasProperty(obj, property) {
+
+            if (obj.hasOwnProperty(property)) {
+
+                return true;
+
+            }
+
+            return false;
+        }
+        
+        function PrintProperties(obj) {
+
+            for (var propertyName in obj) {
+
+                jsConsole.writeLine('Property Name: ' + propertyName);
+
+            }
+
+        }
+
+        function CkeckProperty() {
+
+            var inputProperty = jsConsole.read('#propName');
+
+            var hasProp = hasProperty(person, inputProperty);
+
+            jsConsole.writeLine('Is the object has property ' + inputProperty + ' ?');
+            jsConsole.writeLine('Answer: ' + hasProp);
+
+        }
+        
+    </script>
+</body>
+</html>

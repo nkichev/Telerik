@@ -1,0 +1,4 @@
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\02. Canvas\02. DrawHouse\bin\_02.DrawHouse.dll
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\02. Canvas\02. DrawHouse\bin\_02.DrawHouse.pdb
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\02. Canvas\02. DrawHouse\obj\Debug\_02.DrawHouse.dll
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\02. Canvas\02. DrawHouse\obj\Debug\_02.DrawHouse.pdb

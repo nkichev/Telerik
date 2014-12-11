@@ -1,0 +1,5 @@
+E:\Projects\Telerik\JavaScript\JS Apps\HW\10. SPA-Applications-and-App-Architecture\10. SPA-Applications-and-App-Architecture\bin\_10.SPA_Applications_and_App_Architecture.dll
+E:\Projects\Telerik\JavaScript\JS Apps\HW\10. SPA-Applications-and-App-Architecture\10. SPA-Applications-and-App-Architecture\bin\_10.SPA_Applications_and_App_Architecture.pdb
+E:\Projects\Telerik\JavaScript\JS Apps\HW\10. SPA-Applications-and-App-Architecture\10. SPA-Applications-and-App-Architecture\obj\Debug\10. SPA-Applications-and-App-Architecture.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\JavaScript\JS Apps\HW\10. SPA-Applications-and-App-Architecture\10. SPA-Applications-and-App-Architecture\obj\Debug\_10.SPA_Applications_and_App_Architecture.dll
+E:\Projects\Telerik\JavaScript\JS Apps\HW\10. SPA-Applications-and-App-Architecture\10. SPA-Applications-and-App-Architecture\obj\Debug\_10.SPA_Applications_and_App_Architecture.pdb

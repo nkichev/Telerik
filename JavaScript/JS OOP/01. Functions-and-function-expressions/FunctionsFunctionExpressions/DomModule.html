@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <div id="content"></div>
+    <script src="scripts/domModule.js"></script>
+    <script>
+        var btn = document.createElement('button');
+        btn.style.width = '66px';
+        btn.style.height = '26px';
+
+        var btn2 = document.createElement('button');
+        btn2.style.width = '66px';
+        btn2.style.height = '26px';
+        btn2.style.marginLeft = '15px';
+
+        var list = document.createElement('ul');
+        var listItem = document.createElement('li');
+        for (var i = 0; i < 4; i++) {
+            var clonedLI = listItem.cloneNode(true);
+            clonedLI.innerText = 'Item ' + (i + 1);
+            list.appendChild(clonedLI);
+        }
+
+        domModule.appendChild(btn, '#content');
+        domModule.appendChild(btn2, '#content');
+        domModule.appendChild(list, '#content');
+        
+        domModule.removeChild('ul', 'li:last-child');
+
+        domModule.addHandler('button', 'click', function () {
+            this.innerText = 'Clicked!';
+        })
+
+        for (var i = 0; i < 105; i++) {
+            clonedLI = listItem.cloneNode(true);
+            clonedLI.innerText = 'Item ' + (i + 1);
+            domModule.appendToBuffer('#content', clonedLI);
+        }
+
+    </script>
+</body>
+</html>

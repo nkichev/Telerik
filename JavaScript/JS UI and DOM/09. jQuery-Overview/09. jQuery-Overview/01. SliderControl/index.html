@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style>
+        #wrapper {
+            width: 1280px;
+            height: 600px;
+        }
+
+        img {
+            margin-top: 5px;
+            width: 750px;
+            height: 500px;
+            border-radius: 15px;
+        }
+
+        button {
+            width: 65px;
+            border: 1px solid black;
+            border-radius: 15px;
+        }
+
+        button#slideShow {
+            width: 75px
+        }
+
+        #container {
+            text-align: center;
+            width: 800px;
+            height: 540px;
+            margin-top: 15px;
+            margin-left: 250px;
+            border: 1px solid black;
+            border-radius: 15px;
+            border-width: 3px;
+        }
+    </style>
+    <script src="scripts/jquery-2.1.1.min.js"></script>
+</head>
+<body>
+    <div id="wrapper">
+        <div id="container">
+            <div id="current-slide"></div>
+            <button id="prev">< Prev</button>
+            <button id="next">Next ></button>
+            <button id="slideShow">Slideshow</button>
+        </div>
+    </div>
+    <script>
+        var currentSlide = 0;
+        var showOn;
+        var autoSlider;
+
+        var slides = [
+            '<img src="img/Ideal-landscape.jpg" />',
+            '<img src="img/landscape-waterfall-pictures-188.jpg" />',
+            '<img src="img/url.jpg" />',
+            '<img src="img/url3.jpg" />'
+        ]
+
+        $('#current-slide').html(slides[currentSlide]);
+
+        $('#next').on('click', nextSlide);
+        $('#prev').on('click', prevSlide);
+        $('#slideShow').on('click', slideShow);
+
+        function slideShow() {
+            showOn = true;
+            if (showOn) {
+                autoSlider = setInterval(function () {
+                    currentSlide++;
+                    if (currentSlide === slides.length) {
+                        currentSlide = 0;
+                    }
+                    $('#current-slide').html(slides[currentSlide]);
+                }, 3000);
+            }
+        }
+        function nextSlide() {
+            if (showOn) {
+                showOn = false;
+                clearInterval(autoSlider);
+            }
+            currentSlide++;
+            if (currentSlide === slides.length) {
+                currentSlide = 0;
+            }
+            $('#current-slide').html(slides[currentSlide]);
+        };
+        function prevSlide() {
+            if (showOn) {
+                showOn = false;
+                clearInterval(autoSlider);
+            }
+            currentSlide--;
+            if (currentSlide < 0) {
+                currentSlide = slides.length - 1;
+            }
+            $('#current-slide').html(slides[currentSlide]);
+        };
+    </script>
+</body>
+</html>

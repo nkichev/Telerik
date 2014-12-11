@@ -1,0 +1,5 @@
+E:\Projects\Telerik\JavaScript\HW\09. Using-Objects\09. Using-Objects\09. Using-Objects\bin\_09.Using_Objects.dll
+E:\Projects\Telerik\JavaScript\HW\09. Using-Objects\09. Using-Objects\09. Using-Objects\bin\_09.Using_Objects.pdb
+E:\Projects\Telerik\JavaScript\HW\09. Using-Objects\09. Using-Objects\09. Using-Objects\obj\Debug\09. Using-Objects.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\JavaScript\HW\09. Using-Objects\09. Using-Objects\09. Using-Objects\obj\Debug\_09.Using_Objects.dll
+E:\Projects\Telerik\JavaScript\HW\09. Using-Objects\09. Using-Objects\09. Using-Objects\obj\Debug\_09.Using_Objects.pdb

@@ -1,0 +1,5 @@
+E:\Projects\Telerik\JavaScript\JS OOP\HW\02. Classical-OOP\02. Classical-OOP\DrawingModule\bin\DrawingModule.dll
+E:\Projects\Telerik\JavaScript\JS OOP\HW\02. Classical-OOP\02. Classical-OOP\DrawingModule\bin\DrawingModule.pdb
+E:\Projects\Telerik\JavaScript\JS OOP\HW\02. Classical-OOP\02. Classical-OOP\DrawingModule\obj\Debug\DrawingModule.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\JavaScript\JS OOP\HW\02. Classical-OOP\02. Classical-OOP\DrawingModule\obj\Debug\DrawingModule.dll
+E:\Projects\Telerik\JavaScript\JS OOP\HW\02. Classical-OOP\02. Classical-OOP\DrawingModule\obj\Debug\DrawingModule.pdb

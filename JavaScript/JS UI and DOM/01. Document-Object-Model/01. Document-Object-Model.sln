@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. SelectDivsInsideDivs", "DocumentObjectModel\01. SelectDivsInsideDivs.csproj", "{2D0269BB-7285-4A2E-89E1-E80BA657BDE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. GetValueAndPrintIt", "02. GetValueAndPrintIt\02. GetValueAndPrintIt.csproj", "{BA123F33-7226-48B7-99F0-3E982E472FFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. GetValueAndSetBGColor", "03. GetValueAndSetBGColor\03. GetValueAndSetBGColor.csproj", "{FEFADE06-98D3-49E8-BF4D-C2E55994E586}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D0269BB-7285-4A2E-89E1-E80BA657BDE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D0269BB-7285-4A2E-89E1-E80BA657BDE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D0269BB-7285-4A2E-89E1-E80BA657BDE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D0269BB-7285-4A2E-89E1-E80BA657BDE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA123F33-7226-48B7-99F0-3E982E472FFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA123F33-7226-48B7-99F0-3E982E472FFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA123F33-7226-48B7-99F0-3E982E472FFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA123F33-7226-48B7-99F0-3E982E472FFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEFADE06-98D3-49E8-BF4D-C2E55994E586}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEFADE06-98D3-49E8-BF4D-C2E55994E586}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEFADE06-98D3-49E8-BF4D-C2E55994E586}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEFADE06-98D3-49E8-BF4D-C2E55994E586}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

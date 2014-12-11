@@ -1,0 +1,220 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        // 01. Write a script that allocates array of 20 integers and initializes each element by its index multiplied
+        // by 5. Print the obtained array on the console.
+
+        var arr = new Array(20),
+            i;
+
+        for (i = 0; i < arr.length - 1; i++) {
+            arr[i] = i * 5;
+        }
+
+        for (var el in arr) {
+            jsConsole.write(el + ' ');
+        }
+
+        jsConsole.writeLine('');
+
+        // 02. Write a script that compares two char arrays lexicographically (letter by letter).
+        
+        var firstArr = 'This is the first char array',
+            secondArr = 'And this is the second char array',
+            i;
+
+        if (firstArr.length > secondArr.length) {
+            for (i = 0; i < secondArr.length; i++) {
+                if (firstArr[i] > secondArr[i]) {
+                    jsConsole.writeLine('Second array is lexocographically earlier.');
+                    break;
+                }
+                else {
+                    jsConsole.writeLine('First array is lexocographically earlier.');
+                    break;
+                }
+            }
+        }
+        else if (firstArr.length < secondArr.length) {
+            for (i = 0; i < firstArr.length; i++) {
+                if (firstArr[i] > secondArr[i]) {
+                    jsConsole.writeLine('Second array is lexocographically earlier.');
+                    break;
+                }
+                else {
+                    jsConsole.writeLine('First array is lexocographically earlier.');
+                    break;
+                }
+            }
+        }
+        else if (firstArr.length === secondArr.length) {
+            for (i = 0; i < firstArr.length; i++) {
+                if (firstArr[i] > secondArr[i]) {
+                    jsConsole.writeLine('Second array is lexocographically earlier.');
+                    break;
+                }
+                else {
+                    jsConsole.writeLine('First array is lexocographically earlier.');
+                    break;
+                }
+            }
+        }
+
+        // 03.Write a script that finds the maximal sequence of equal elements in an array.
+        // Example: {2, 1, 1, 2, 3, 3, 2, 2, 2, 1} - {2, 2, 2}.
+
+        var arr = [2, 1, 1, 2, 3, 3, 2, 2, 2, 2, 1, 1, 1, 1, 1],
+            maxLength = 0,
+            length = 1,
+            sequenceArr = [],
+            i,
+            num;
+            
+        for (i = 0; i < arr.length - 1; i++) {
+            if (arr[i] === arr[i + 1]) {
+                length += 1;
+                if (length > maxLength) {
+                    maxLength = length;
+                    num = arr[i];
+                }
+            }
+            else {
+                length = 1;
+            }
+        }
+
+        sequenceArr = new Array(maxLength);
+        for (i = 0; i < maxLength; i++) {
+            sequenceArr.push(num);
+        }
+
+        jsConsole.writeLine('The array is: ' + arr.join(', '));
+        jsConsole.write('The count of max sequence is: ' + maxLength + ', ');
+        jsConsole.writeLine('and the sequence is ' + '{' + sequenceArr.join(' ') + ' }');
+
+        // 04. Write a script that finds the maximal increasing sequence in an array. Example: {3, 2, 3, 4, 2, 2, 4} - {2, 3, 4}.
+        
+        var arr = [3, 2, 3, 2, 2, 4, 5, 6],
+            maxLength = 0,
+            length = 1,
+            sequenceArr = [],
+            i
+            num;
+
+        for (i = 0; i < arr.length - 1; i++) {
+            if (arr[i] === (arr[i + 1] - 1)) {
+                length += 1;
+                if (length > maxLength) {
+                    maxLength = length;
+                    num = arr[i];
+                }
+            }
+            else {
+                length = 1;
+            }
+        }
+
+        sequenceArr = new Array(maxLength);
+        num -= maxLength - 2;
+        for (i = 0; i < maxLength; i++) {
+            sequenceArr.push(num);
+            num += 1;
+        }
+
+        jsConsole.writeLine('The array is: ' + arr.join(', '));
+        jsConsole.write('The count of max sequence is: ' + maxLength + ', ');
+        jsConsole.writeLine('and the sequence is ' + '{' + sequenceArr.join(' ') + ' }');
+
+        // 05. Sorting an array means to arrange its elements in increasing order. 
+        // Write a script to sort an array. Use the "selection sort" algorithm: Find the smallest element, 
+        // move it at the first position, find the smallest from the rest, move it at the second position, etc.
+        // Hint: Use a second array
+
+        var arr = [3, 15, 8, 65, 34, 12],
+            minIndex,
+            oldNum,
+            i,
+            j;
+
+        for (i = 0; i < arr.length - 1; i++) {
+            minIndex = i;
+            for (j = i + 1; j < arr.length; j++) {
+                if (arr[j] < arr[minIndex]) {
+                    minIndex = j;
+                }
+            }
+            oldNum = arr[i];
+            arr[i] = arr[minIndex];
+            arr[minIndex] = oldNum;
+        }
+
+        jsConsole.writeLine(arr);
+
+        // 06. Write a program that finds the most frequent number in an array. Example:
+        // {4, 1, 1, 4, 2, 3, 4, 4} - 4 (5 times)
+
+        var arr = [4, 1, 1, 4, 2, 3, 4, 4, 1, 2, 4, 9, 3, 5, 4],
+            count = 1,
+            maxCount = 0,
+            i,
+            j,
+            num;
+
+        for (i = 0; i < arr.length - 1; i++) {
+            for (j = i + 1; j < arr.length; j++) {
+                if (arr[j] === arr[i]) {
+                    count += 1;
+                }
+                if (maxCount < count) {
+                    maxCount = count;
+                    num = arr[i];
+                }
+            }
+            count = 1;
+        }
+
+        jsConsole.writeLine(num + ' ' + '(' + maxCount + ' ' + 'times' + ')');
+
+        // 07. Write a program that finds the index of given element in a sorted array of integers 
+        // by using the binary search algorithm (find it in Wikipedia).
+
+        var arr = [3, 15, 8, 65, 34, 12, 86, 16, 45, 6, 56, 18],
+            key = 16,
+            sortedArr = [],
+            start,
+            end,
+            middle;
+            
+
+        sortedArr = arr.sort(function (a, b) { return (a - b) });
+        jsConsole.writeLine('The sorted array is : ' + sortedArr);
+
+        start = 0;
+        end = sortedArr.length;
+
+
+        while (start <= end) {
+            middle = parseInt((start + end) / 2);
+
+            if (sortedArr[middle] === key) {
+                jsConsole.writeLine('The Index of ' + key + ' is : ' + middle);
+                break;
+            }
+            if (sortedArr[middle] < key) {
+                start = middle + 1;
+            }
+            if (sortedArr[middle] > key) {
+                end = middle - 1;
+            }
+
+        }
+    </script>
+</body>
+</html>

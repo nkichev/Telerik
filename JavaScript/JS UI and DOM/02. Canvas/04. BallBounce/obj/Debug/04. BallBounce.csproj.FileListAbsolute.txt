@@ -1,0 +1,4 @@
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\02. Canvas\04. BallBounce\bin\_04.BallBounce.dll
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\02. Canvas\04. BallBounce\bin\_04.BallBounce.pdb
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\02. Canvas\04. BallBounce\obj\Debug\_04.BallBounce.dll
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\02. Canvas\04. BallBounce\obj\Debug\_04.BallBounce.pdb

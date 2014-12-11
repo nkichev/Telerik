@@ -1,0 +1,19 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="scripts/jquery-2.1.1.min.js"></script>
+</head>
+<body>
+    <script>
+        var $input = $('<input>').attr('type', 'color').appendTo($('body'));
+        var $btn = $('<button>').text('Change background color').appendTo($('body'));
+        
+        $btn.on('click', function () {
+            var $color = $input.val();
+            $('body').css('background-color', $color);
+        });
+        
+    </script>
+</body>
+</html>

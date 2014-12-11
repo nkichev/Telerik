@@ -1,0 +1,5 @@
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\07. DOM-Operations\07. DOM-Operations\01. Divs\bin\_01.Divs.dll
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\07. DOM-Operations\07. DOM-Operations\01. Divs\bin\_01.Divs.pdb
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\07. DOM-Operations\07. DOM-Operations\01. Divs\obj\Debug\01. Divs.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\07. DOM-Operations\07. DOM-Operations\01. Divs\obj\Debug\_01.Divs.dll
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\07. DOM-Operations\07. DOM-Operations\01. Divs\obj\Debug\_01.Divs.pdb

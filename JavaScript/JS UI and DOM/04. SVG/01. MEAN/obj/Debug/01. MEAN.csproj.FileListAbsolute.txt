@@ -1,0 +1,5 @@
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\04. SVG\01. MEAN\bin\_01.MEAN.dll
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\04. SVG\01. MEAN\bin\_01.MEAN.pdb
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\04. SVG\01. MEAN\obj\Debug\01. MEAN.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\04. SVG\01. MEAN\obj\Debug\_01.MEAN.dll
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\04. SVG\01. MEAN\obj\Debug\_01.MEAN.pdb

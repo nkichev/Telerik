@@ -1,0 +1,5 @@
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\01. Document-Object-Model\02. GetValueAndPrintIt\bin\_02.GetValueAndPrintIt.dll
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\01. Document-Object-Model\02. GetValueAndPrintIt\bin\_02.GetValueAndPrintIt.pdb
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\01. Document-Object-Model\02. GetValueAndPrintIt\obj\Debug\02. GetValueAndPrintIt.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\01. Document-Object-Model\02. GetValueAndPrintIt\obj\Debug\_02.GetValueAndPrintIt.dll
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\01. Document-Object-Model\02. GetValueAndPrintIt\obj\Debug\_02.GetValueAndPrintIt.pdb

@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <ul>
+        <li>CSS</li>
+        <li>JS
+            <ul>
+                <li>Array</li>
+                <li>Loops
+                    <ul>
+                        <li>For loop</li>
+                        <li>While loop</li>
+                    </ul>
+                </li>
+                <li>Conditional Statements</li>
+            </ul>
+        </li>
+        <li>HTML</li>
+    </ul>
+    <script>
+        function createTreeView() {
+            var allLi = document.getElementsByTagName('li');
+            console.log(allLi);
+
+            for (var i = 0; i < allLi.length; i++) {
+
+                //making all childs invisible
+                var child = allLi[i].firstElementChild;
+                while (child) {
+                    child.style.display = 'none';
+                    child = child.nextElementSibling;
+                }
+
+                //setting the onclickFunction
+                allLi[i].onclick = function (event) {
+
+                    //delete this and the function will go to the parent element as well
+                    event.stopPropagation();
+
+                    var currChild = this.firstElementChild;
+
+                    while (currChild) {
+                        if (currChild.style.display === 'none') {
+                            currChild.style.display = 'block';
+                        }
+                        else {
+                            currChild.style.display = 'none';
+                        }
+
+                        currChild = currChild.nextElementSibling;
+                    }
+                };
+            }
+        }
+        createTreeView();
+    </script>
+</body>
+</html>

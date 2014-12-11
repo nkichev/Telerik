@@ -1,0 +1,195 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        // 01. Write a function that returns the last digit of given integer as an English word. 
+        // Examples: 512 - "two", 1024 - "four", 12309 - "nine"
+
+        function returnLastDigit(number) {
+            switch (number % 10) {
+                case 0:
+                    jsConsole.writeLine('zero');
+                    break;
+                case 1:
+                    jsConsole.writeLine('one');
+                    break;
+                case 2:
+                    jsConsole.writeLine('two');
+                    break;
+                case 3:
+                    jsConsole.writeLine('three');
+                    break;
+                case 4:
+                    jsConsole.writeLine('four');
+                    break;
+                case 5:
+                    jsConsole.writeLine('five');
+                    break;
+                case 6:
+                    jsConsole.writeLine('six');
+                    break;
+                case 7:
+                    jsConsole.writeLine('seven');
+                    break;
+                case 8:
+                    jsConsole.writeLine('eight');
+                    break;
+                case 9:
+                    jsConsole.writeLine('nine');
+                    break;
+                default:
+                    jsConsole.writeLine('Error.')
+                    break;
+            }
+        }
+
+        returnLastDigit(358);
+
+        // 02. Write a function that reverses the digits of given decimal number. Example: 256 - 652
+
+        function reverseDigits(number) {
+            var numberAsStr = '',
+                reversedNum = '';
+
+            numberAsStr = number.toString();
+
+            for (var i = 0; i < numberAsStr.length; i++) {
+                reversedNum += (numberAsStr[numberAsStr.length - 1 - i]);
+            }
+
+            return reversedNum;
+        }
+
+        jsConsole.writeLine(reverseDigits(1865));
+
+        // 03. Write a function that finds all the occurrences of word in a text
+        // The search can case sensitive or case insensitive
+        // Use function overloading
+
+        function findWordOccurrencesInText(text, word) {
+            var wordCount = 0,
+                words = [];
+
+            words = text.split(' ');
+            for (var i = 0; i < words.length; i++) {
+                if (words[i].trim() === word.trim()) {
+                    wordCount += 1;
+                }
+            }
+            return wordCount;
+        }
+
+        function findOccurrences(text, word, isCaseSensitive) {
+            var wordCount = 0,
+                isCaseSensitive = isCaseSensitive || false;
+                words = [];
+            
+            switch (isCaseSensitive) {
+                case true:
+                    findWordOccurrencesInText(text, word);
+                    break;
+                case false:
+                    text = text.toLowerCase();
+                    findWordOccurrencesInText(text, word);
+                    break;
+                default:
+                    return 0;
+            }
+        }
+
+        var numberOfOccurrences = findOccurrences('This is one very very long long Long LONG text', 'long', false);
+        jsConsole.writeLine('Number of occurrences of the word : ' + numberOfOccurrences);
+
+        // 04. Write a function to count the number of divs on the web page
+        
+        function getDivsCount() {
+            var divs = document.getElementsByTagName('div'),
+                divsCount = divs.length;
+
+            return divsCount;
+        }
+        
+        var divsCount = getDivsCount();
+        
+        jsConsole.writeLine('Number of the divs : ' + divsCount);
+        
+
+        // 05. Write a function that counts how many times given number appears in given array. 
+        // Write a test function to check if the function is working correctly.
+
+        function countNumberAppearances(arr, number) {
+            var count = 0,
+                i;
+
+            for (i = 0; i < arr.length; i++) {
+                if (arr[i] === number) {
+                    count += 1;
+                }
+            }
+
+            return count;
+        }
+
+        function testFunction() {
+            var arr = [5, 3, 18, 33, 5, 5, 6],
+                number = 5;
+
+            var numberOfAppearances = countNumberAppearances(arr, number);
+            jsConsole.writeLine('The number of appearances of ' + number + ' : ' + numberOfAppearances);
+        }
+
+        testFunction();
+
+        // 06. Write a function that checks if the element at given position in given array of integers is bigger 
+        // than its two neighbors (when such exist).
+
+        function isBiggerThanNeighbors(position, arr) {
+            var isBigger = false;
+
+            if ((position - 1 >= 0) && (position + 1 <= arr.length - 1)) {
+                if (arr[position] > arr[position + 1] && arr[position] > arr[position - 1]) {
+                    isBigger = true;
+                }
+                jsConsole.writeLine('Is bigger than neighbors ? ' + isBigger);
+            }
+            else {
+                jsConsole.writeLine('You left the boundries.');
+            }
+        }
+
+        var arr = [4, 5, 6, 4, 8, 6];
+        isBiggerThanNeighbors(4, arr);
+
+        // 07. Write a function that returns the index of the first element in array 
+        // that is bigger than its neighbors, or -1, if there’s no such element.
+        // Use the function from the previous exercise.
+
+        function indexOfBiggerThanNeighbors(arr) {
+            var isBigger = false,
+                index;
+
+            for (var i = 1; i < arr.length - 1; i++) {
+                if (arr[i] > arr[i - 1] && arr[i] > arr[i + 1]) {
+                    isBigger = true;
+                    index = i;
+                    break;
+                }
+            }
+            return index;
+        }
+
+        var arr = [4, 5, 5, 5, 8, 6],
+            index;
+
+        index = indexOfBiggerThanNeighbors(arr);
+        jsConsole.writeLine('The index of first number bigger than its neighbors is : ' + index);
+
+    </script>
+</body>
+</html>

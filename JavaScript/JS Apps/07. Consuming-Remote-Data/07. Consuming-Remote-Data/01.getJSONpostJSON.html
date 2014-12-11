@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>First Task</title>
+    <script src="libs/q.js"></script>
+    <script src="scripts/jquery-2.0.2.js"></script>
+</head>
+<body>
+    <div id="http-response"> </div>
+    <script src="scripts/01.getJSONpostJSON.js"></script>
+    <script>
+        var resourceUrl, headerOptions, firstStudent, secondStudent;
+
+        resourceUrl = "http://localhost:3000/students";
+
+        headerOptions = {
+            contentType: 'application/json',
+            accept: 'application/json',
+        };
+
+        firstStudent = {
+            name: "Petko",
+            grade: 4
+        };
+
+        secondStudent = {
+            name: "Ananas",
+            grade: 5
+        };
+
+        httpRequest.postJSON(resourceUrl, firstStudent, headerOptions)
+            .then(httpRequest.postJSON(resourceUrl, secondStudent, headerOptions))
+
+        httpRequest.getJSON(resourceUrl, headerOptions)
+            .then(function (data) {
+                var list, i, len, student, jsonData, item;
+
+                list = $('<ul>');
+                jsonData = JSON.parse(data);
+                len = jsonData.count;
+                for (i = 0; i < len; i += 1) {
+                    student = jsonData.students[i];
+                    item = $('<li>')
+                        .html(student.name + ' is in ' + student.grade + ' grade')
+                        .appendTo(list);
+                }
+
+                $('#http-response').append(list);
+            }, function (err) {
+                $("#http-response").html("<div style='color:red;font-weight:bold'>Error happened.</div>");
+            });
+    </script>
+</body>
+</html>

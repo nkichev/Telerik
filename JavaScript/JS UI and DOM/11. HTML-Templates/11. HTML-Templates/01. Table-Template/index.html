@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style>
+        table, tr, th, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+        }
+    </style>
+</head>
+<body>
+    <div id="container"></div>
+    <script src="scripts/handlebars-v1.3.0.js"></script>
+    <script id="table-template" type="text/x-handlebars-template">
+        <table>
+            <tr>
+                <th>Num</th>
+                <th>Title</th>
+                <th>Date 1</th>
+                <th>Date 2</th>
+            </tr>
+            {{#each courses}}
+                <tr>
+                    <td>{{@index}}</td>
+                    <td>{{title}}</td>
+                    <td>{{date1}}</td>
+                    <td>{{date2}}</td>
+                </tr>
+            {{/each}}
+        </table>
+    </script>
+    <script>
+        var courses = [
+            {
+                'title': 'Course Introduction',
+                'date1': '28-05-2014',
+                'date2': '29-05-2014'
+            },
+            {
+                'title': 'DOM',
+                'date1': '28-05-2014',
+                'date2': '29-05-2014'
+            },
+            {
+                'title': 'HTML5 Canvas',
+                'date1': '28-05-2014',
+                'date2': '30-05-2014'
+            },
+        ]
+
+        var templateSource = document.getElementById("table-template").innerHTML;
+        var template = Handlebars.compile(templateSource);
+        var coursesHtml = template({courses: courses});
+
+        var container = document.getElementById("container");
+        container.innerHTML = coursesHtml;
+    </script>
+</body>
+</html>

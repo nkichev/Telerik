@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Task 5</title>
+    <link href="styles/style.css" rel="stylesheet" />
+    <script src="scripts/show-hide-task.js"></script>
+    <script src="scripts/5.count-number-in-array.js"></script>
+</head>
+<body>
+    <div id="wrapper">
+        <div id="task-description">
+            <label for="task">Show task descrtiption</label>
+            <input type="checkbox" name="task" id="task" />
+        </div>
+        <div id="task-text">
+            Write a function that counts how many times given number appears in given array.
+            Write a test function to check if the function is working correctly.
+        </div>
+        <label for="numbers">Enter some numbers separated by space:</label>
+        <input type="text" name="numbers" id="numbers" placeholder="Enter the numbers" />
+        <label for="searched-value">Enter the value you search for:</label>
+        <input type="text" name="searched-value" id="searched-value" placeholder="Enter a number" />
+        <div id="center">
+            <input type="submit" id="submit" onclick="execute()" />
+        </div>
+        <div id="result"></div>
+    </div>
+</body>
+</html>

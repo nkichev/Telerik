@@ -1,0 +1,5 @@
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\04. SVG\Windows8StartScreen\bin\Windows8StartScreen.dll
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\04. SVG\Windows8StartScreen\bin\Windows8StartScreen.pdb
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\04. SVG\Windows8StartScreen\obj\Debug\Windows8StartScreen.dll
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\04. SVG\Windows8StartScreen\obj\Debug\Windows8StartScreen.pdb
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\04. SVG\Windows8StartScreen\obj\Debug\Windows8StartScreen.csprojResolveAssemblyReference.cache

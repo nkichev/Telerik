@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <h2 id="h2">TODO List</h2>
+    <script>
+        var input = document.createElement('input'),
+            addBtn = document.createElement('button'),
+            deleteBtn = document.createElement('button'),
+            showBtn = document.createElement('button'),
+            hideBtn = document.createElement('button'),
+            container = document.createElement('div'),
+            frag = document.createDocumentFragment(),
+            h = document.getElementById('h2');
+
+        h.style.fontWeight = '800';
+        h.style.width = '205px';
+        h.style.color = '#4123dd';
+        h.style.borderBottom = '3px solid #4123dd';
+
+        input.setAttribute('type', 'text');
+        input.style.fontSize = '18px';
+
+        container.style.width = '205px';
+        container.style.fontSize = '18px';
+        container.style.margin = '15px 1px';
+        container.style.padding = '5px 0px 5px 0px';
+        container.style.borderTop = '3px solid #4123dd';
+
+        addBtn.innerHTML = 'Add';
+        deleteBtn.innerHTML = 'Delete';
+        showBtn.innerHTML = 'Show';
+        hideBtn.innerHTML = 'Hide';
+        
+        addBtn.addEventListener('click', function () {
+            var todo = document.createElement('div');
+            todo.innerHTML = input.value;
+            container.appendChild(todo);
+        }, false);
+        deleteBtn.addEventListener('click', function () {
+            container.removeChild(container.firstChild);
+        }, false);
+        showBtn.addEventListener('click', function () {
+            container.style.display = '';
+        }, false);
+        hideBtn.addEventListener('click', function () {
+            container.style.display = 'none';
+        }, false);
+
+        frag.appendChild(input);
+        frag.appendChild(addBtn);
+        frag.appendChild(deleteBtn);
+        frag.appendChild(showBtn);
+        frag.appendChild(hideBtn);
+        frag.appendChild(container);
+
+        document.body.appendChild(frag);
+
+    </script>
+</body>
+</html>

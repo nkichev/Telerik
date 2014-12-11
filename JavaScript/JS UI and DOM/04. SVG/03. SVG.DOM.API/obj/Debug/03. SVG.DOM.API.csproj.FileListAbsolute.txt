@@ -1,0 +1,5 @@
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\04. SVG\03. SVG.DOM.API\bin\_03.SVG.DOM.API.dll
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\04. SVG\03. SVG.DOM.API\bin\_03.SVG.DOM.API.pdb
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\04. SVG\03. SVG.DOM.API\obj\Debug\03. SVG.DOM.API.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\04. SVG\03. SVG.DOM.API\obj\Debug\_03.SVG.DOM.API.dll
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\04. SVG\03. SVG.DOM.API\obj\Debug\_03.SVG.DOM.API.pdb

@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Task 6</title>
+    <link href="styles/style.css" rel="stylesheet" />
+    <script src="scripts/show-hide-task.js"></script>
+    <script src="scripts/6.compare-number-with-neighbours.js"></script>
+</head>
+<body>
+    <div id="wrapper">
+        <div id="task-description">
+            <label for="task">Show task descrtiption</label>
+            <input type="checkbox" name="task" id="task" />
+        </div>
+        <div id="task-text">
+            Write a function that checks if the element at given position in given array of integers
+            is bigger than its two neighbors (when such exist).
+        </div>
+        <label for="numbers">Enter some numbers separated by space:</label>
+        <input type="text" name="numbers" id="numbers" placeholder="Enter the numbers" />
+        <label for="searched-value">Enter the position of the element you search for:</label>
+        <input type="text" name="searched-value" id="searched-value" placeholder="Enter a number" />
+        <div id="center">
+            <input type="submit" id="submit" onclick="execute()" />
+        </div>
+        <div id="result"></div>
+    </div>
+</body>
+</html>

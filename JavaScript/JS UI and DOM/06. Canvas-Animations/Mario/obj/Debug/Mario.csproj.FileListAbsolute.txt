@@ -1,0 +1,10 @@
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\06. Canvas-Animations\06. Canvas-Animations\Mario\bin\Mario.dll
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\06. Canvas-Animations\06. Canvas-Animations\Mario\bin\Mario.pdb
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\06. Canvas-Animations\06. Canvas-Animations\Mario\obj\Debug\Mario.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\06. Canvas-Animations\06. Canvas-Animations\Mario\obj\Debug\Mario.dll
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\06. Canvas-Animations\06. Canvas-Animations\Mario\obj\Debug\Mario.pdb
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\06. Canvas-Animations\06. Canvas-Animations\06. Canvas-Animations\Mario\bin\Mario.dll
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\06. Canvas-Animations\06. Canvas-Animations\06. Canvas-Animations\Mario\bin\Mario.pdb
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\06. Canvas-Animations\06. Canvas-Animations\06. Canvas-Animations\Mario\obj\Debug\Mario.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\06. Canvas-Animations\06. Canvas-Animations\06. Canvas-Animations\Mario\obj\Debug\Mario.dll
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\06. Canvas-Animations\06. Canvas-Animations\06. Canvas-Animations\Mario\obj\Debug\Mario.pdb

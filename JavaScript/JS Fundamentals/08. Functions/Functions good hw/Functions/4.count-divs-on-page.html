@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Task 4</title>
+    <link href="styles/style.css" rel="stylesheet" />
+    <script src="scripts/show-hide-task.js"></script>
+    <script src="scripts/4.count-divs-on-page.js"></script>
+</head>
+<body>
+    <div id="wrapper">
+        <div id="task-description">
+            <label for="task">Show task descrtiption</label>
+            <input type="checkbox" name="task" id="task" />
+        </div>
+        <div id="task-text">
+            Write a function to count the number of divs on the web page
+        </div>
+        Click the button to see how many div tags this page has:
+        <div id="center">
+            <input type="submit" id="submit" onclick="execute()" />
+        </div>
+        <div id="result"></div>
+    </div>
+</body>
+</html>

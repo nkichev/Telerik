@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title></title>
+	<link href="../styles/Task01.css" rel="stylesheet"/>
+</head>
+<body>
+<div id="wrapper">
+	<header>
+		<h2>Homework 02 - Classical OOP</h2>
+		<div class="numberTasks">
+			<ul>
+				<li>
+					<a href="../HomePade.html">HomePage</a>
+				</li>
+				<li class="open">
+					<a href="01.DrawingShaps.html">Task 1</a>
+				</li>
+			</ul>
+		</div>
+	</header>
+	<div class="controlers">
+		<form class="shapeForm">
+			<label>Please choose a shape:</label><br/>
+			<input type="radio" id="rect" class="shape" value="rect"><label for="rect">Rectangle</label>
+			<input type="radio" id="circle" class="shape" value="circle"><label for="circle">Circle</label>
+			<input type="radio" id="line" class="shape" value="line"><label for="line">Line</label><br/>
+		</form>
+	</div>
+	<div id="inputUser"></div>
+	<div>
+		<h4>Canvas : width=600px, height = 450px</h4>
+		<canvas  id="canvas" width="600" height="450"></canvas>
+	</div>
+</div>
+<script src = "../bower_components/jquery/dist/jquery.min.js"></script>
+<script src="../scripts/01.DrawingShapes.js"></script>
+</body>
+</html>

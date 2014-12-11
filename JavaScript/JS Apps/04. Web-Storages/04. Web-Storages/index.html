@@ -1,0 +1,163 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style>
+        .fcontainer, .scontainer, .tcontainer{
+            width: 400px;
+            height: 150px;
+            background-color: #75CBEA;
+            border: 1px solid #75CBEA;
+            border-radius: 5px;
+            display: inline-block;
+        }
+        .scontainer {
+            width: 260px;
+        }
+        .tcontainer {
+            width: 150px;
+        }
+
+        #exist-input, #match-input {
+            position: absolute;
+            width:45px;
+            height: 25px;
+            font-size: 25px;
+            text-align: center;
+        }
+
+        #the-number-input, #second-container-input {
+            position: absolute;
+            left: 20px;
+            width:115px;
+            height: 25px;
+            font-size: 25px;
+            text-align: center;
+        }
+        #the-number-input{
+            top:45px;
+        }
+        #exist-input {
+            top:45px;
+            left:185px;
+        }
+        #match-input {
+            top:45px;
+            left:310px;
+        }
+
+        #second-container-input {
+            left: 480px;
+            top: 45px;
+        }
+
+        .fc-text {
+            font-size: 25px;
+            position: absolute;
+        }
+
+        #the-number-text {
+            top: 10px;
+            left: 25px;
+        }
+        #exist {
+            top: 10px;
+            left: 185px;
+        }
+        #match {
+            top: 10px;
+            left: 305px;
+        }
+        #enter-number {
+            font-size: 25px;
+            position: absolute;
+            top: 10px;
+            left: 475px;
+        }
+        
+        #check, #save, #load {
+            position: absolute;
+            font-size: 15px;
+            width: 105px;
+            height: 35px;
+            color: white;
+            border: none;
+        } 
+        #check{
+            top: 95px;
+            left: 490px;
+            background-color: #39B532;
+        }
+        #save {
+            background-color: #668996;
+            top: 45px;
+            left: 703px;
+        }
+        #load {
+            background-color: #668996;
+            top: 95px;
+            left: 703px;
+        }
+        #check:hover {
+            background-color: #00A000;
+        }
+        #save:hover , #load:hover {
+            background-color: #415860;
+        }
+
+        #end-game-text {
+            width: 820px;
+            font-size: 85px;
+            text-align: center;
+            background-color: pink;
+            border-radius: 5px;
+        }
+
+        #name-input {
+            text-align: center;
+            position: absolute;
+            font-size: 15px;
+            width: 100px;
+            top: 12px;
+            left: 703px;
+        }
+
+        #table {
+            list-style: none;
+            font-size: 23px;
+            position: absolute;
+            top: 0px;
+            left: 850px;
+            width: 140px;
+            background-color: #39B532;
+            border-radius: 5px;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div class="fcontainer" id="first-container"></div>
+    <div class="scontainer" id="second-container"></div>
+    <div class="tcontainer" id="third-container"></div>
+
+    <div class="fc-text" id="exist">exist</div>
+    <div class="fc-text" id="match">match</div>
+    <div class="fc-text" id="the-number-text">the number</div>
+
+    <div id="enter-number">enter number</div>
+
+    <input type="text" id="the-number-input"/>
+    <input type="text" id="exist-input"/>
+    <input type="text" id="match-input"/>
+    <input type="text" id="second-container-input"/>
+
+    <button id="check">Check</button>
+    <button id="save">Save</button>
+    <button id="load">Load</button>
+
+    <div id="end-game-text"></div>
+    <input type="text" id="name-input" placeholder="Enter name"/>
+    <ul id="table"></ul>
+    <script src="scripts/bullsAndCows.js"></script>
+</body>
+</html>

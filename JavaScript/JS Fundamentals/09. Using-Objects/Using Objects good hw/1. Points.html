@@ -1,0 +1,82 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Points</title>
+    <link rel="stylesheet" type="text/css" href="styles/js-console.css" />
+</head>
+<body>
+    <p><strong>Write functions for working with shapes in  standard Planar coordinate system.</strong></p>
+    <ul>
+        <li>Points are represented by coordinates P(X, Y)</li>
+        <li>Lines are represented by two points, marking their beginning and ending L(P1(X1,Y1), P2(X2,Y2))</li>
+        <li>Calculate the distance between two points</li>
+        <li>Check if three segment lines can form a triangle</li>
+    </ul>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+
+        var first = CreatePoint(2, 1);
+        var second = CreatePoint(5, 1);
+        var third = CreatePoint(4, 4);
+
+        var firstLine = CreateLine(first, second);
+        var secondLine = CreateLine(second, third);
+        var thirdLine = CreateLine(third, first);
+
+        function CreatePoint(x, y) {
+
+            return {
+                x: x,
+                y: y,
+                toString: function () { return "(" + this.x + "," + this.y + ")" }
+
+            }
+        }
+
+        function getLength(firstPoint, secondPoint) {
+
+            return Math.sqrt(Math.pow(firstPoint.x + secondPoint.x, 2) + Math.pow(firstPoint.y + secondPoint.y, 2));
+
+        }
+
+        function CreateLine(firstPoint, secondPoint) {
+
+            return {
+
+                begin: firstPoint,
+                end: secondPoint,
+                length: getLength(firstPoint, secondPoint),
+                toString: function () {
+
+                    return "Begin: " + this.begin + " End: " + this.end + " Length: " + this.length;
+                }
+
+            }
+
+        }
+
+        function CanMakeTriangle(firstLine, secondLine, thirdLine) {
+
+            return firstLine.length + secondLine.length > thirdLine.length &&
+                   secondLine.length + thirdLine.length > firstLine.length &&
+                   thirdLine.length + firstLine.length > secondLine.length;
+
+        }
+
+        jsConsole.writeLine(first);
+        jsConsole.writeLine(second);
+        jsConsole.writeLine(third);
+
+        jsConsole.writeLine(firstLine);
+        jsConsole.writeLine(secondLine);
+        jsConsole.writeLine(thirdLine);
+
+        jsConsole.writeLine('Distance between ' + first + ' and ' + second + ' is ' + firstLine.length);
+        jsConsole.writeLine('Can these lines make a triangle : ' + CanMakeTriangle(firstLine, secondLine, thirdLine));
+
+    </script>
+</body>
+</html>

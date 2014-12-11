@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Task 3</title>
+    <link href="styles/style.css" rel="stylesheet" />
+    <script src="scripts/show-hide-task.js"></script>
+    <script src="scripts/3.find-words-in-text.js"></script>
+</head>
+<body>
+    <div id="wrapper">
+        <div id="task-description">
+            <label for="task">Show task descrtiption</label>
+            <input type="checkbox" name="task" id="task" />
+        </div>
+        <div id="task-text">
+            Write a function that finds all the occurrences of word in a text<br>
+            The search can case sensitive or case insensitive<br>
+            Use function overloading
+        </div>
+        <label for="input">Enter the text (Or just click "Submit"):</label>
+        <textarea id="input" placeholder="Enter some text here"></textarea>
+        <label for="word">Which word will you search for?</label>
+        <input type="text" name="word" id="word" placeholder="Enter a word" />
+        <label for="search-type">Case sensitive search</label>
+        <input type="checkbox" id="search-type" name="search-type" value=" " />
+        <div id="center">
+            <input type="submit" id="submit" onclick="execute()" />
+        </div>
+        <div id="result"></div>
+    </div>
+</body>
+</html>

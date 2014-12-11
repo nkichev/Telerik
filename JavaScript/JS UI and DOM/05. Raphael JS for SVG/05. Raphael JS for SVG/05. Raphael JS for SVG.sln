@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TLogo", "TLogo\TLogo.csproj", "{A3352BC7-185F-4305-9768-72B7E809B403}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YouTubeLogo", "YouTubeLogo\YouTubeLogo.csproj", "{F3D33F27-1D05-4CFC-8BC1-E8E239DF518C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spiral", "Spiral\Spiral.csproj", "{DD9051B4-5197-4C22-99D4-B818C6BA325D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3352BC7-185F-4305-9768-72B7E809B403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3352BC7-185F-4305-9768-72B7E809B403}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3352BC7-185F-4305-9768-72B7E809B403}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3352BC7-185F-4305-9768-72B7E809B403}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3D33F27-1D05-4CFC-8BC1-E8E239DF518C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3D33F27-1D05-4CFC-8BC1-E8E239DF518C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3D33F27-1D05-4CFC-8BC1-E8E239DF518C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3D33F27-1D05-4CFC-8BC1-E8E239DF518C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD9051B4-5197-4C22-99D4-B818C6BA325D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD9051B4-5197-4C22-99D4-B818C6BA325D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD9051B4-5197-4C22-99D4-B818C6BA325D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD9051B4-5197-4C22-99D4-B818C6BA325D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

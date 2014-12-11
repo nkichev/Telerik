@@ -1,0 +1,4 @@
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\07. DOM-Operations\07. DOM-Operations\02. CirclingDivs\bin\_02.CirclingDivs.dll
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\07. DOM-Operations\07. DOM-Operations\02. CirclingDivs\bin\_02.CirclingDivs.pdb
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\07. DOM-Operations\07. DOM-Operations\02. CirclingDivs\obj\Debug\_02.CirclingDivs.dll
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\07. DOM-Operations\07. DOM-Operations\02. CirclingDivs\obj\Debug\_02.CirclingDivs.pdb

@@ -1,0 +1,5 @@
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\09. jQuery-Overview\09. jQuery-Overview\04. SetBackgroundColor\bin\_04.SetBackgroundColor.dll
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\09. jQuery-Overview\09. jQuery-Overview\04. SetBackgroundColor\bin\_04.SetBackgroundColor.pdb
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\09. jQuery-Overview\09. jQuery-Overview\04. SetBackgroundColor\obj\Debug\04. SetBackgroundColor.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\09. jQuery-Overview\09. jQuery-Overview\04. SetBackgroundColor\obj\Debug\_04.SetBackgroundColor.dll
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\09. jQuery-Overview\09. jQuery-Overview\04. SetBackgroundColor\obj\Debug\_04.SetBackgroundColor.pdb

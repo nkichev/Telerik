@@ -1,0 +1,6 @@
+E:\Downloads\Telerik\JavaScript\JavaScript OOP\Lection 6\Lection 6\bin\Lection 6.dll.config
+E:\Downloads\Telerik\JavaScript\JavaScript OOP\Lection 6\Lection 6\bin\Lection 6.dll
+E:\Downloads\Telerik\JavaScript\JavaScript OOP\Lection 6\Lection 6\bin\Lection 6.pdb
+E:\Downloads\Telerik\JavaScript\JavaScript OOP\Lection 6\Lection 6\obj\Debug\Lection 6.csprojResolveAssemblyReference.cache
+E:\Downloads\Telerik\JavaScript\JavaScript OOP\Lection 6\Lection 6\obj\Debug\Lection 6.dll
+E:\Downloads\Telerik\JavaScript\JavaScript OOP\Lection 6\Lection 6\obj\Debug\Lection 6.pdb

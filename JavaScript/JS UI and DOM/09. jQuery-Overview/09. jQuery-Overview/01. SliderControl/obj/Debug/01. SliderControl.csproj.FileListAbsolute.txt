@@ -1,0 +1,10 @@
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\09. jQuery-Overview\09. jQuery-Overview\01. SliderControl\bin\_01.SliderControl.dll
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\09. jQuery-Overview\09. jQuery-Overview\01. SliderControl\bin\_01.SliderControl.pdb
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\09. jQuery-Overview\09. jQuery-Overview\01. SliderControl\obj\Debug\01. SliderControl.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\09. jQuery-Overview\09. jQuery-Overview\01. SliderControl\obj\Debug\_01.SliderControl.dll
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\09. jQuery-Overview\09. jQuery-Overview\01. SliderControl\obj\Debug\_01.SliderControl.pdb
+C:\Users\Nikolai\Desktop\HW_nkichev_Osnovi-na-jQuery_2014-06-16_20-08\01. SliderControl\bin\_01.SliderControl.dll
+C:\Users\Nikolai\Desktop\HW_nkichev_Osnovi-na-jQuery_2014-06-16_20-08\01. SliderControl\bin\_01.SliderControl.pdb
+C:\Users\Nikolai\Desktop\HW_nkichev_Osnovi-na-jQuery_2014-06-16_20-08\01. SliderControl\obj\Debug\01. SliderControl.csprojResolveAssemblyReference.cache
+C:\Users\Nikolai\Desktop\HW_nkichev_Osnovi-na-jQuery_2014-06-16_20-08\01. SliderControl\obj\Debug\_01.SliderControl.dll
+C:\Users\Nikolai\Desktop\HW_nkichev_Osnovi-na-jQuery_2014-06-16_20-08\01. SliderControl\obj\Debug\_01.SliderControl.pdb

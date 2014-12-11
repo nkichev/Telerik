@@ -1,0 +1,5 @@
+E:\Projects\Telerik\JavaScript\HW\04. Operators-Expressions\04. Operators-Expressions\04. Operators-Expressions\bin\_04.Operators_Expressions.dll
+E:\Projects\Telerik\JavaScript\HW\04. Operators-Expressions\04. Operators-Expressions\04. Operators-Expressions\bin\_04.Operators_Expressions.pdb
+E:\Projects\Telerik\JavaScript\HW\04. Operators-Expressions\04. Operators-Expressions\04. Operators-Expressions\obj\Debug\04. Operators-Expressions.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\JavaScript\HW\04. Operators-Expressions\04. Operators-Expressions\04. Operators-Expressions\obj\Debug\_04.Operators_Expressions.dll
+E:\Projects\Telerik\JavaScript\HW\04. Operators-Expressions\04. Operators-Expressions\04. Operators-Expressions\obj\Debug\_04.Operators_Expressions.pdb

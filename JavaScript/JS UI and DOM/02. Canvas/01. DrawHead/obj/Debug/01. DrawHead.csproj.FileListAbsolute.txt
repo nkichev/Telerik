@@ -1,0 +1,5 @@
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\02. Canvas\01. DrawHead\bin\_01.DrawHead.dll
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\02. Canvas\01. DrawHead\bin\_01.DrawHead.pdb
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\02. Canvas\01. DrawHead\obj\Debug\01. DrawHead.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\02. Canvas\01. DrawHead\obj\Debug\_01.DrawHead.dll
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\02. Canvas\01. DrawHead\obj\Debug\_01.DrawHead.pdb

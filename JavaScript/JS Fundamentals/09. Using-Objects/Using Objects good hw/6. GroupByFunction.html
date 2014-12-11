@@ -1,0 +1,84 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Group By</title>
+    <link rel="stylesheet" type="text/css" href="styles/js-console.css" />
+</head>
+<body>
+    <p><strong>Write a function that groups an array of persons by age, first or last name. The function must return an associative array, with keys - the groups, and values -arrays with persons in this groups</strong></p>
+    <ul>
+        <li>Use function overloading (i.e. just one function)</li>
+    </ul>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+
+        var people = [
+            CreatePerson('Ivan', 'Ivanov', 18),
+            CreatePerson('Ivailo', 'Kenov', 27),
+            CreatePerson('Svetlin', 'Nakov', 32),
+            CreatePerson('Bobo', 'Bobev', 2),
+            CreatePerson('Bobo', 'Hristov', 27),
+            CreatePerson('Bobo', 'Nakov', 48)
+        ];
+
+        var groupedByFirstName = groupBy(people, "fname");
+        var groupedByLastName = groupBy(people, "lname");
+        var groupedByAge = groupBy(people, "age");
+
+
+        jsConsole.writeLine('All people:')
+        PrintArr(people);
+        jsConsole.writeLine();
+        jsConsole.writeLine("Grouped by first name:");
+        PrintArr(groupedByFirstName);
+        jsConsole.writeLine();
+        jsConsole.writeLine("Grouped by last name:");
+        PrintArr(groupedByLastName);
+        jsConsole.writeLine();
+        jsConsole.writeLine("Grouped by age");
+        PrintArr(groupedByAge);
+
+        function CreatePerson(fname, lname, age) {
+
+            return {
+                fname: fname,
+                lname: lname,
+                age: age,
+                toString: function () { return "FullName: " + this.fname + " " + this.lname + ", Age: " + this.age }
+            }
+        }
+
+        function groupBy(arr, property) {
+
+            if (!arr[0].hasOwnProperty(property)) {
+                throw new Error("The property does NOT exist");
+            }
+
+            groups = new Array();
+
+            arr.map(function (current) {
+                if (!groups[current[property]]) {
+                    groups[current[property]] = new Array();
+                }
+                groups[current[property]].push(current);
+            });
+
+            return groups;
+        }
+
+        function PrintArr(arr) {
+
+            for (var i in arr) {
+
+                jsConsole.writeLine(arr[i]);
+
+            }
+
+        }
+
+    </script>
+</body>
+</html>

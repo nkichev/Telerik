@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        // 01.Write a script that prints all the numbers from 1 to N
+        
+        var N = 15;
+
+        for (var i = 0; i <= N; i++) {
+            if (i === N) {
+                jsConsole.writeLine(i);
+            }
+            else {
+                jsConsole.write(i + ', ');
+            }
+        }
+
+        // 02.Write a script that prints all the numbers from 1 to N, that are not divisible by 3 and 7 at the same time
+        
+        var N = 98;
+
+        for (var i = 0; i <= N; i++) {
+            if (i % 21 !== 0) {
+                if (i !== N) {
+                    jsConsole.write(i + ', ');
+                }
+                else {
+                    jsConsole.writeLine(i);
+                }
+            }
+        }
+
+        // 03.Write a script that finds the max and min number from a sequence of numbers
+        
+        var arr = [3, 15, 24, 16, 24, 15],
+            max = arr[0],
+            min = arr[0];
+
+        for (var i = 0; i < arr.length - 1; i++) {
+            if (arr[i] > max) {
+                max = arr[i];
+            }
+            if (arr[i] < min) {
+                min = arr[i];
+            }
+        }
+
+        jsConsole.writeLine('max = ' + max + ' ' + 'min = ' + min);
+
+        // 04. Write a script that finds the lexicographically smallest and largest property in document, window and navigator objects
+        
+        var arr = [document, window, navigator],
+            properties = '',
+            sortedProperties = [];
+
+        for (var i = 0; i < arr.length - 1; i++) {
+            for (var property in arr[i]) {
+                properties += property + ' ';
+            }
+        }
+
+        sortedProperties = properties.split(' ').sort();
+        //jsConsole.writeLine(sortedProperties);
+        properties = ('Min = ' + sortedProperties[1] + ' ' + 'Max = ' + sortedProperties[sortedProperties.length - 1]);
+        jsConsole.writeLine(properties);
+
+    </script>
+</body>
+</html>

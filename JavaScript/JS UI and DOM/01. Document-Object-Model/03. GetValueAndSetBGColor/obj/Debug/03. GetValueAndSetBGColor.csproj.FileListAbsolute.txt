@@ -1,0 +1,5 @@
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\01. Document-Object-Model\03. GetValueAndSetBGColor\bin\_03.GetValueAndSetBGColor.dll
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\01. Document-Object-Model\03. GetValueAndSetBGColor\bin\_03.GetValueAndSetBGColor.pdb
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\01. Document-Object-Model\03. GetValueAndSetBGColor\obj\Debug\_03.GetValueAndSetBGColor.dll
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\01. Document-Object-Model\03. GetValueAndSetBGColor\obj\Debug\_03.GetValueAndSetBGColor.pdb
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\01. Document-Object-Model\03. GetValueAndSetBGColor\obj\Debug\03. GetValueAndSetBGColor.csprojResolveAssemblyReference.cache

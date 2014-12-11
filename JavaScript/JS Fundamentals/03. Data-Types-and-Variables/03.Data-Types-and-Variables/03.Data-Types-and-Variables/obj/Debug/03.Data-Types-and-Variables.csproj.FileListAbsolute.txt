@@ -1,0 +1,5 @@
+E:\Projects\Telerik\JavaScript\HW\03. Data-Types-and-Variables\03.Data-Types-and-Variables\03.Data-Types-and-Variables\bin\03.Data-Types-and-Variables.dll
+E:\Projects\Telerik\JavaScript\HW\03. Data-Types-and-Variables\03.Data-Types-and-Variables\03.Data-Types-and-Variables\bin\03.Data-Types-and-Variables.pdb
+E:\Projects\Telerik\JavaScript\HW\03. Data-Types-and-Variables\03.Data-Types-and-Variables\03.Data-Types-and-Variables\obj\Debug\03.Data-Types-and-Variables.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\JavaScript\HW\03. Data-Types-and-Variables\03.Data-Types-and-Variables\03.Data-Types-and-Variables\obj\Debug\03.Data-Types-and-Variables.dll
+E:\Projects\Telerik\JavaScript\HW\03. Data-Types-and-Variables\03.Data-Types-and-Variables\03.Data-Types-and-Variables\obj\Debug\03.Data-Types-and-Variables.pdb

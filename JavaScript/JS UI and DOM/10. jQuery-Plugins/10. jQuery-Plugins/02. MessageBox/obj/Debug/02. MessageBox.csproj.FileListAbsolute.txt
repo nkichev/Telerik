@@ -1,0 +1,5 @@
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\10. jQuery-Plugins\10. jQuery-Plugins\02. MessageBox\bin\_02.MessageBox.dll
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\10. jQuery-Plugins\10. jQuery-Plugins\02. MessageBox\bin\_02.MessageBox.pdb
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\10. jQuery-Plugins\10. jQuery-Plugins\02. MessageBox\obj\Debug\02. MessageBox.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\10. jQuery-Plugins\10. jQuery-Plugins\02. MessageBox\obj\Debug\_02.MessageBox.dll
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\10. jQuery-Plugins\10. jQuery-Plugins\02. MessageBox\obj\Debug\_02.MessageBox.pdb

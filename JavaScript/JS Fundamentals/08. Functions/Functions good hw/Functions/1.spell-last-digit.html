@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Task 1</title>
+    <link href="styles/style.css" rel="stylesheet" />
+    <script src="scripts/show-hide-task.js"></script>
+    <script src="scripts/1.spell-last-digit.js"></script>
+</head>
+<body>
+    <div id="wrapper">
+        <div id="task-description">
+            <label for="task">Show task descrtiption</label>
+            <input type="checkbox" name="task" id="task" />
+        </div>
+        <div id="task-text">
+            Write a function that returns the last digit of given integer as an English word.<br>
+            Examples: 512 -> "two", 1024 -> "four", 12309 -> "nine"
+        </div>
+        <label for="input">Enter a number:</label>
+        <input type="text" name="input" id="input" placeholder="Enter a number" />
+        <div id="center">
+            <input type="submit" id="submit" onclick="execute()" />
+        </div>
+        <div id="result"></div>
+    </div>
+</body>
+</html>

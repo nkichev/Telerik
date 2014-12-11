@@ -1,0 +1,5 @@
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\10. jQuery-Plugins\10. jQuery-Plugins\01. Dropdown\bin\_01.Dropdown.dll
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\10. jQuery-Plugins\10. jQuery-Plugins\01. Dropdown\bin\_01.Dropdown.pdb
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\10. jQuery-Plugins\10. jQuery-Plugins\01. Dropdown\obj\Debug\01. Dropdown.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\10. jQuery-Plugins\10. jQuery-Plugins\01. Dropdown\obj\Debug\_01.Dropdown.dll
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\10. jQuery-Plugins\10. jQuery-Plugins\01. Dropdown\obj\Debug\_01.Dropdown.pdb

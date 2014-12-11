@@ -1,0 +1,5 @@
+E:\Projects\Telerik\JavaScript\HW\10. Strings\10. Strings\10. Strings\bin\_10.Strings.dll
+E:\Projects\Telerik\JavaScript\HW\10. Strings\10. Strings\10. Strings\bin\_10.Strings.pdb
+E:\Projects\Telerik\JavaScript\HW\10. Strings\10. Strings\10. Strings\obj\Debug\10. Strings.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\JavaScript\HW\10. Strings\10. Strings\10. Strings\obj\Debug\_10.Strings.dll
+E:\Projects\Telerik\JavaScript\HW\10. Strings\10. Strings\10. Strings\obj\Debug\_10.Strings.pdb

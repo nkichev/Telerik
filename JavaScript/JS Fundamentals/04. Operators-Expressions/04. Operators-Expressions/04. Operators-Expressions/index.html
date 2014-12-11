@@ -1,0 +1,98 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        // 01.Write an expression that checks if given integer is odd or even.
+        
+        var num = 128,
+            isOdd = (num % 2 === 0);
+
+        jsConsole.writeLine('Is odd ? ' + (isOdd ? 'True' : 'False'));
+
+        // 02.Write a boolean expression that checks for given integer if it can be divided (without remainder) by 7 and 5 in the same time.
+        
+        var num = 245,
+            isDivided = (num % 35 === 0);
+
+        jsConsole.writeLine('Is divided by 35 ? ' + (isDivided ? 'True' : 'False'));
+
+        // 03.Write an expression that calculates rectangle’s area by given width and height.
+
+        var width = 6,
+            height = 4,
+            rectangleArea = width * height;
+
+        jsConsole.writeLine('Rectangle\'s area = ' + rectangleArea);
+
+        // 04.Write an expression that checks for given integer if its third digit (right-to-left) is 7. E. g. 1732  true.
+        
+        var number = 17846,
+            isDigitSeven = (parseInt((number / 100) % 10) === 7);
+
+        jsConsole.writeLine('Is third digit 7 ? ' + (isDigitSeven ? 'True' : 'False'));
+
+        // 05.Write a boolean expression for finding if the bit 3 (counting from 0) of a given integer is 1 or 0
+
+        var num = 15,
+            position = 3,
+            mask = 1 << position,
+            result = num & mask,
+            bit = result >> position,
+            isDigitOne = (bit === 1);
+
+        jsConsole.writeLine('Is third digit of ' + num + ' : 1 ? ' + (isDigitOne ? 'True' : 'False'));
+
+        // 06.Write an expression that checks if given print (x,  y) is within a circle K(O, 5).
+
+        var x = 3,
+            y = 2,
+            radius = 5,
+            isWithin = ((x * x) + (y * y)) <= (radius * radius);
+        
+        jsConsole.writeLine('Is within the circle ? ' + (isWithin ? 'True' : 'False'));
+        
+        // 07.Write an expression that checks if given positive integer number n (n ≤ 100) is prime. E.g. 37 is prime.
+
+        var n = 53,
+            divider = 2,
+            maxDivider = parseInt(Math.sqrt(n)),
+            isPrime = true;
+
+        while (isPrime && (divider <= maxDivider)) {
+            if (n % divider == 0) {
+                isPrime = false;
+            }
+            divider += 1;
+        }
+
+        jsConsole.writeLine('Is prime ? ' + isPrime);
+
+        // 08.Write an expression that calculates trapezoid's area by given sides a and b and height h.
+
+        var a = 10,
+            b = 4,
+            h = 5,
+            area = (((a + b) / 2) * h);
+
+        jsConsole.writeLine('Area = ' + area);
+
+        // 09.Write an expression that checks for given point (x, y) if it is within the circle K( (1,1), 3) 
+        // and out of the rectangle R(top=1, left=-1, width=6, height=2).
+
+        var x = 3,
+            y = 3,
+            isWithinCirlce = (((x - 1) * (x - 1)) + ((y - 1) * (y - 1))) <= 9,
+            isWithinRectangle = (x >= 1) && (x <= 5) && (y <= -1) && (y >= -3),
+            isWithinCircleOutRectangle = isWithinCirlce && !isWithinRectangle;
+
+        jsConsole.writeLine('Is it within the circle and out of the rectangle ? ' + isWithinCircleOutRectangle);
+
+    </script>
+</body>
+</html>

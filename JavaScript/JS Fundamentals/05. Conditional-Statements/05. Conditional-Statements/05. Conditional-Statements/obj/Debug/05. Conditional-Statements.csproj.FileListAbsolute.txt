@@ -1,0 +1,5 @@
+E:\Projects\Telerik\JavaScript\HW\05. Conditional-Statements\05. Conditional-Statements\05. Conditional-Statements\bin\_05.Conditional_Statements.dll
+E:\Projects\Telerik\JavaScript\HW\05. Conditional-Statements\05. Conditional-Statements\05. Conditional-Statements\bin\_05.Conditional_Statements.pdb
+E:\Projects\Telerik\JavaScript\HW\05. Conditional-Statements\05. Conditional-Statements\05. Conditional-Statements\obj\Debug\05. Conditional-Statements.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\JavaScript\HW\05. Conditional-Statements\05. Conditional-Statements\05. Conditional-Statements\obj\Debug\_05.Conditional_Statements.dll
+E:\Projects\Telerik\JavaScript\HW\05. Conditional-Statements\05. Conditional-Statements\05. Conditional-Statements\obj\Debug\_05.Conditional_Statements.pdb

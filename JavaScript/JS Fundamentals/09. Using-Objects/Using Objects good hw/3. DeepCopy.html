@@ -1,0 +1,79 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Deep Copy</title>
+    <link rel="stylesheet" type="text/css" href="styles/js-console.css" />
+</head>
+<body>
+    <p><strong>Write a function that makes a deep copy of an object</strong></p>
+    <ul>
+        <li>The function should work for both primitive and reference types</li>
+    </ul>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+
+        function deepCopy(obj) {
+
+            if (obj == null || typeof obj != "object") {
+
+                return obj;
+
+            }
+
+            if (obj instanceof Array) {
+
+                var arrayCopy = new Array();
+
+                for (var i = 0; i < obj.length; i++) {
+
+                    arrayCopy[i] = deepCopy(obj[i]);
+
+                }
+
+                return arrayCopy;
+            }
+
+            if (obj instanceof Object) {
+
+                var objectCopy = new Object();
+
+                for (var attribute in obj) {
+
+                    if (obj.hasOwnProperty(attribute)) {
+
+                        objectCopy[attribute] = deepCopy(obj[attribute]);
+
+                    }
+
+                }
+
+                return objectCopy;
+            }
+        }
+
+        var person = {
+
+            firstName: 'Ivan',
+            lastName: 'Ivanov',
+            Age: 18,
+            toString: function () {
+
+                return 'Name: ' + this.firstName + ' ' + this.lastName + ' Age: ' + this.Age;
+
+            }
+        }
+
+        jsConsole.writeLine('Person: ' + person);
+
+        var copyOfPerson = deepCopy(person);
+        copyOfPerson.firstName = 'Pesho';
+
+        jsConsole.writeLine('Original Person: ' + person);
+        jsConsole.writeLine('Changed Copy: ' + copyOfPerson);
+
+    </script>
+</body>
+</html>

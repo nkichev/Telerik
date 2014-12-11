@@ -1,0 +1,5 @@
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\07. DOM-Operations\07. DOM-Operations\05. TreeView\bin\_05.TreeView.dll
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\07. DOM-Operations\07. DOM-Operations\05. TreeView\bin\_05.TreeView.pdb
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\07. DOM-Operations\07. DOM-Operations\05. TreeView\obj\Debug\05. TreeView.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\07. DOM-Operations\07. DOM-Operations\05. TreeView\obj\Debug\_05.TreeView.dll
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\07. DOM-Operations\07. DOM-Operations\05. TreeView\obj\Debug\_05.TreeView.pdb

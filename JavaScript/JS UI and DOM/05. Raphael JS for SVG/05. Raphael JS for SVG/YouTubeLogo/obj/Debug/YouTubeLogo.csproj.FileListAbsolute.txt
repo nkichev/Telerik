@@ -1,0 +1,4 @@
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\05. Raphael JS for SVG\05. Raphael JS for SVG\YouTubeLogo\bin\YouTubeLogo.dll
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\05. Raphael JS for SVG\05. Raphael JS for SVG\YouTubeLogo\bin\YouTubeLogo.pdb
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\05. Raphael JS for SVG\05. Raphael JS for SVG\YouTubeLogo\obj\Debug\YouTubeLogo.dll
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\05. Raphael JS for SVG\05. Raphael JS for SVG\YouTubeLogo\obj\Debug\YouTubeLogo.pdb

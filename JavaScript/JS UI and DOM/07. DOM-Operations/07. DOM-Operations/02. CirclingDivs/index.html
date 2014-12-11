@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        (function () {
+            var dFrag = document.createDocumentFragment(),
+                width = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth,
+                height = window.innerHeight || document.documentElement.innerHeight || document.body.innerHeight,
+
+                centerPoint = {
+                    x: width / 2,
+                    y: height / 2,
+                    angle: 0.01,
+                    radius: 55
+                };
+
+            for (var i = 0; i < 6; i++) {
+                var div = generateDiv();
+                dFrag.appendChild(div);
+            }
+
+            document.body.appendChild(dFrag);
+
+            var divs = document.getElementsByTagName('div');
+
+            animation();
+
+            function animation() {
+                setInterval(function() {
+                    centerPoint.angle += 0.1;
+
+                    for (var i = 0; i < divs.length; i++) {
+                        var currentAngle = centerPoint.angle + i * 2 * Math.PI / 5;
+                        var x = centerPoint.y + centerPoint.radius * Math.sin(currentAngle)
+                        var y = centerPoint.x + centerPoint.radius * Math.cos(currentAngle);
+
+                        divs[i].style.top = x + 'px';
+                        divs[i].style.left = y + 'px';
+                    }
+                }
+                , 100)
+            };
+                        
+            function generateDiv() {
+                var div = document.createElement('div');
+                div.style.border = '1px solid black';
+                div.style.width = '30px';
+                div.style.height = '30px';
+                div.style.backgroundColor = '#fdadfb';
+                div.style.borderRadius = '50%';
+                div.style.position = 'absolute';
+                div.style.top = 0 + '%';
+                div.style.left = 0 + '%';
+                return div;
+            }
+        }());
+    </script>
+</body>
+</html>

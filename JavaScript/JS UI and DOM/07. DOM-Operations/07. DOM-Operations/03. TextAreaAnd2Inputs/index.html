@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        var textArea = document.createElement('textarea'),
+            firstInput = document.createElement('input'),
+            secondInput = document.createElement('input');
+
+        firstInput.setAttribute('type', 'color');
+        secondInput.setAttribute('type', 'color');
+        
+        firstInput.addEventListener('change', function onSetFontColorChange() {
+            var color = this.value;
+            textArea.style.color = color;
+        }, false);
+        secondInput.addEventListener('change', function onSetBackgroundColorChange() {
+            var color = this.value;
+            textArea.style.backgroundColor = color;
+        }, false);
+
+        var dFrag = document.createDocumentFragment();
+        dFrag.appendChild(textArea);
+        dFrag.appendChild(firstInput);
+        dFrag.appendChild(secondInput);
+
+        document.body.appendChild(dFrag);
+    </script>
+</body>
+</html>

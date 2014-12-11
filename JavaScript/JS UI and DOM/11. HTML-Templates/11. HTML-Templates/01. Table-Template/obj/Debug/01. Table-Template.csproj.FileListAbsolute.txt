@@ -1,0 +1,5 @@
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\11. HTML-Templates\11. HTML-Templates\01. Table-Template\bin\_01.Table_Template.dll
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\11. HTML-Templates\11. HTML-Templates\01. Table-Template\bin\_01.Table_Template.pdb
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\11. HTML-Templates\11. HTML-Templates\01. Table-Template\obj\Debug\01. Table-Template.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\11. HTML-Templates\11. HTML-Templates\01. Table-Template\obj\Debug\_01.Table_Template.dll
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\11. HTML-Templates\11. HTML-Templates\01. Table-Template\obj\Debug\_01.Table_Template.pdb

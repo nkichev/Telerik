@@ -1,0 +1,4 @@
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\07. DOM-Operations\07. DOM-Operations\03. TextAreaAnd2Inputs\bin\_03.TextAreaAnd2Inputs.dll
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\07. DOM-Operations\07. DOM-Operations\03. TextAreaAnd2Inputs\bin\_03.TextAreaAnd2Inputs.pdb
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\07. DOM-Operations\07. DOM-Operations\03. TextAreaAnd2Inputs\obj\Debug\_03.TextAreaAnd2Inputs.dll
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\07. DOM-Operations\07. DOM-Operations\03. TextAreaAnd2Inputs\obj\Debug\_03.TextAreaAnd2Inputs.pdb

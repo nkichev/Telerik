@@ -1,0 +1,5 @@
+E:\Projects\Telerik\JavaScript\JS Apps\HW\07. Consuming-Remote-Data\07. Consuming-Remote-Data\bin\_07.Consuming_Remote_Data.dll
+E:\Projects\Telerik\JavaScript\JS Apps\HW\07. Consuming-Remote-Data\07. Consuming-Remote-Data\bin\_07.Consuming_Remote_Data.pdb
+E:\Projects\Telerik\JavaScript\JS Apps\HW\07. Consuming-Remote-Data\07. Consuming-Remote-Data\obj\Debug\07. Consuming-Remote-Data.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\JavaScript\JS Apps\HW\07. Consuming-Remote-Data\07. Consuming-Remote-Data\obj\Debug\_07.Consuming_Remote_Data.dll
+E:\Projects\Telerik\JavaScript\JS Apps\HW\07. Consuming-Remote-Data\07. Consuming-Remote-Data\obj\Debug\_07.Consuming_Remote_Data.pdb

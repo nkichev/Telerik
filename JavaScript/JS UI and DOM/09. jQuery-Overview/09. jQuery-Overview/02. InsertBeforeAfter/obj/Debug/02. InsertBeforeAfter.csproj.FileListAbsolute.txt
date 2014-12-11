@@ -1,0 +1,12 @@
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\09. jQuery-Overview\09. jQuery-Overview\02. InsertBeforeAfter\bin\_02.InsertBeforeAfter.dll
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\09. jQuery-Overview\09. jQuery-Overview\02. InsertBeforeAfter\bin\_02.InsertBeforeAfter.pdb
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\09. jQuery-Overview\09. jQuery-Overview\02. InsertBeforeAfter\obj\Debug\_02.InsertBeforeAfter.dll
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\09. jQuery-Overview\09. jQuery-Overview\02. InsertBeforeAfter\obj\Debug\_02.InsertBeforeAfter.pdb
+C:\Users\Nikolai\Desktop\HW_nkichev_Osnovi-na-jQuery_2014-06-16_20-08\02. InsertBeforeAfter\bin\_02.InsertBeforeAfter.dll
+C:\Users\Nikolai\Desktop\HW_nkichev_Osnovi-na-jQuery_2014-06-16_20-08\02. InsertBeforeAfter\bin\_02.InsertBeforeAfter.pdb
+C:\Users\Nikolai\Desktop\HW_nkichev_Osnovi-na-jQuery_2014-06-16_20-08\02. InsertBeforeAfter\obj\Debug\_02.InsertBeforeAfter.dll
+C:\Users\Nikolai\Desktop\HW_nkichev_Osnovi-na-jQuery_2014-06-16_20-08\02. InsertBeforeAfter\obj\Debug\_02.InsertBeforeAfter.pdb
+C:\Users\Nikolai\Desktop\HW_nkichev_Osnovi-na-jQuery_2014-06-16_20-21\02. InsertBeforeAfter\bin\_02.InsertBeforeAfter.dll
+C:\Users\Nikolai\Desktop\HW_nkichev_Osnovi-na-jQuery_2014-06-16_20-21\02. InsertBeforeAfter\bin\_02.InsertBeforeAfter.pdb
+C:\Users\Nikolai\Desktop\HW_nkichev_Osnovi-na-jQuery_2014-06-16_20-21\02. InsertBeforeAfter\obj\Debug\_02.InsertBeforeAfter.dll
+C:\Users\Nikolai\Desktop\HW_nkichev_Osnovi-na-jQuery_2014-06-16_20-21\02. InsertBeforeAfter\obj\Debug\_02.InsertBeforeAfter.pdb

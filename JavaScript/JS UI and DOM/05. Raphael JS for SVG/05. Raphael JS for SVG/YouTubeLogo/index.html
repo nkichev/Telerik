@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <div id="svg-container"></div>
+    <script src="scripts/raphael.js"></script>
+    <script>
+        var paper = Raphael('svg-container', 450, 400);
+
+        paper.rect(0, 0, 415, 185)
+            .attr({
+                stroke: '#fff',
+                fill: '#323232'
+            })
+
+        paper.rect(30, 30, 350, 120, 1)
+            .attr({
+                fill: '#fff',
+                stroke: '#DAEDF2',
+                'stroke-width': 3
+            })
+
+        paper.text(105, 90, 'You')
+            .attr({
+                fill: '#4B4B4B',
+                stroke: '#4B4B4B',
+                'font-size': 75
+            })
+
+        paper.rect(180, 40, 185, 100, 23)
+            .attr({
+                fill: '#EC2828',
+                stroke: '#fff'
+            })
+
+        paper.text(270, 90, 'Tube')
+            .attr({
+                fill: '#fff',
+                stroke: '#fff',
+                'font-size': 75
+            })
+    </script>
+</body>
+</html>

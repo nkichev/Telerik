@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        var div = document.createElement('div');
+        var tags = ["cms", "javascript", "js", "ASP.NET MVC", ".net", ".net", "css",
+            "wordpress", "xaml", "js", "http", "web", "asp.net", "asp.net MVC",
+            "ASP.NET MVC", "wp", "javascript", "js", "cms", "html", "javascript", "http", "http", "CMS"];
+
+        GenerateTagsCloud(tags, 17, 42);
+
+        function GenerateTagsCloud(tags, minFontSize, maxFontSize) {
+            var countArr = [];
+
+            for (var i = 0; i < tags.length; i++) {
+                var count = 0;
+                for (var j = i + 1; j < tags.length; j++) {
+                    if (tags[i].toLocaleLowerCase() === tags[j].toLocaleLowerCase()) {
+                        count += 1;
+                        tags.splice(j, 1);
+                        j -= 1;
+                    }
+                }
+                countArr.push(count);
+            }
+
+            for (var i = 0; i < tags.length; i++) {
+                var result = document.createElement('span');
+                result.style.fontSize = countArr[i] <= 0 ? minFontSize : (countArr[i] >= maxFontSize ? maxFontSize : minFontSize + countArr[i] * 2) + 'px';
+                result.innerText += tags[i] + ' ';
+                div.appendChild(result);
+            }
+
+            document.body.appendChild(div);
+        }
+               
+    </script>
+</body>
+</html>

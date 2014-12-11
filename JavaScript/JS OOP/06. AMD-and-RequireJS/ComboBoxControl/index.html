@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style>
+        .person-item {
+            border: 1px solid lightblue;
+            border-radius: 15px;
+            width: 130px;
+            text-align: center;
+        }
+        .person-item:hover{
+            background-color: lightblue;
+            cursor: pointer;
+        }
+        img {
+            border-radius: 15px;
+        }
+    </style>
+</head>
+<body>
+    <div id="container"></div>
+    <script src="scripts/libs/require.js" data-main="scripts/app"></script>
+    <script type="text/x-handlebars-template" id="person-template">
+        <div class="person-item" id="person-item-{{id}}">
+            <strong class="person-name">{{name}}</strong><p class="person-age">{{age}}</p>
+            <img src="{{avatarUrl}}" width="100px" />
+        </div>
+    </script>
+</body>
+</html>

@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style>
+        table, th, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+        }
+    </style>
+    <script src="scripts/jquery-2.1.1.min.js"></script>
+</head>
+<body>
+    <div id="container">
+        
+    </div>
+    <script>
+        var arr = [
+            {
+                firstName: 'Peter',
+                lastName: 'Ivanov',
+                grade: 3
+            },
+            {
+                firstName: 'Milena',
+                lastName: 'Grigorova',
+                grade: 6
+            },
+            {
+                firstName: 'Gergana',
+                lastName: 'Borisova',
+                grade: 12
+            },
+            {
+                firstName: 'Boyko',
+                lastName: 'Petrov',
+                grade: 7
+            },
+            {
+                firstName: 'Gosho',
+                lastName: 'Pichov',
+                grade: 12
+            },
+            {
+                firstName: 'Pesho',
+                lastName: 'Dimitrov',
+                grade: 6
+            }
+        ];
+
+        var $table = $('<table>'),
+            $thead = $('<thead>'),
+            $tr = $('<tr>'),
+            $th = $('<th>').text('First name').appendTo($tr),
+            $th = $('<th>').text('Second name').appendTo($tr),
+            $th = $('<th>').text('Grade').appendTo($tr),
+            $tbody = $('<tbody>');
+
+        $tr.appendTo($thead);
+        $thead.appendTo($table);
+        $tbody.appendTo($table);
+        $table.appendTo($('#container'));
+
+        for (var i in arr) {
+            var $tr = $('<tr>');
+            $tr.append($('<td>').text(arr[i].firstName));
+            $tr.append($('<td>').text(arr[i].lastName));
+            $tr.append($('<td>').text(arr[i].grade));
+
+            $tr.appendTo($tbody);
+        }
+
+    </script>
+</body>
+</html>

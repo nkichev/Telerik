@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <button id="ellipse" >Add div elliptic motion</button>
+    <button id="rectangle">Add div rectangular motion</button>
+    <div id="content"></div>
+    <script src="scripts/movingShapes.js"></script>
+    <script>
+        var btnEllipse = document.getElementById('ellipse'),
+            btnRect = document.getElementById('rectangle');
+
+        function ellipseMotion() {
+            movingShapes.add('ellipse');
+        }
+
+        function rectMotion() {
+            movingShapes.add('rect');
+        }
+
+        btnEllipse.addEventListener('click', ellipseMotion, false);
+        btnRect.addEventListener('click', rectMotion, false);
+    </script>
+</body>
+</html>

@@ -1,0 +1,4 @@
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\05. Raphael JS for SVG\05. Raphael JS for SVG\Spiral\bin\Spiral.dll
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\05. Raphael JS for SVG\05. Raphael JS for SVG\Spiral\bin\Spiral.pdb
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\05. Raphael JS for SVG\05. Raphael JS for SVG\Spiral\obj\Debug\Spiral.dll
+E:\Projects\Telerik\JavaScript\JS UI and DOM\HW\05. Raphael JS for SVG\05. Raphael JS for SVG\Spiral\obj\Debug\Spiral.pdb

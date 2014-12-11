@@ -1,0 +1,5 @@
+E:\Projects\Telerik\JavaScript\HW\08. Functions\08. Functions\08. Functions\bin\_08.Functions.dll
+E:\Projects\Telerik\JavaScript\HW\08. Functions\08. Functions\08. Functions\bin\_08.Functions.pdb
+E:\Projects\Telerik\JavaScript\HW\08. Functions\08. Functions\08. Functions\obj\Debug\08. Functions.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\JavaScript\HW\08. Functions\08. Functions\08. Functions\obj\Debug\_08.Functions.dll
+E:\Projects\Telerik\JavaScript\HW\08. Functions\08. Functions\08. Functions\obj\Debug\_08.Functions.pdb

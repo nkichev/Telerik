@@ -1,0 +1,5 @@
+E:\Projects\Telerik\JavaScript\HW\06. Loops\06. Loops\06. Loops\bin\_06.Loops.dll
+E:\Projects\Telerik\JavaScript\HW\06. Loops\06. Loops\06. Loops\bin\_06.Loops.pdb
+E:\Projects\Telerik\JavaScript\HW\06. Loops\06. Loops\06. Loops\obj\Debug\06. Loops.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\JavaScript\HW\06. Loops\06. Loops\06. Loops\obj\Debug\_06.Loops.dll
+E:\Projects\Telerik\JavaScript\HW\06. Loops\06. Loops\06. Loops\obj\Debug\_06.Loops.pdb

@@ -1,0 +1,329 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        // 01. Write a JavaScript function reverses string and returns it.
+        // Example: "sample" - "elpmas".
+
+        function reverseString(str) {
+            var reversed = '';
+
+            for (var i = 0; i < str.length; i++) {
+                reversed += str[str.length - 1 - i];
+            }
+
+            return reversed;
+        }
+
+        var str = 'sample';
+        str = reverseString(str);
+        jsConsole.writeLine(str);
+
+        // 02. Write a JavaScript function to check if in a given expression the brackets are put correctly.
+        // Example of correct expression: ((a+b)/5-d).
+        // Example of incorrect expression: )(a+b)).
+
+        function checkIfBracketsAreCorrect(str) {
+            var areCorrect = true,
+                countOpenBrackets = 0,
+                countCloseBrackets = 0;
+
+            for (var i = 0; i < str.length; i++) {
+                if (str[i] === '(') {
+                    countOpenBrackets += 1;
+                }
+                if (str[i] === ')') {
+                    countCloseBrackets += 1;
+                }
+            }
+
+            if (countOpenBrackets !== countCloseBrackets) {
+                areCorrect = false;
+            }
+
+            return areCorrect;
+        }
+
+        var str = '((a+b)/5-d)',
+            areCorrect = checkIfBracketsAreCorrect(str);
+        jsConsole.writeLine(areCorrect);
+
+        var str = ')(a+b))',
+            areCorrect = checkIfBracketsAreCorrect(str);
+        jsConsole.writeLine(areCorrect);
+
+        var str = ')))((a-b)/ 5)((a+b))',
+            areCorrect = checkIfBracketsAreCorrect(str);
+        jsConsole.writeLine(areCorrect);
+
+        // 03. Write a JavaScript function that finds how many times a substring is contained in a given text (perform case insensitive search).
+        // Example: The target substring is "in". The text is as follows:
+        // "We are living in an yellow submarine. We don't have anything else. 
+        // Inside the submarine is very tight. So we are drinking all the day. 
+        // We will move out of it in 5 days."
+        // The result is: 9.
+
+        function countSubstringOccurrances(str, substr) {
+            var count = 0,
+                str = str.toLowerCase();
+                index = str.indexOf(substr);
+
+            while (index > -1) {
+                count += 1;
+                index = str.indexOf(substr, index + 1);
+            }
+            return count;
+        }
+
+        var text = 'We are living in an yellow submarine.';
+        var count = countSubstringOccurrances(text, 'in');
+        jsConsole.writeLine(count);
+
+        // 04. You are given a text. Write a function that changes the text in all regions:
+        // <upcase>text</upcase> to uppercase.
+        // <lowcase>text</lowcase> to lowercase
+        // <mixcase>text</mixcase> to mix casing(random)
+        // "We are <mixcase>living</mixcase> in a <upcase>yellow submarine</upcase>. 
+        // We <mixcase>don't</mixcase> have <lowcase>anything</lowcase> else."
+        // The expected result:
+        // "We are LiVinG in a YELLOW SUBMARINE. We dOn'T have anything else."
+        // Regions can be nested
+
+        var text = 'We are <mixcase>living</mixcase> in a <upcase>yellow submarine</upcase>.'
+        + 'We <mixcase>don\'t</mixcase> have <lowcase>TRALALA</lowcase> else.'; 
+
+        var transformedText = text;
+        transformedText = toMixCase(transformedText);
+        transformedText = toUpCase(transformedText);
+        transformedText = toLowCase(transformedText);
+        jsConsole.writeLine(transformedText);
+
+        function toUpCase(text) {
+            var indexStart = text.indexOf("<upcase>");
+            while (indexStart > -1) {
+                var innerText = text.substring(indexStart + 8, text.indexOf("</upcase>", indexStart))
+                var upperText = innerText.toUpperCase();
+                text = text.replace(innerText, upperText);
+                indexStart = text.indexOf("<upcase>", indexStart + 1);
+            }
+            return text;
+        }
+        function toMixCase(text) {
+            var indexStart = text.indexOf("<mixcase>");
+            while (indexStart > -1) {
+                var innerText = text.substring(indexStart + 9, text.indexOf("</mixcase>", indexStart));
+                var mixedText = new String(innerText);
+                for (var i = 0; i < mixedText.length ; i++) {
+                    if (i % 2 === 0) {
+                        mixedText = mixedText.replace(mixedText[i], mixedText[i].toLowerCase())
+                    }
+                    else {
+                        mixedText = mixedText.replace(mixedText[i], mixedText[i].toUpperCase())
+                    }
+                }
+                text = text.replace(innerText, mixedText);
+                indexStart = text.indexOf("<mixcase>", indexStart + 1);
+            }
+            return text;
+        }
+        function toLowCase(text) {
+            var indexStart = text.indexOf("<lowcase>");
+            while (indexStart > -1) {
+                var innerText = text.substring(indexStart + 9, text.indexOf("</lowcase>", indexStart));
+                var lowerText = innerText.toLowerCase();
+                text = text.replace(innerText, lowerText);
+                indexStart = text.indexOf("<lowcase>", indexStart + 1);
+            }
+            return text;
+        }
+
+        // 05. Write a function that replaces non breaking white-spaces in a text with &nbsp;
+
+        if (!String.prototype.htmlEscape) {
+            String.prototype.htmlEscape = function () {
+                return this.replace(/ /g, '&bnsp');
+            }
+        }
+
+        var text = '    WE ARE LIVING ';
+        jsConsole.writeLine(text.htmlEscape());
+
+        // 06. Write a function that extracts the content of a html page given as text. 
+        // The function should return anything that is in a tag, without the tags:
+        //   <html><head><title>Sample site</title></head><body><div>text<div>more 
+        //   text</div>and more...</div>in body</body></html>
+        // result:
+        //    Sample sitetextmore textand more...in body
+
+        function extractContent(str) {
+            var extractedText = '',
+                closeIndex = str.indexOf('>');
+
+            while (closeIndex > -1 && closeIndex !== str.length - 1) {
+                if (str[closeIndex + 1] !== '<') {
+                    var stringStart = str.substring(closeIndex + 1, str.indexOf('<', closeIndex + 1));
+                    extractedText += stringStart;
+                }
+                closeIndex = str.indexOf('>', closeIndex + 1);
+            }
+
+            return extractedText;
+        }
+
+        var str = '<html><head><title>Sample site</title></head><body><div>text<div>more' +
+            ' text</div>and more...</div>in body</body></html>';
+        str = extractContent(str);
+        jsConsole.writeLine(str);
+
+        // 07.Write a script that parses an URL address given in the format:
+        // [protocol]://[server]/[resource]
+        // and extracts from it the [protocol], [server] and [resource] elements. 
+        // Return the elements in a JSON object.For example from the URL http://www.devbg.org/forum/index.php the following 
+        // information should be extracted:
+        // {protocol: 'http', server: 'www.devbg.org', 
+        // resource: '/forum/index.php'}
+
+        function parseURL(str) {
+            var obj = {};
+
+            obj.protocol = str.substring(0, str.indexOf(':'));
+            obj.server = str.substring(str.indexOf('/') + 2, str.indexOf('/', str.indexOf('/') + 2));
+            str = str.replace(obj.protocol, ' ').replace('://', ' ').replace(obj.server, '');
+            obj.resource = str.substr(str.indexOf('/'));
+
+            return obj;
+            
+        }
+
+        var str = 'https://www.devbgorg.org/forum/forum/index.php';
+        var obj = parseURL(str);
+        jsConsole.writeLine('{protocol: ' + obj.protocol + ', server: ' + obj.server + ', resource: ' + obj.resource);
+
+        // 08. Write a JavaScript function that replaces in a HTML document given as string all 
+        // the tags <a href="…">…</a> with corresponding tags [URL=…]…/URL]. Sample HTML fragment:
+        // <p>Please visit <a href="http://academy.telerik.com">our site</a> to choose a training course. 
+        // Also visit <a href="www.devbg.org">our forum</a> to discuss the courses.</p>
+        // <p>Please visit [URL=http://academy.telerik.com]our site[/URL] to choose a training course. 
+        // Also visit [URL=www.devbg.org]our forum[/URL] to discuss the courses.</p>
+
+        function replaceTags(str) {
+            var index = str.indexOf('<a href="');
+
+            while (index > -1) {
+                str = str.replace('<a href="', '[URL=').replace('">', ']').replace('</a>', '[/URL]');
+                index = str.indexOf('<a href="', index + 1);
+            }
+
+            return str;
+        }
+
+        var str = '<p>Please visit <a href="http://academy.telerik.com">our site</a> to choose a training course. Also visit <a href="www.devbg.org">our forum</a> to discuss the courses.</p>';
+        jsConsole.writeLine(replaceTags(str));
+
+        // 09. Write a function for extracting all email addresses from given text. 
+        // All substrings that match the format <identifier>@<host>…<domain> should be recognized as emails. 
+        // Return the emails as array of strings.
+
+        function extractEmails(str) {
+            var emailsArray = str.match(/([a-zA-Z0-9._-]+@[a-zA-Z0-9._-]+\.[a-zA-Z0-9._-]+)/gi);
+            return emailsArray;
+        }
+
+        var str = 'dabd gosho.3.metakov@abv.bg dasdasd vfdad fdda@yaaahoo.com d';
+        var emails = extractEmails(str);
+        for (var i in emails) {
+            jsConsole.writeLine(emails[i]);
+        }
+
+        // 10. Write a program that extracts from a given text all palindromes, e.g. "ABBA", "lamal", "exe".
+        
+        function getPalindromes(str) {
+            var newStr = {};
+            str = str.replace(".", " ").replace("!", " ").replace("?", " ").replace(",", " ");
+            var wordsArr = text.split(" ");
+            for (var i = 0; i < wordsArr.length; i++) {
+                for (var j = 0; j < wordsArr[i].length; j++) {
+                    if (wordsArr[i][j] === wordsArr[i][wordsArr[i].length - 1 - j]) {
+                        if (!newStr[wordsArr[i]]) {
+                            newStr[i] = wordsArr[i];
+                        } 
+                    }
+                }
+            }
+            return newStr;
+        }
+            
+        
+        var text = 'abba lamal best best into exe';
+        var arr = getPalindromes(text);
+        for (var i in arr) {
+            jsConsole.writeLine(arr[i]);
+        }
+
+        // 11. Write a function that formats a string using placeholders:
+        // var str = stringFormat('Hello {0}!', 'Peter');
+        // str = 'Hello Peter!';
+        // The function should work with up to 30 placeholders and all types
+        // var frmt = '{0}, {1}, {0} text {2}';
+        // var str = stringFormat(frmt, 1, 'Pesho', 'Gosho');
+        // str = '1, Pesho, 1 text Gosho'
+        // 
+
+        function formatString() {
+            var output = arguments[0];
+
+            for (var i = 1; i < arguments.length; i++)
+                output = output.replace(new RegExp('\\{' + (i - 1) + '\\}', "g"), arguments[i]);
+
+            return output;
+        }
+
+        var format = "{0}, {1}, {0} text {2}";
+        var str = formatString(format, 1, "Pesho", "Gosho");
+
+        jsConsole.writeLine(str);
+
+        // 12. Write a function that creates a HTML UL using a template for every HTML LI. 
+        // The source of the list should an array of elements. 
+        // Replace all placeholders marked with –{…}–   with the value of the corresponding property of the object. Example: 
+        // <div data-type="template" id="list-item">
+        // <strong>-{name}-</strong> <span>-{age}-</span>
+        // /div>
+        // var people = [{name: 'Peter', age: 14},…];
+        // var tmpl = document.getElementById('list-item').innerHtml;
+        // var peopleList = generateList(people, template);
+        // //peopleList = '<ul><li><strong>Peter</strong> <span>14</span></li><li>…</li>…</ul>'
+
+        function generateList(temp, people) {
+            var holder = temp;
+            var liArr = [];
+            for (var person in people) {
+                var index = temp.indexOf("{name}");
+                var index2 = temp.indexOf("{age}");
+                temp = temp.replace("{name}", people[person].name);
+                liArr.push(temp.substr(index, people[person].name.length));
+                temp = holder;
+                temp = temp.replace("{age}", people[person].age);
+                liArr.push(temp.substr(index2, people[person].age.toString().length));
+                temp = holder;
+            }
+            return liArr;
+        }
+
+        var people = [{ name: "gosho", age: 3 }, { name: "penio", age: 29 }, { name: "bat asen", age: 30 }];
+        var temp = document.getElementById("list-item").innerHTML;
+        var finalArr = generateList(temp, people);
+        for (var i = 0; i < finalArr.length; i += 2) {
+            jsConsole.writeLine("<ul><li><strong>" + finalArr[i] + "</strong><span>" + finalArr[i + 1] + "</span></li><li>…</li>…</ul>")
+        }
+
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title></title>
+    <script src="scripts/jquery-2.0.2.js"></script>
+	<style type="text/css">
+		.message.success{
+			color: green;
+		}
+		.message.error{
+			color: red;
+		}
+		.message.error, .message.success{
+			display: none;
+		}
+
+		.student-item strong:before{
+			content: 'Name: ';
+		}
+
+		.student-item span:before{
+			content: ', Grade: ';
+		}
+
+        .btn-delete {
+            margin: 25px;
+            color: red;
+            text-decoration: none;
+        }
+	</style>
+</head>
+<body>
+	<label for="tb-name">Name: </label>
+	<input id="tb-name" name="tb-name" type="text" />
+	<br/>
+	<label for="tb-grade">Grade: </label>
+	<input id="tb-grade" name="tb-grade" type="number" min='1' max='12'/>
+	<br/>
+	<button id="btn-add-student">Add new</button>
+	<div class="messages">
+		<strong class="message success">
+		</strong>
+		<strong class="message error">
+		</strong>
+	</div>
+	<div id="students-container"></div>
+    <script src="scripts/02.managingStudents.js"></script>
+    <script>
+        controller.GETstudents();
+        $('#btn-add-student').on('click', function () {
+            var student;
+            student = {
+                name: $('#tb-name').val(),
+                grade: $('#tb-grade').val()
+            };
+            controller.POSTstudent(student);
+        });
+    </script>
+</body>
+</html>

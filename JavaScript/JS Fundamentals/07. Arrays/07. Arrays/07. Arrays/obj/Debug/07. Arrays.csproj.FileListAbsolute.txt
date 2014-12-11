@@ -1,0 +1,5 @@
+E:\Projects\Telerik\JavaScript\HW\07. Arrays\07. Arrays\07. Arrays\bin\_07.Arrays.dll
+E:\Projects\Telerik\JavaScript\HW\07. Arrays\07. Arrays\07. Arrays\bin\_07.Arrays.pdb
+E:\Projects\Telerik\JavaScript\HW\07. Arrays\07. Arrays\07. Arrays\obj\Debug\07. Arrays.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\JavaScript\HW\07. Arrays\07. Arrays\07. Arrays\obj\Debug\_07.Arrays.dll
+E:\Projects\Telerik\JavaScript\HW\07. Arrays\07. Arrays\07. Arrays\obj\Debug\_07.Arrays.pdb

@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <input type="text" id="count-input"/>
+    <button id="btn">Generate Divs</button>
+    <div id="content"></div>
+    <script>
+        var btn = document.getElementById('btn');
+        btn.addEventListener('click', function onGenerateDivsButtonClick() {
+            var docFrag = document.createDocumentFragment();
+            var content = document.getElementById('content');
+            var count = document.getElementById('count-input').value | 0;
+
+            while (content.firstChild) {
+                content.removeChild(content.firstChild);
+            }
+
+            for (var i = 0; i < count; i++) {
+                var divEl = generateDivs();
+                docFrag.appendChild(divEl);
+            }
+
+            content.appendChild(docFrag);
+        }, false);
+
+        function generateDivs() {
+            var strongEl = document.createElement('strong');
+            var div = document.createElement('div');
+            strongEl.innerHTML += 'div';
+            div.appendChild(strongEl);
+            div.style.width = getRandomValue(20, 100) + 'px';
+            div.style.height = getRandomValue(20, 100) + 'px';
+            div.style.backgroundColor = getRandomColor();
+            div.style.borderRadius = getRandomValue(30) + '%';
+            div.style.borderColor = getRandomColor();
+            div.style.borderWidth = getRandomValue(1, 20) + 'px';
+            div.style.borderStyle = ['solid', 'dotted'][getRandomValue(0, 3)];
+            div.style.textAlign = 'center';
+            div.style.position = 'absolute';
+            div.style.top = getRandomValue(10, 80) + '%';
+            div.style.left = getRandomValue(0, 90) + '%';
+            return div;
+        }
+        function getRandomValue(min, max) {
+            if (!max) {
+                max = min;
+                min = 0;
+            }
+            return (Math.random() * (max - min) + min) | 0;
+        }
+        function getRandomColor() {
+            var red = getRandomValue(255),
+                green = getRandomValue(255),
+                blue = getRandomValue(255);
+            return "rgb(" + red + "," + green + "," + blue + ")";
+        }
+    </script>
+</body>
+</html>

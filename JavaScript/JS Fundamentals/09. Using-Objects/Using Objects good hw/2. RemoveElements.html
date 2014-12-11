@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Remove Element</title>
+    <link rel="stylesheet" type="text/css" href="styles/js-console.css" />
+</head>
+<body>
+    <p><strong>Write a function that removes all elements with a given value</strong></p>
+    <ul>
+        <li>Attach it to the array type</li>
+        <li>Read about prototype and how to attach methods</li>
+    </ul>
+    <label>Array : </label><input type="text" id="arr" /><span><strong>* Enter a sequence of numbers separated with comma</strong></span><br />
+    <label>Element: </label><input type="text" id="element" /><br />
+    <input type="submit" onclick="RemoveElement()" value="Remove" />
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+
+        Array.prototype.Remove = function (element) {
+
+            for (var i = 0; i < this.length; i++) {
+
+                if (this[i] === element) {
+
+                    this.splice(i, 1);
+                    i--;
+                }
+
+            }
+
+        }
+
+        function RemoveElement() {
+
+            var inputArray = jsConsole.read('#arr').split(',');
+            var element = jsConsole.read('#element');
+
+            jsConsole.writeLine('Original array : ' + inputArray.join(','));
+            inputArray.Remove(element);            
+            jsConsole.writeLine('After removing ' + element + ' : ' + inputArray.join(','));
+
+        }
+    </script>
+</body>
+</html>
