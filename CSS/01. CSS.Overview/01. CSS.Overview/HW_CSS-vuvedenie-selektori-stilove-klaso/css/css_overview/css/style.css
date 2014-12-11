@@ -1,0 +1,127 @@
+@charset "utf-8";
+/* Main CSS Document */
+
+* {
+	margin: 0px;
+}
+html, body {
+	height: 100%;
+	color: #555;
+	background: #f5f5f5;
+}
+header, hgroup, nav, section, article, aside, footer {
+	display: block;
+	padding: 10px;
+}
+html, button, input, select, textarea {
+	font-family: sans-serif;
+}
+menu, ol, ul {
+	padding-left: 4em;
+}
+header ul {
+	padding: 0px;
+}
+nav {
+	font-size: 24px;
+}
+nav li {
+	display: inline;
+	margin-right: 30px;
+}
+section {
+	min-height: 84%;
+	margin-bottom: -20px;
+}
+article {
+	padding-left: 20px;
+}
+footer {
+	height: 20px;
+	border-top: solid 1px #999999;
+}
+li {
+	margin-bottom: 5px;
+}
+a {
+	text-decoration: none;
+}
+a:hover {
+	color: #09F;
+}
+dl {
+	line-height: 40px;
+}
+dt {
+	font-style: italic;
+	float: left;
+	color: #FFF;
+}
+dd {
+	margin-left: 150px;
+	color: #AFBBB7;
+}
+dd a {
+	color: #F3F9B3;
+}
+
+
+/* Tickering Page Styling */
+.ticketing {
+	background-color: #595959;
+	width: 350px;
+}
+.ticketing h2 {
+	color: #AFBBB7;
+	font-weight: normal;
+}
+.active {
+	font-weight: bold;
+	color: red;
+	margin-top: -13px;
+}
+.status {
+	font-weight: bold;
+	color: #E06D20;
+}
+.onair {
+	border-radius: 50%;
+	width: 15px;
+	height: 15px;
+	float: left;
+	margin: 12px 5px 0px 0px;
+	background-color: #0C3;
+}
+
+/* Table Page Styling */
+#table_of_fame {
+	width: 600px;
+	border: 1px solid #B1ABDF;
+	border-spacing: 0px;
+	border-collapse: collapse;
+	text-align: left;
+}
+
+#table_of_fame td, th {
+	border-right: 1px double #999999;
+	padding: 5px;
+	font-weight: normal;
+}
+
+#table_of_fame img {
+	margin-right: 10px;
+	vertical-align: middle;
+}
+
+.green {
+	background: url(../img/thead.png) repeat-x;
+	border-bottom: 1px solid #DFE3EE;
+	color: #FFF;
+	height: 26px;
+}
+.evan {
+	background-color: #ECECD8;
+}
+.odd {
+	background-color: #FFF;
+}

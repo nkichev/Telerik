@@ -1,0 +1,5 @@
+D:\Projects\CSS\01. CSS.Overview\01. CSS.Overview\01. CSS.Overview\bin\_01.CSS.Overview.dll
+D:\Projects\CSS\01. CSS.Overview\01. CSS.Overview\01. CSS.Overview\bin\_01.CSS.Overview.pdb
+D:\Projects\CSS\01. CSS.Overview\01. CSS.Overview\01. CSS.Overview\obj\Debug\01. CSS.Overview.csprojResolveAssemblyReference.cache
+D:\Projects\CSS\01. CSS.Overview\01. CSS.Overview\01. CSS.Overview\obj\Debug\_01.CSS.Overview.dll
+D:\Projects\CSS\01. CSS.Overview\01. CSS.Overview\01. CSS.Overview\obj\Debug\_01.CSS.Overview.pdb

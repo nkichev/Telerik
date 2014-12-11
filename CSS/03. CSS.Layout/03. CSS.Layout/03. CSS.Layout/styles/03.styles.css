@@ -1,0 +1,130 @@
+﻿body {
+    font-family: Verdana, Arial, serif;
+    font-size: 14px;
+    color: #A4A4A4;
+    margin: 0px;
+    padding: 0px;
+    width: 1200px;
+}
+
+.site {
+    border: 1px solid #FBD61A;
+    border-radius: 8px;
+    background: #3B3B3B;
+    width: 710px;
+    margin: 40px auto;
+    padding: 0px;
+    display: block;
+}
+
+form {
+    display: block;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    height: 60px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    background: rgb(59,59,59); /* Old browsers */
+    background: -moz-linear-gradient(top, rgba(59,59,59,1) 0%, rgba(59,59,59,1) 69%, rgba(0,0,0,1) 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(59,59,59,1)), color-stop(69%,rgba(59,59,59,1)), color-stop(100%,rgba(0,0,0,1))); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, rgba(59,59,59,1) 0%,rgba(59,59,59,1) 69%,rgba(0,0,0,1) 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, rgba(59,59,59,1) 0%,rgba(59,59,59,1) 69%,rgba(0,0,0,1) 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, rgba(59,59,59,1) 0%,rgba(59,59,59,1) 69%,rgba(0,0,0,1) 100%); /* IE10+ */
+    background: linear-gradient(to bottom, rgba(59,59,59,1) 0%,rgba(59,59,59,1) 69%,rgba(0,0,0,1) 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3b3b3b', endColorstr='#000000',GradientType=0 ); /* IE6-9 */
+}
+
+    form label {
+        margin: 7px 12px;
+        font-family: Georgia, 'Times New Roman', serif;
+        font-size: 20px;
+        font-weight: bold;
+        color: #fff;
+        padding: 10px 10px 20px 60px;
+        background-image: url(img/level3.png);
+        background-repeat: no-repeat;
+        float: left;
+    }
+
+    form input {
+        margin: 20px 10px;
+        float: left;
+        color: #A4A4A4;
+        padding: 1px 0px 1px 10px;
+    }
+
+    form .go {
+        float: left;
+        position: relative;
+    }
+
+        form .go div {
+            position: absolute;
+            width: 41px;
+            height: 12px;
+            left: 17px;
+            top: 22px;
+            border-bottom-left-radius: 7px;
+            border-bottom-right-radius: 7px;
+            border-top-left-radius: 1px;
+            border-top-right-radius: 1px;
+            /* IE9 SVG, needs conditional override of 'filter' to 'none' */
+            background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmZmZmZiIgc3RvcC1vcGFjaXR5PSIwLjY1Ii8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNmZmZmZmYiIHN0b3Atb3BhY2l0eT0iMC4xIi8+CiAgPC9saW5lYXJHcmFkaWVudD4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSJ1cmwoI2dyYWQtdWNnZy1nZW5lcmF0ZWQpIiAvPgo8L3N2Zz4=);
+            background: -moz-linear-gradient(top, rgba(255,255,255,0.65) 0%, rgba(255,255,255,0.1) 100%); /* FF3.6+ */
+            background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(255,255,255,0.65)), color-stop(100%,rgba(255,255,255,0.1))); /* Chrome,Safari4+ */
+            background: -webkit-linear-gradient(top, rgba(255,255,255,0.65) 0%,rgba(255,255,255,0.1) 100%); /* Chrome10+,Safari5.1+ */
+            background: -o-linear-gradient(top, rgba(255,255,255,0.65) 0%,rgba(255,255,255,0.1) 100%); /* Opera 11.10+ */
+            background: -ms-linear-gradient(top, rgba(255,255,255,0.65) 0%,rgba(255,255,255,0.1) 100%); /* IE10+ */
+            background: linear-gradient(to bottom, rgba(255,255,255,0.65) 0%,rgba(255,255,255,0.1) 100%); /* W3C */
+            filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a6ffffff', endColorstr='#1affffff',GradientType=0 ); /* IE6-8 */
+        }
+
+    form [type=submit] {
+        color: #ffffff !important;
+        border: 1px solid #fff;
+        border-radius: 10px;
+        padding: 0px;
+        height: 27px;
+        width: 55px;
+        font-size: 13px;
+        float: left;
+        background: rgb(204,0,0); /* Old browsers */
+        /* IE9 SVG, needs conditional override of 'filter' to 'none' */
+        background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2NjMDAwMCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNmNzBkMGQiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+        background: -moz-linear-gradient(top, rgba(204,0,0,1) 0%, rgba(247,13,13,1) 100%); /* FF3.6+ */
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(204,0,0,1)), color-stop(100%,rgba(247,13,13,1))); /* Chrome,Safari4+ */
+        background: -webkit-linear-gradient(top, rgba(204,0,0,1) 0%,rgba(247,13,13,1) 100%); /* Chrome10+,Safari5.1+ */
+        background: -o-linear-gradient(top, rgba(204,0,0,1) 0%,rgba(247,13,13,1) 100%); /* Opera 11.10+ */
+        background: -ms-linear-gradient(top, rgba(204,0,0,1) 0%,rgba(247,13,13,1) 100%); /* IE10+ */
+        background: linear-gradient(to bottom, rgba(204,0,0,1) 0%,rgba(247,13,13,1) 100%); /* W3C */
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cc0000', endColorstr='#f70d0d',GradientType=0 ); /* IE6-8 */
+    }
+
+h1 {
+    font-family: Georgia, 'Times New Roman';
+    color: #FBD61A;
+    font-weight: normal;
+    font-size: 28px;
+    width: 100%;
+    display: block;
+    padding-top: 9px;
+}
+
+.text {
+    margin: 0px;
+    padding: 10px 12px;
+}
+
+    .text p {
+        padding: 0px;
+        margin: 0px;
+    }
+
+        .text p span {
+            color: white;
+        }
+
+        .text p:last-of-type {
+            padding-bottom: 10px;
+        }
