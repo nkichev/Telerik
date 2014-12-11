@@ -1,0 +1,5 @@
+E:\Projects\Telerik\KPK\HW\13. Refactoring\Refactoring-Homework\13. Refactoring\Matrix\bin\Release\Matrix.exe.config
+E:\Projects\Telerik\KPK\HW\13. Refactoring\Refactoring-Homework\13. Refactoring\Matrix\bin\Release\Matrix.exe
+E:\Projects\Telerik\KPK\HW\13. Refactoring\Refactoring-Homework\13. Refactoring\Matrix\bin\Release\Matrix.pdb
+E:\Projects\Telerik\KPK\HW\13. Refactoring\Refactoring-Homework\13. Refactoring\Matrix\obj\Release\Matrix.exe
+E:\Projects\Telerik\KPK\HW\13. Refactoring\Refactoring-Homework\13. Refactoring\Matrix\obj\Release\Matrix.pdb

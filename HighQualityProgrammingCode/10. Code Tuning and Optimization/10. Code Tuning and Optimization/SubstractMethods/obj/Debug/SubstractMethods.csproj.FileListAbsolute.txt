@@ -1,0 +1,5 @@
+E:\Projects\Telerik\KPK\HW\10. Code Tuning and Optimization\10. Code Tuning and Optimization\SubstractMethods\bin\Debug\SubstractMethods.exe.config
+E:\Projects\Telerik\KPK\HW\10. Code Tuning and Optimization\10. Code Tuning and Optimization\SubstractMethods\bin\Debug\SubstractMethods.exe
+E:\Projects\Telerik\KPK\HW\10. Code Tuning and Optimization\10. Code Tuning and Optimization\SubstractMethods\bin\Debug\SubstractMethods.pdb
+E:\Projects\Telerik\KPK\HW\10. Code Tuning and Optimization\10. Code Tuning and Optimization\SubstractMethods\obj\Debug\SubstractMethods.exe
+E:\Projects\Telerik\KPK\HW\10. Code Tuning and Optimization\10. Code Tuning and Optimization\SubstractMethods\obj\Debug\SubstractMethods.pdb

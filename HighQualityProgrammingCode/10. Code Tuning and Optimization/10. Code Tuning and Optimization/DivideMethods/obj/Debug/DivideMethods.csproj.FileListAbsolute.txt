@@ -1,0 +1,5 @@
+E:\Projects\Telerik\KPK\HW\10. Code Tuning and Optimization\10. Code Tuning and Optimization\DivideMethods\bin\Debug\DivideMethods.exe.config
+E:\Projects\Telerik\KPK\HW\10. Code Tuning and Optimization\10. Code Tuning and Optimization\DivideMethods\bin\Debug\DivideMethods.exe
+E:\Projects\Telerik\KPK\HW\10. Code Tuning and Optimization\10. Code Tuning and Optimization\DivideMethods\bin\Debug\DivideMethods.pdb
+E:\Projects\Telerik\KPK\HW\10. Code Tuning and Optimization\10. Code Tuning and Optimization\DivideMethods\obj\Debug\DivideMethods.exe
+E:\Projects\Telerik\KPK\HW\10. Code Tuning and Optimization\10. Code Tuning and Optimization\DivideMethods\obj\Debug\DivideMethods.pdb

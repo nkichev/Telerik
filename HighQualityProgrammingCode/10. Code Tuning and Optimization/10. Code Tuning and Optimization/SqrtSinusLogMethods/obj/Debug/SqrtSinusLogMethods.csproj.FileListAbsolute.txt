@@ -1,0 +1,5 @@
+E:\Projects\Telerik\KPK\HW\10. Code Tuning and Optimization\10. Code Tuning and Optimization\SqrtSinusLogMethods\bin\Debug\SqrtSinusLogMethods.exe.config
+E:\Projects\Telerik\KPK\HW\10. Code Tuning and Optimization\10. Code Tuning and Optimization\SqrtSinusLogMethods\bin\Debug\SqrtSinusLogMethods.exe
+E:\Projects\Telerik\KPK\HW\10. Code Tuning and Optimization\10. Code Tuning and Optimization\SqrtSinusLogMethods\bin\Debug\SqrtSinusLogMethods.pdb
+E:\Projects\Telerik\KPK\HW\10. Code Tuning and Optimization\10. Code Tuning and Optimization\SqrtSinusLogMethods\obj\Debug\SqrtSinusLogMethods.exe
+E:\Projects\Telerik\KPK\HW\10. Code Tuning and Optimization\10. Code Tuning and Optimization\SqrtSinusLogMethods\obj\Debug\SqrtSinusLogMethods.pdb

@@ -1,0 +1,7 @@
+E:\Projects\Telerik\KPK\HW\2. Code Formatting\02. Code Formatting\02. Code Formatting\bin\_02.Code_Formatting.dll
+E:\Projects\Telerik\KPK\HW\2. Code Formatting\02. Code Formatting\02. Code Formatting\bin\_02.Code_Formatting.pdb
+E:\Projects\Telerik\KPK\HW\2. Code Formatting\02. Code Formatting\02. Code Formatting\bin\PowerCollections.dll
+E:\Projects\Telerik\KPK\HW\2. Code Formatting\02. Code Formatting\02. Code Formatting\bin\PowerCollections.xml
+E:\Projects\Telerik\KPK\HW\2. Code Formatting\02. Code Formatting\02. Code Formatting\obj\Debug\02. Code Formatting.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\KPK\HW\2. Code Formatting\02. Code Formatting\02. Code Formatting\obj\Debug\_02.Code_Formatting.dll
+E:\Projects\Telerik\KPK\HW\2. Code Formatting\02. Code Formatting\02. Code Formatting\obj\Debug\_02.Code_Formatting.pdb

@@ -1,0 +1,11 @@
+E:\Projects\Telerik\KPK\HW\bin\Release\SolarSystem.exe
+E:\Projects\Telerik\KPK\HW\bin\Release\SolarSystem.pdb
+E:\Projects\Telerik\KPK\HW\10. Code Tuning and Optimization\Code-Tuning-and-Optimization-Homework\obj\Release\MainWindow.g.cs
+E:\Projects\Telerik\KPK\HW\10. Code Tuning and Optimization\Code-Tuning-and-Optimization-Homework\obj\Release\App.g.cs
+E:\Projects\Telerik\KPK\HW\10. Code Tuning and Optimization\Code-Tuning-and-Optimization-Homework\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\Projects\Telerik\KPK\HW\10. Code Tuning and Optimization\Code-Tuning-and-Optimization-Homework\obj\Release\SolarSystem_MarkupCompile.cache
+E:\Projects\Telerik\KPK\HW\10. Code Tuning and Optimization\Code-Tuning-and-Optimization-Homework\obj\Release\SolarSystem_MarkupCompile.lref
+E:\Projects\Telerik\KPK\HW\10. Code Tuning and Optimization\Code-Tuning-and-Optimization-Homework\obj\Release\MainWindow.baml
+E:\Projects\Telerik\KPK\HW\10. Code Tuning and Optimization\Code-Tuning-and-Optimization-Homework\obj\Release\SolarSystem.g.resources
+E:\Projects\Telerik\KPK\HW\10. Code Tuning and Optimization\Code-Tuning-and-Optimization-Homework\obj\Release\SolarSystem.exe
+E:\Projects\Telerik\KPK\HW\10. Code Tuning and Optimization\Code-Tuning-and-Optimization-Homework\obj\Release\SolarSystem.pdb

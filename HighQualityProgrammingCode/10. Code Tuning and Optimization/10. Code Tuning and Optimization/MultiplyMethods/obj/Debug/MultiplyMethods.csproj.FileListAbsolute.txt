@@ -1,0 +1,5 @@
+E:\Projects\Telerik\KPK\HW\10. Code Tuning and Optimization\10. Code Tuning and Optimization\MultiplyMethods\bin\Debug\MultiplyMethods.exe.config
+E:\Projects\Telerik\KPK\HW\10. Code Tuning and Optimization\10. Code Tuning and Optimization\MultiplyMethods\bin\Debug\MultiplyMethods.exe
+E:\Projects\Telerik\KPK\HW\10. Code Tuning and Optimization\10. Code Tuning and Optimization\MultiplyMethods\bin\Debug\MultiplyMethods.pdb
+E:\Projects\Telerik\KPK\HW\10. Code Tuning and Optimization\10. Code Tuning and Optimization\MultiplyMethods\obj\Debug\MultiplyMethods.exe
+E:\Projects\Telerik\KPK\HW\10. Code Tuning and Optimization\10. Code Tuning and Optimization\MultiplyMethods\obj\Debug\MultiplyMethods.pdb

@@ -1,0 +1,6 @@
+E:\Projects\Telerik\KPK\HW\07. High-Quality Methods\07. High-Quality Methods\07. High-Quality Methods\bin\Debug\_07.High_Quality_Methods.exe.config
+E:\Projects\Telerik\KPK\HW\07. High-Quality Methods\07. High-Quality Methods\07. High-Quality Methods\bin\Debug\_07.High_Quality_Methods.exe
+E:\Projects\Telerik\KPK\HW\07. High-Quality Methods\07. High-Quality Methods\07. High-Quality Methods\bin\Debug\_07.High_Quality_Methods.pdb
+E:\Projects\Telerik\KPK\HW\07. High-Quality Methods\07. High-Quality Methods\07. High-Quality Methods\obj\Debug\07. High-Quality-Methods.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\KPK\HW\07. High-Quality Methods\07. High-Quality Methods\07. High-Quality Methods\obj\Debug\_07.High_Quality_Methods.exe
+E:\Projects\Telerik\KPK\HW\07. High-Quality Methods\07. High-Quality Methods\07. High-Quality Methods\obj\Debug\_07.High_Quality_Methods.pdb

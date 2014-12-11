@@ -1,0 +1,6 @@
+E:\Projects\Telerik\KPK\HW\03. Naming-Identifiers-Homework\Naming-Identifiers-Homework\bin\Debug\Minesweeper.exe.config
+E:\Projects\Telerik\KPK\HW\03. Naming-Identifiers-Homework\Naming-Identifiers-Homework\bin\Debug\Minesweeper.exe
+E:\Projects\Telerik\KPK\HW\03. Naming-Identifiers-Homework\Naming-Identifiers-Homework\bin\Debug\Minesweeper.pdb
+E:\Projects\Telerik\KPK\HW\03. Naming-Identifiers-Homework\Naming-Identifiers-Homework\obj\Debug\MinesweeperGame.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\KPK\HW\03. Naming-Identifiers-Homework\Naming-Identifiers-Homework\obj\Debug\Minesweeper.exe
+E:\Projects\Telerik\KPK\HW\03. Naming-Identifiers-Homework\Naming-Identifiers-Homework\obj\Debug\Minesweeper.pdb

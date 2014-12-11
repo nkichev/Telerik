@@ -1,0 +1,5 @@
+E:\Projects\Telerik\KPK\HW\10. Code Tuning and Optimization\10. Code Tuning and Optimization\AddMethods\bin\Debug\AddMethods.exe.config
+E:\Projects\Telerik\KPK\HW\10. Code Tuning and Optimization\10. Code Tuning and Optimization\AddMethods\bin\Debug\AddMethods.exe
+E:\Projects\Telerik\KPK\HW\10. Code Tuning and Optimization\10. Code Tuning and Optimization\AddMethods\bin\Debug\AddMethods.pdb
+E:\Projects\Telerik\KPK\HW\10. Code Tuning and Optimization\10. Code Tuning and Optimization\AddMethods\obj\Debug\AddMethods.exe
+E:\Projects\Telerik\KPK\HW\10. Code Tuning and Optimization\10. Code Tuning and Optimization\AddMethods\obj\Debug\AddMethods.pdb

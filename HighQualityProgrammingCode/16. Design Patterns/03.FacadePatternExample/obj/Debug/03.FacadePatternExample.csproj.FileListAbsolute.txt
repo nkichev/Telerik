@@ -1,0 +1,8 @@
+E:\Projects\Telerik\KPK\HW\16. Design Patterns\03.FacadePatternExample\bin\Debug\03.FacadePatternExample.exe.config
+E:\Projects\Telerik\KPK\HW\16. Design Patterns\03.FacadePatternExample\bin\Debug\03.FacadePatternExample.exe
+E:\Projects\Telerik\KPK\HW\16. Design Patterns\03.FacadePatternExample\bin\Debug\03.FacadePatternExample.pdb
+E:\Projects\Telerik\KPK\HW\16. Design Patterns\03.FacadePatternExample\obj\Debug\03.FacadePatternExample.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\KPK\HW\16. Design Patterns\03.FacadePatternExample\obj\Debug\03.FacadePatternExample.exe
+E:\Projects\Telerik\KPK\HW\16. Design Patterns\03.FacadePatternExample\obj\Debug\03.FacadePatternExample.pdb
+E:\Projects\Telerik\KPK\HW\16. Design Patterns\01.SingletonExample\obj\Debug\03.FacadePatternExample.exe
+E:\Projects\Telerik\KPK\HW\16. Design Patterns\01.SingletonExample\obj\Debug\03.FacadePatternExample.pdb

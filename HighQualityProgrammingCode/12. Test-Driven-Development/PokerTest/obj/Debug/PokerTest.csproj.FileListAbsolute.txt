@@ -1,0 +1,7 @@
+E:\Projects\Telerik\KPK\HW\12. Test-Driven-Development\PokerTest\bin\Debug\PokerTest.dll
+E:\Projects\Telerik\KPK\HW\12. Test-Driven-Development\PokerTest\bin\Debug\PokerTest.pdb
+E:\Projects\Telerik\KPK\HW\12. Test-Driven-Development\PokerTest\bin\Debug\Poker.exe
+E:\Projects\Telerik\KPK\HW\12. Test-Driven-Development\PokerTest\bin\Debug\Poker.pdb
+E:\Projects\Telerik\KPK\HW\12. Test-Driven-Development\PokerTest\obj\Debug\PokerTest.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\KPK\HW\12. Test-Driven-Development\PokerTest\obj\Debug\PokerTest.dll
+E:\Projects\Telerik\KPK\HW\12. Test-Driven-Development\PokerTest\obj\Debug\PokerTest.pdb

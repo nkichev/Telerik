@@ -1,0 +1,6 @@
+E:\Projects\Telerik\KPK\HW\13. Refactoring\Refactoring-Homework\13. Refactoring\Matrix\bin\Debug\Matrix.exe.config
+E:\Projects\Telerik\KPK\HW\13. Refactoring\Refactoring-Homework\13. Refactoring\Matrix\bin\Debug\Matrix.exe
+E:\Projects\Telerik\KPK\HW\13. Refactoring\Refactoring-Homework\13. Refactoring\Matrix\bin\Debug\Matrix.pdb
+E:\Projects\Telerik\KPK\HW\13. Refactoring\Refactoring-Homework\13. Refactoring\Matrix\obj\Debug\Matrix.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\KPK\HW\13. Refactoring\Refactoring-Homework\13. Refactoring\Matrix\obj\Debug\Matrix.exe
+E:\Projects\Telerik\KPK\HW\13. Refactoring\Refactoring-Homework\13. Refactoring\Matrix\obj\Debug\Matrix.pdb

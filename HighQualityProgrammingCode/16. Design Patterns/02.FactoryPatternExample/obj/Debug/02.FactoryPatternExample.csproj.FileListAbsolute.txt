@@ -1,0 +1,5 @@
+E:\Projects\Telerik\KPK\HW\16. Design Patterns\02.FactoryPatternExample\bin\Debug\02.FactoryPatternExample.exe.config
+E:\Projects\Telerik\KPK\HW\16. Design Patterns\02.FactoryPatternExample\bin\Debug\02.FactoryPatternExample.exe
+E:\Projects\Telerik\KPK\HW\16. Design Patterns\02.FactoryPatternExample\bin\Debug\02.FactoryPatternExample.pdb
+E:\Projects\Telerik\KPK\HW\16. Design Patterns\02.FactoryPatternExample\obj\Debug\02.FactoryPatternExample.exe
+E:\Projects\Telerik\KPK\HW\16. Design Patterns\02.FactoryPatternExample\obj\Debug\02.FactoryPatternExample.pdb

@@ -1,0 +1,5 @@
+E:\Projects\Telerik\KPK\HW\12. Test-Driven-Development\Test-Driven-Development-Demo-Homework\obj\Debug\Poker.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\KPK\HW\12. Test-Driven-Development\Test-Driven-Development-Demo-Homework\bin\Debug\Poker.exe
+E:\Projects\Telerik\KPK\HW\12. Test-Driven-Development\Test-Driven-Development-Demo-Homework\bin\Debug\Poker.pdb
+E:\Projects\Telerik\KPK\HW\12. Test-Driven-Development\Test-Driven-Development-Demo-Homework\obj\Debug\Poker.exe
+E:\Projects\Telerik\KPK\HW\12. Test-Driven-Development\Test-Driven-Development-Demo-Homework\obj\Debug\Poker.pdb

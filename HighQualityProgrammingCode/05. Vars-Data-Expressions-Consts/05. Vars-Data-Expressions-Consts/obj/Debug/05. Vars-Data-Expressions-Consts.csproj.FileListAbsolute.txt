@@ -1,0 +1,15 @@
+C:\Users\Nikolai\Desktop\05. Vars-Data-Expressions-Consts\05. Vars-Data-Expressions-Consts\bin\Debug\_05.Vars_Data_Expressions_Consts.exe.config
+C:\Users\Nikolai\Desktop\05. Vars-Data-Expressions-Consts\05. Vars-Data-Expressions-Consts\bin\Debug\_05.Vars_Data_Expressions_Consts.exe
+C:\Users\Nikolai\Desktop\05. Vars-Data-Expressions-Consts\05. Vars-Data-Expressions-Consts\bin\Debug\_05.Vars_Data_Expressions_Consts.pdb
+C:\Users\Nikolai\Desktop\05. Vars-Data-Expressions-Consts\05. Vars-Data-Expressions-Consts\obj\Debug\05. Vars-Data-Expressions-Consts.csprojResolveAssemblyReference.cache
+C:\Users\Nikolai\Desktop\05. Vars-Data-Expressions-Consts\05. Vars-Data-Expressions-Consts\obj\Debug\_05.Vars_Data_Expressions_Consts.exe
+C:\Users\Nikolai\Desktop\05. Vars-Data-Expressions-Consts\05. Vars-Data-Expressions-Consts\obj\Debug\_05.Vars_Data_Expressions_Consts.pdb
+C:\Users\Nikolai\Desktop\HW_nkichev_Promenlivi-danni-izrazi-i-konstanti_2014-05-25_23-23\05. Vars-Data-Expressions-Consts\bin\Debug\_05.Vars_Data_Expressions_Consts.exe.config
+C:\Users\Nikolai\Desktop\HW_nkichev_Promenlivi-danni-izrazi-i-konstanti_2014-05-25_23-23\05. Vars-Data-Expressions-Consts\obj\Debug\_05.Vars_Data_Expressions_Consts.exe
+C:\Users\Nikolai\Desktop\HW_nkichev_Promenlivi-danni-izrazi-i-konstanti_2014-05-25_23-23\05. Vars-Data-Expressions-Consts\obj\Debug\_05.Vars_Data_Expressions_Consts.pdb
+C:\Users\Nikolai\Desktop\HW_nkichev_Promenlivi-danni-izrazi-i-konstanti_2014-05-25_23-28\05. Vars-Data-Expressions-Consts\bin\Debug\_05.Vars_Data_Expressions_Consts.exe.config
+C:\Users\Nikolai\Desktop\HW_nkichev_Promenlivi-danni-izrazi-i-konstanti_2014-05-25_23-28\05. Vars-Data-Expressions-Consts\obj\Debug\_05.Vars_Data_Expressions_Consts.exe
+C:\Users\Nikolai\Desktop\HW_nkichev_Promenlivi-danni-izrazi-i-konstanti_2014-05-25_23-28\05. Vars-Data-Expressions-Consts\obj\Debug\_05.Vars_Data_Expressions_Consts.pdb
+E:\Projects\Telerik\KPK\HW\05. Vars-Data-Expressions-Consts\05. Vars-Data-Expressions-Consts\bin\Debug\_05.Vars_Data_Expressions_Consts.exe.config
+E:\Projects\Telerik\KPK\HW\05. Vars-Data-Expressions-Consts\05. Vars-Data-Expressions-Consts\obj\Debug\_05.Vars_Data_Expressions_Consts.exe
+E:\Projects\Telerik\KPK\HW\05. Vars-Data-Expressions-Consts\05. Vars-Data-Expressions-Consts\obj\Debug\_05.Vars_Data_Expressions_Consts.pdb

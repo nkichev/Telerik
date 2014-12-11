@@ -1,0 +1,6 @@
+E:\Projects\Telerik\KPK\HW\16. Design Patterns\01.SingletonExample\bin\Debug\01.SingletonExample.exe.config
+E:\Projects\Telerik\KPK\HW\16. Design Patterns\01.SingletonExample\bin\Debug\01.SingletonExample.exe
+E:\Projects\Telerik\KPK\HW\16. Design Patterns\01.SingletonExample\bin\Debug\01.SingletonExample.pdb
+E:\Projects\Telerik\KPK\HW\16. Design Patterns\01.SingletonExample\obj\Debug\01.SingletonExample.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\KPK\HW\16. Design Patterns\01.SingletonExample\obj\Debug\01.SingletonExample.exe
+E:\Projects\Telerik\KPK\HW\16. Design Patterns\01.SingletonExample\obj\Debug\01.SingletonExample.pdb

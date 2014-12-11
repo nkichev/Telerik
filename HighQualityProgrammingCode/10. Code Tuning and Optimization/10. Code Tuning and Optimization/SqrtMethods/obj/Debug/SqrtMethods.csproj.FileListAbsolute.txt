@@ -1,0 +1,1 @@
+E:\Projects\Telerik\KPK\HW\10. Code Tuning and Optimization\10. Code Tuning and Optimization\SqrtMethods\bin\Debug\SqrtMethods.exe.config

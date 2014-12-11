@@ -1,0 +1,5 @@
+E:\Projects\Telerik\KPK\HW\03. Naming-Identifiers-Homework\Naming-Identifiers-Homework\02. Person\bin\Debug\_02.Person.exe.config
+E:\Projects\Telerik\KPK\HW\03. Naming-Identifiers-Homework\Naming-Identifiers-Homework\02. Person\bin\Debug\_02.Person.exe
+E:\Projects\Telerik\KPK\HW\03. Naming-Identifiers-Homework\Naming-Identifiers-Homework\02. Person\bin\Debug\_02.Person.pdb
+E:\Projects\Telerik\KPK\HW\03. Naming-Identifiers-Homework\Naming-Identifiers-Homework\02. Person\obj\Debug\_02.Person.exe
+E:\Projects\Telerik\KPK\HW\03. Naming-Identifiers-Homework\Naming-Identifiers-Homework\02. Person\obj\Debug\_02.Person.pdb

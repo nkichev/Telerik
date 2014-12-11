@@ -1,0 +1,5 @@
+E:\Projects\Telerik\KPK\Presentation\09. Defensive Programming and Exceptions\Assertions-and-Exceptions-Homework\Exceptions-Homework\bin\Debug\Exceptions-Homework.exe
+E:\Projects\Telerik\KPK\Presentation\09. Defensive Programming and Exceptions\Assertions-and-Exceptions-Homework\Exceptions-Homework\bin\Debug\Exceptions-Homework.pdb
+E:\Projects\Telerik\KPK\Presentation\09. Defensive Programming and Exceptions\Assertions-and-Exceptions-Homework\Exceptions-Homework\obj\Debug\Exceptions-Homework.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\KPK\Presentation\09. Defensive Programming and Exceptions\Assertions-and-Exceptions-Homework\Exceptions-Homework\obj\Debug\Exceptions-Homework.exe
+E:\Projects\Telerik\KPK\Presentation\09. Defensive Programming and Exceptions\Assertions-and-Exceptions-Homework\Exceptions-Homework\obj\Debug\Exceptions-Homework.pdb

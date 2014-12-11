@@ -1,0 +1,7 @@
+E:\Projects\Telerik\KPK\HW\11. Unit-Testing\11. Unit-Testing\SchoolTest\obj\Debug\SchoolTest.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\KPK\HW\11. Unit-Testing\11. Unit-Testing\SchoolTest\bin\Debug\SchoolTest.dll
+E:\Projects\Telerik\KPK\HW\11. Unit-Testing\11. Unit-Testing\SchoolTest\bin\Debug\SchoolTest.pdb
+E:\Projects\Telerik\KPK\HW\11. Unit-Testing\11. Unit-Testing\SchoolTest\bin\Debug\School.exe
+E:\Projects\Telerik\KPK\HW\11. Unit-Testing\11. Unit-Testing\SchoolTest\bin\Debug\School.pdb
+E:\Projects\Telerik\KPK\HW\11. Unit-Testing\11. Unit-Testing\SchoolTest\obj\Debug\SchoolTest.dll
+E:\Projects\Telerik\KPK\HW\11. Unit-Testing\11. Unit-Testing\SchoolTest\obj\Debug\SchoolTest.pdb
