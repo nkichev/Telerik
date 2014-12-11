@@ -1,0 +1,5 @@
+D:\Projects\CSS\02. CSS.Presentation\02. CSS.Presentation\02. CSS.Presentation\bin\_02.CSS.Presentation.dll
+D:\Projects\CSS\02. CSS.Presentation\02. CSS.Presentation\02. CSS.Presentation\bin\_02.CSS.Presentation.pdb
+D:\Projects\CSS\02. CSS.Presentation\02. CSS.Presentation\02. CSS.Presentation\obj\Debug\02. CSS.Presentation.csprojResolveAssemblyReference.cache
+D:\Projects\CSS\02. CSS.Presentation\02. CSS.Presentation\02. CSS.Presentation\obj\Debug\_02.CSS.Presentation.dll
+D:\Projects\CSS\02. CSS.Presentation\02. CSS.Presentation\02. CSS.Presentation\obj\Debug\_02.CSS.Presentation.pdb

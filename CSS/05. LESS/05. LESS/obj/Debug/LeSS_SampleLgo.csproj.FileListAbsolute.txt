@@ -1,0 +1,15 @@
+D:\StudentsAcademy\CSS\LeSS\LeSS\LeSS_SimpleLgo\bin\LeSS_SampleLgo.dll
+D:\StudentsAcademy\CSS\LeSS\LeSS\LeSS_SimpleLgo\bin\LeSS_SampleLgo.pdb
+D:\StudentsAcademy\CSS\LeSS\LeSS\LeSS_SimpleLgo\obj\Debug\LeSS_SampleLgo.csprojResolveAssemblyReference.cache
+D:\StudentsAcademy\CSS\LeSS\LeSS\LeSS_SimpleLgo\obj\Debug\LeSS_SampleLgo.dll
+D:\StudentsAcademy\CSS\LeSS\LeSS\LeSS_SimpleLgo\obj\Debug\LeSS_SampleLgo.pdb
+D:\StudentsAcademy\CSS\LeSS\LeSS\Less_SampleLogo\bin\LeSS_SampleLgo.dll
+D:\StudentsAcademy\CSS\LeSS\LeSS\Less_SampleLogo\bin\LeSS_SampleLgo.pdb
+D:\StudentsAcademy\CSS\LeSS\LeSS\Less_SampleLogo\obj\Debug\LeSS_SampleLgo.csprojResolveAssemblyReference.cache
+D:\StudentsAcademy\CSS\LeSS\LeSS\Less_SampleLogo\obj\Debug\LeSS_SampleLgo.dll
+D:\StudentsAcademy\CSS\LeSS\LeSS\Less_SampleLogo\obj\Debug\LeSS_SampleLgo.pdb
+C:\Users\Nikolai\Desktop\LeSS\LeSS\LeSS\Less_SampleLogo\bin\LeSS_SampleLgo.dll
+C:\Users\Nikolai\Desktop\LeSS\LeSS\LeSS\Less_SampleLogo\bin\LeSS_SampleLgo.pdb
+C:\Users\Nikolai\Desktop\LeSS\LeSS\LeSS\Less_SampleLogo\obj\Debug\LeSS_SampleLgo.csprojResolveAssemblyReference.cache
+C:\Users\Nikolai\Desktop\LeSS\LeSS\LeSS\Less_SampleLogo\obj\Debug\LeSS_SampleLgo.dll
+C:\Users\Nikolai\Desktop\LeSS\LeSS\LeSS\Less_SampleLogo\obj\Debug\LeSS_SampleLgo.pdb
