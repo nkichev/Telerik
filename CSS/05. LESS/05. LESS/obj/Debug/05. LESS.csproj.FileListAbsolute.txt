@@ -1,8 +1,0 @@
-C:\Users\Nikolai\Desktop\LeSS\LeSS\LeSS\Less_SampleLogo\bin\LeSS_SampleLgo.dll
-C:\Users\Nikolai\Desktop\LeSS\LeSS\LeSS\Less_SampleLogo\bin\LeSS_SampleLgo.pdb
-C:\Users\Nikolai\Desktop\LeSS\LeSS\LeSS\Less_SampleLogo\obj\Debug\LeSS_SampleLgo.dll
-C:\Users\Nikolai\Desktop\LeSS\LeSS\LeSS\Less_SampleLogo\obj\Debug\LeSS_SampleLgo.pdb
-C:\Users\Nikolai\Desktop\LeSS\LeSS\LeSS\05. LESS\bin\LeSS_SampleLgo.dll
-C:\Users\Nikolai\Desktop\LeSS\LeSS\LeSS\05. LESS\bin\LeSS_SampleLgo.pdb
-C:\Users\Nikolai\Desktop\LeSS\LeSS\LeSS\05. LESS\obj\Debug\LeSS_SampleLgo.dll
-C:\Users\Nikolai\Desktop\LeSS\LeSS\LeSS\05. LESS\obj\Debug\LeSS_SampleLgo.pdb
