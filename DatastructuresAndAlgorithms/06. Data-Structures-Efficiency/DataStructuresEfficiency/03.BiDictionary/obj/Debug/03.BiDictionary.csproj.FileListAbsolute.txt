@@ -1,0 +1,10 @@
+E:\Algorithms\DataStructuresEfficiency\03.BiDictionary\bin\Debug\03.BiDictionary.exe.config
+E:\Algorithms\DataStructuresEfficiency\03.BiDictionary\bin\Debug\03.BiDictionary.exe
+E:\Algorithms\DataStructuresEfficiency\03.BiDictionary\bin\Debug\03.BiDictionary.pdb
+E:\Algorithms\DataStructuresEfficiency\03.BiDictionary\bin\Debug\PowerCollections.dll
+E:\Algorithms\DataStructuresEfficiency\03.BiDictionary\bin\Debug\PowerCollections.xml
+E:\Algorithms\DataStructuresEfficiency\03.BiDictionary\obj\Debug\03.BiDictionary.exe
+E:\Algorithms\DataStructuresEfficiency\03.BiDictionary\obj\Debug\03.BiDictionary.pdb
+E:\Projects\Telerik\DSA\HW\06. Data-Structures-Efficiency\DataStructuresEfficiency\03.BiDictionary\bin\Debug\03.BiDictionary.exe.config
+E:\Projects\Telerik\DSA\HW\06. Data-Structures-Efficiency\DataStructuresEfficiency\03.BiDictionary\obj\Debug\03.BiDictionary.exe
+E:\Projects\Telerik\DSA\HW\06. Data-Structures-Efficiency\DataStructuresEfficiency\03.BiDictionary\obj\Debug\03.BiDictionary.pdb

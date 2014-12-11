@@ -1,0 +1,11 @@
+C:\Users\Nikolai\Desktop\Algorithms\TreesAndTraversals\TreeDemo\bin\Debug\TreeDemo.exe.config
+C:\Users\Nikolai\Desktop\Algorithms\TreesAndTraversals\TreeDemo\bin\Debug\TreeDemo.exe
+C:\Users\Nikolai\Desktop\Algorithms\TreesAndTraversals\TreeDemo\bin\Debug\TreeDemo.pdb
+C:\Users\Nikolai\Desktop\Algorithms\TreesAndTraversals\TreeDemo\obj\Debug\TreeDemo.exe
+C:\Users\Nikolai\Desktop\Algorithms\TreesAndTraversals\TreeDemo\obj\Debug\TreeDemo.pdb
+E:\Projects\Telerik\DSA\HW\03. Trees-and-Traversals\TreesAndTraversals\TreeDemo\bin\Debug\TreeDemo.exe.config
+E:\Projects\Telerik\DSA\HW\03. Trees-and-Traversals\TreesAndTraversals\TreeDemo\obj\Debug\TreeDemo.exe
+E:\Projects\Telerik\DSA\HW\03. Trees-and-Traversals\TreesAndTraversals\TreeDemo\obj\Debug\TreeDemo.pdb
+E:\Projects\Telerik\DSA\HW\03. Trees-and-Traversals\TreesAndTraversals\TreeDemo\bin\Debug\TreeDemo.exe
+E:\Projects\Telerik\DSA\HW\03. Trees-and-Traversals\TreesAndTraversals\TreeDemo\bin\Debug\TreeDemo.pdb
+E:\Projects\Telerik\DSA\HW\03. Trees-and-Traversals\TreesAndTraversals\TreeDemo\obj\Debug\01. TreeDemo.csprojResolveAssemblyReference.cache

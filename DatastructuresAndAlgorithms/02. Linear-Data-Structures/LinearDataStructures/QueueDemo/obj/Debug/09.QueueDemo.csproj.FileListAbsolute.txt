@@ -1,0 +1,8 @@
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\QueueDemo\bin\Debug\QueueDemo.exe.config
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\QueueDemo\bin\Debug\QueueDemo.exe
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\QueueDemo\bin\Debug\QueueDemo.pdb
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\QueueDemo\obj\Debug\QueueDemo.exe
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\QueueDemo\obj\Debug\QueueDemo.pdb
+E:\Projects\Telerik\DSA\HW\02. Linear-Data-Structures\LinearDataStructures\QueueDemo\bin\Debug\QueueDemo.exe.config
+E:\Projects\Telerik\DSA\HW\02. Linear-Data-Structures\LinearDataStructures\QueueDemo\obj\Debug\QueueDemo.exe
+E:\Projects\Telerik\DSA\HW\02. Linear-Data-Structures\LinearDataStructures\QueueDemo\obj\Debug\QueueDemo.pdb

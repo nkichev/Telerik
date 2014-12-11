@@ -1,0 +1,1 @@
+E:\Projects\Telerik\DSA\HW\07. Sorting and Seraching Algorithms\SortingAndSearchingAlgorithms\SortingAndSearchingAlgorithms\bin\Debug\SortingAndSearchingAlgorithms.exe.config

@@ -1,0 +1,5 @@
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\LongestSubsequenceEqualNumbers\bin\Debug\LongestSubsequenceEqualNumbers.exe.config
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\LongestSubsequenceEqualNumbers\bin\Debug\LongestSubsequenceEqualNumbers.exe
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\LongestSubsequenceEqualNumbers\bin\Debug\LongestSubsequenceEqualNumbers.pdb
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\LongestSubsequenceEqualNumbers\obj\Debug\LongestSubsequenceEqualNumbers.exe
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\LongestSubsequenceEqualNumbers\obj\Debug\LongestSubsequenceEqualNumbers.pdb

@@ -1,0 +1,8 @@
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\LinkedListDemoImplementation\bin\Debug\LinkedListDemoImplementation.exe.config
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\LinkedListDemoImplementation\bin\Debug\LinkedListDemoImplementation.exe
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\LinkedListDemoImplementation\bin\Debug\LinkedListDemoImplementation.pdb
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\LinkedListDemoImplementation\obj\Debug\LinkedListDemoImplementation.exe
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\LinkedListDemoImplementation\obj\Debug\LinkedListDemoImplementation.pdb
+E:\Projects\Telerik\DSA\HW\02. Linear-Data-Structures\LinearDataStructures\LinkedListDemoImplementation\bin\Debug\LinkedListDemoImplementation.exe.config
+E:\Projects\Telerik\DSA\HW\02. Linear-Data-Structures\LinearDataStructures\LinkedListDemoImplementation\obj\Debug\LinkedListDemoImplementation.exe
+E:\Projects\Telerik\DSA\HW\02. Linear-Data-Structures\LinearDataStructures\LinkedListDemoImplementation\obj\Debug\LinkedListDemoImplementation.pdb

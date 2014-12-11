@@ -1,0 +1,5 @@
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\GetArrayMajorant\bin\Debug\GetArrayMajorant.exe.config
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\GetArrayMajorant\bin\Debug\GetArrayMajorant.exe
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\GetArrayMajorant\bin\Debug\GetArrayMajorant.pdb
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\GetArrayMajorant\obj\Debug\GetArrayMajorant.exe
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\GetArrayMajorant\obj\Debug\GetArrayMajorant.pdb

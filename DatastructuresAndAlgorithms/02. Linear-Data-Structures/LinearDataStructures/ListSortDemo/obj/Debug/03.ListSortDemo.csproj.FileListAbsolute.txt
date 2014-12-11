@@ -1,0 +1,5 @@
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\ListSortDemo\bin\Debug\ListSortDemo.exe.config
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\ListSortDemo\bin\Debug\ListSortDemo.exe
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\ListSortDemo\bin\Debug\ListSortDemo.pdb
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\ListSortDemo\obj\Debug\ListSortDemo.exe
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\ListSortDemo\obj\Debug\ListSortDemo.pdb

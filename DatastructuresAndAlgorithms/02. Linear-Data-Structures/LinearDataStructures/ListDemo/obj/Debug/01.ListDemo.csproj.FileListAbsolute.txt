@@ -1,0 +1,8 @@
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\ListDemo\bin\Debug\ListDemo.exe.config
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\ListDemo\bin\Debug\ListDemo.exe
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\ListDemo\bin\Debug\ListDemo.pdb
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\ListDemo\obj\Debug\ListDemo.exe
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\ListDemo\obj\Debug\ListDemo.pdb
+E:\Projects\Telerik\DSA\HW\02. Linear-Data-Structures\LinearDataStructures\ListDemo\bin\Debug\ListDemo.exe.config
+E:\Projects\Telerik\DSA\HW\02. Linear-Data-Structures\LinearDataStructures\ListDemo\obj\Debug\ListDemo.exe
+E:\Projects\Telerik\DSA\HW\02. Linear-Data-Structures\LinearDataStructures\ListDemo\obj\Debug\ListDemo.pdb

@@ -1,0 +1,9 @@
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\CountElements\bin\Debug\CountElements.exe.config
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\CountElements\bin\Debug\CountElements.exe
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\CountElements\bin\Debug\CountElements.pdb
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\CountElements\obj\Debug\06.CountElements.csprojResolveAssemblyReference.cache
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\CountElements\obj\Debug\CountElements.exe
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\CountElements\obj\Debug\CountElements.pdb
+E:\Projects\Telerik\DSA\HW\02. Linear-Data-Structures\LinearDataStructures\CountElements\bin\Debug\CountElements.exe.config
+E:\Projects\Telerik\DSA\HW\02. Linear-Data-Structures\LinearDataStructures\CountElements\obj\Debug\CountElements.exe
+E:\Projects\Telerik\DSA\HW\02. Linear-Data-Structures\LinearDataStructures\CountElements\obj\Debug\CountElements.pdb

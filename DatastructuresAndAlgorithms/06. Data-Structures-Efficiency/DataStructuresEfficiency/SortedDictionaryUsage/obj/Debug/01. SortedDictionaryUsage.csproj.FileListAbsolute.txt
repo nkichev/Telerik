@@ -1,0 +1,11 @@
+E:\Algorithms\DataStructuresEfficiency\SortedDictionaryUsage\bin\Debug\SortedDictionaryUsage.exe.config
+E:\Algorithms\DataStructuresEfficiency\SortedDictionaryUsage\bin\Debug\SortedDictionaryUsage.exe
+E:\Algorithms\DataStructuresEfficiency\SortedDictionaryUsage\bin\Debug\SortedDictionaryUsage.pdb
+E:\Algorithms\DataStructuresEfficiency\SortedDictionaryUsage\bin\Debug\PowerCollections.dll
+E:\Algorithms\DataStructuresEfficiency\SortedDictionaryUsage\bin\Debug\PowerCollections.xml
+E:\Algorithms\DataStructuresEfficiency\SortedDictionaryUsage\obj\Debug\01. SortedDictionaryUsage.csprojResolveAssemblyReference.cache
+E:\Algorithms\DataStructuresEfficiency\SortedDictionaryUsage\obj\Debug\SortedDictionaryUsage.exe
+E:\Algorithms\DataStructuresEfficiency\SortedDictionaryUsage\obj\Debug\SortedDictionaryUsage.pdb
+E:\Projects\Telerik\DSA\HW\06. Data-Structures-Efficiency\DataStructuresEfficiency\SortedDictionaryUsage\bin\Debug\SortedDictionaryUsage.exe.config
+E:\Projects\Telerik\DSA\HW\06. Data-Structures-Efficiency\DataStructuresEfficiency\SortedDictionaryUsage\obj\Debug\SortedDictionaryUsage.exe
+E:\Projects\Telerik\DSA\HW\06. Data-Structures-Efficiency\DataStructuresEfficiency\SortedDictionaryUsage\obj\Debug\SortedDictionaryUsage.pdb

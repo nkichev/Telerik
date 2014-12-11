@@ -1,0 +1,12 @@
+E:\Projects\Telerik\DSA\HW\11.Graph-and-Graph-Algorithms\Salaries\bin\Debug\Salaries.exe.config
+E:\Projects\Telerik\DSA\HW\11.Graph-and-Graph-Algorithms\Salaries\bin\Debug\Salaries.exe
+E:\Projects\Telerik\DSA\HW\11.Graph-and-Graph-Algorithms\Salaries\bin\Debug\Salaries.pdb
+E:\Projects\Telerik\DSA\HW\11.Graph-and-Graph-Algorithms\Salaries\obj\Debug\Salaries.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\DSA\HW\11.Graph-and-Graph-Algorithms\Salaries\obj\Debug\Salaries.exe
+E:\Projects\Telerik\DSA\HW\11.Graph-and-Graph-Algorithms\Salaries\obj\Debug\Salaries.pdb
+E:\Projects\Telerik\DSA\HW\11. Graph-and-Graph-Algorithms\Salaries\bin\Debug\Salaries.exe.config
+E:\Projects\Telerik\DSA\HW\11. Graph-and-Graph-Algorithms\Salaries\obj\Debug\Salaries.exe
+E:\Projects\Telerik\DSA\HW\11. Graph-and-Graph-Algorithms\Salaries\obj\Debug\Salaries.pdb
+E:\Projects\Telerik\DSA\HW\11. Graph-and-Graph-Algorithms\Salaries\bin\Debug\Salaries.exe
+E:\Projects\Telerik\DSA\HW\11. Graph-and-Graph-Algorithms\Salaries\bin\Debug\Salaries.pdb
+E:\Projects\Telerik\DSA\HW\11. Graph-and-Graph-Algorithms\Salaries\obj\Debug\Salaries.csprojResolveAssemblyReference.cache

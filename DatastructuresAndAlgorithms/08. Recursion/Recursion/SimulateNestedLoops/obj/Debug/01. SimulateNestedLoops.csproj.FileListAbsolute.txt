@@ -1,0 +1,5 @@
+E:\Projects\Telerik\DSA\HW\08. Recursion\Recursion\SimulateNestedLoops\bin\Debug\SimulateNestedLoops.exe.config
+E:\Projects\Telerik\DSA\HW\08. Recursion\Recursion\SimulateNestedLoops\bin\Debug\SimulateNestedLoops.exe
+E:\Projects\Telerik\DSA\HW\08. Recursion\Recursion\SimulateNestedLoops\bin\Debug\SimulateNestedLoops.pdb
+E:\Projects\Telerik\DSA\HW\08. Recursion\Recursion\SimulateNestedLoops\obj\Debug\SimulateNestedLoops.exe
+E:\Projects\Telerik\DSA\HW\08. Recursion\Recursion\SimulateNestedLoops\obj\Debug\SimulateNestedLoops.pdb

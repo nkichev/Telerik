@@ -1,0 +1,8 @@
+C:\Users\Nikolai\Desktop\Algorithms\TreesAndTraversals\TraverseDirectories\bin\Debug\TraverseDirectories.exe.config
+C:\Users\Nikolai\Desktop\Algorithms\TreesAndTraversals\TraverseDirectories\bin\Debug\TraverseDirectories.exe
+C:\Users\Nikolai\Desktop\Algorithms\TreesAndTraversals\TraverseDirectories\bin\Debug\TraverseDirectories.pdb
+C:\Users\Nikolai\Desktop\Algorithms\TreesAndTraversals\TraverseDirectories\obj\Debug\TraverseDirectories.exe
+C:\Users\Nikolai\Desktop\Algorithms\TreesAndTraversals\TraverseDirectories\obj\Debug\TraverseDirectories.pdb
+E:\Projects\Telerik\DSA\HW\03. Trees-and-Traversals\TreesAndTraversals\TraverseDirectories\bin\Debug\TraverseDirectories.exe.config
+E:\Projects\Telerik\DSA\HW\03. Trees-and-Traversals\TreesAndTraversals\TraverseDirectories\obj\Debug\TraverseDirectories.exe
+E:\Projects\Telerik\DSA\HW\03. Trees-and-Traversals\TreesAndTraversals\TraverseDirectories\obj\Debug\TraverseDirectories.pdb

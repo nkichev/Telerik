@@ -1,0 +1,9 @@
+C:\Users\Nikolai\Desktop\Algorithms\TreesAndTraversals\DirectoryStructure\bin\Debug\DirectoryStructure.exe.config
+C:\Users\Nikolai\Desktop\Algorithms\TreesAndTraversals\DirectoryStructure\bin\Debug\DirectoryStructure.exe
+C:\Users\Nikolai\Desktop\Algorithms\TreesAndTraversals\DirectoryStructure\bin\Debug\DirectoryStructure.pdb
+C:\Users\Nikolai\Desktop\Algorithms\TreesAndTraversals\DirectoryStructure\obj\Debug\03. DirectoryStructure.csprojResolveAssemblyReference.cache
+C:\Users\Nikolai\Desktop\Algorithms\TreesAndTraversals\DirectoryStructure\obj\Debug\DirectoryStructure.exe
+C:\Users\Nikolai\Desktop\Algorithms\TreesAndTraversals\DirectoryStructure\obj\Debug\DirectoryStructure.pdb
+E:\Projects\Telerik\DSA\HW\03. Trees-and-Traversals\TreesAndTraversals\DirectoryStructure\bin\Debug\DirectoryStructure.exe.config
+E:\Projects\Telerik\DSA\HW\03. Trees-and-Traversals\TreesAndTraversals\DirectoryStructure\obj\Debug\DirectoryStructure.exe
+E:\Projects\Telerik\DSA\HW\03. Trees-and-Traversals\TreesAndTraversals\DirectoryStructure\obj\Debug\DirectoryStructure.pdb

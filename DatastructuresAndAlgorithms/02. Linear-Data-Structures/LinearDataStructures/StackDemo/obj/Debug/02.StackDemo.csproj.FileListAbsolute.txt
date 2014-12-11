@@ -1,0 +1,6 @@
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\StackDemo\bin\Debug\StackDemo.exe.config
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\StackDemo\bin\Debug\StackDemo.exe
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\StackDemo\bin\Debug\StackDemo.pdb
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\StackDemo\obj\Debug\02.StackDemo.csprojResolveAssemblyReference.cache
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\StackDemo\obj\Debug\StackDemo.exe
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\StackDemo\obj\Debug\StackDemo.pdb

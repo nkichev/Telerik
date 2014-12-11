@@ -1,0 +1,8 @@
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\13.NewQueue\bin\Debug\13.NewQueue.exe.config
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\13.NewQueue\bin\Debug\13.NewQueue.exe
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\13.NewQueue\bin\Debug\13.NewQueue.pdb
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\13.NewQueue\obj\Debug\13.NewQueue.exe
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\13.NewQueue\obj\Debug\13.NewQueue.pdb
+E:\Projects\Telerik\DSA\HW\02. Linear-Data-Structures\LinearDataStructures\13.NewQueue\bin\Debug\13.NewQueue.exe.config
+E:\Projects\Telerik\DSA\HW\02. Linear-Data-Structures\LinearDataStructures\13.NewQueue\obj\Debug\13.NewQueue.exe
+E:\Projects\Telerik\DSA\HW\02. Linear-Data-Structures\LinearDataStructures\13.NewQueue\obj\Debug\13.NewQueue.pdb

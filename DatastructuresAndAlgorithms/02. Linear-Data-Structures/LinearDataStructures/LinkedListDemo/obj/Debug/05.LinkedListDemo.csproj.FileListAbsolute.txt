@@ -1,0 +1,5 @@
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\LinkedListDemo\bin\Debug\LinkedListDemo.exe.config
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\LinkedListDemo\bin\Debug\LinkedListDemo.exe
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\LinkedListDemo\bin\Debug\LinkedListDemo.pdb
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\LinkedListDemo\obj\Debug\LinkedListDemo.exe
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\LinkedListDemo\obj\Debug\LinkedListDemo.pdb

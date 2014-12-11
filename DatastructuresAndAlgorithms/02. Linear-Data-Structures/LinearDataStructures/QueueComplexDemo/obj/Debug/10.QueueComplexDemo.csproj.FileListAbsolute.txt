@@ -1,0 +1,11 @@
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\QueueComplexDemo\bin\Debug\QueueComplexDemo.exe.config
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\QueueComplexDemo\bin\Debug\QueueComplexDemo.exe
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\QueueComplexDemo\bin\Debug\QueueComplexDemo.pdb
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\QueueComplexDemo\obj\Debug\QueueComplexDemo.exe
+C:\Users\Nikolai\Desktop\Algorithms\LinearDataStructures\QueueComplexDemo\obj\Debug\QueueComplexDemo.pdb
+E:\Projects\Telerik\DSA\HW\02. Linear-Data-Structures\LinearDataStructures\QueueComplexDemo\bin\Debug\QueueComplexDemo.exe.config
+E:\Projects\Telerik\DSA\HW\02. Linear-Data-Structures\LinearDataStructures\QueueComplexDemo\obj\Debug\QueueComplexDemo.exe
+E:\Projects\Telerik\DSA\HW\02. Linear-Data-Structures\LinearDataStructures\QueueComplexDemo\obj\Debug\QueueComplexDemo.pdb
+E:\Projects\Telerik\DSA\HW\02. Linear-Data-Structures\LinearDataStructures\QueueComplexDemo\obj\Debug\10.QueueComplexDemo.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\DSA\HW\02. Linear-Data-Structures\LinearDataStructures\QueueComplexDemo\bin\Debug\QueueComplexDemo.exe
+E:\Projects\Telerik\DSA\HW\02. Linear-Data-Structures\LinearDataStructures\QueueComplexDemo\bin\Debug\QueueComplexDemo.pdb

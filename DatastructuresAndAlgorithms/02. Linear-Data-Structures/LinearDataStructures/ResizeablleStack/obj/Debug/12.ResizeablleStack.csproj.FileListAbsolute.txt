@@ -1,0 +1,3 @@
+E:\Projects\Telerik\DSA\HW\02. Linear-Data-Structures\LinearDataStructures\ResizeablleStack\bin\Debug\ResizeablleStack.exe.config
+E:\Projects\Telerik\DSA\HW\02. Linear-Data-Structures\LinearDataStructures\ResizeablleStack\obj\Debug\ResizeablleStack.exe
+E:\Projects\Telerik\DSA\HW\02. Linear-Data-Structures\LinearDataStructures\ResizeablleStack\obj\Debug\ResizeablleStack.pdb

@@ -1,0 +1,1 @@
+E:\Projects\Telerik\DSA\HW\10. Dynamic-Programming\KnapsackProblem\bin\Debug\KnapsackProblem.exe.config

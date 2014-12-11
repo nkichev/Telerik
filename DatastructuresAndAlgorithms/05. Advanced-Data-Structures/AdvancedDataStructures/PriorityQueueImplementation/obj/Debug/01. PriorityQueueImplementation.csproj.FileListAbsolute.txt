@@ -1,0 +1,7 @@
+E:\Algorithms\AdvancedDataStructures\PriorityQueueImplementation\bin\Debug\PriorityQueueImplementation.exe.config
+E:\Projects\Telerik\DSA\HW\05. Advanced-Data-Structures\AdvancedDataStructures\PriorityQueueImplementation\bin\Debug\PriorityQueueImplementation.exe.config
+E:\Projects\Telerik\DSA\HW\05. Advanced-Data-Structures\AdvancedDataStructures\PriorityQueueImplementation\bin\Debug\PriorityQueueImplementation.exe
+E:\Projects\Telerik\DSA\HW\05. Advanced-Data-Structures\AdvancedDataStructures\PriorityQueueImplementation\bin\Debug\PriorityQueueImplementation.pdb
+E:\Projects\Telerik\DSA\HW\05. Advanced-Data-Structures\AdvancedDataStructures\PriorityQueueImplementation\obj\Debug\01. PriorityQueueImplementation.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\DSA\HW\05. Advanced-Data-Structures\AdvancedDataStructures\PriorityQueueImplementation\obj\Debug\PriorityQueueImplementation.exe
+E:\Projects\Telerik\DSA\HW\05. Advanced-Data-Structures\AdvancedDataStructures\PriorityQueueImplementation\obj\Debug\PriorityQueueImplementation.pdb
