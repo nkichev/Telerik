@@ -1,0 +1,6 @@
+D:\Projects\C# 2\08. Strings-and-Text-Processing\07. EncodingAndDecoding\bin\Debug\_07.EncodingAndDecoding.exe.config
+D:\Projects\C# 2\08. Strings-and-Text-Processing\07. EncodingAndDecoding\bin\Debug\_07.EncodingAndDecoding.exe
+D:\Projects\C# 2\08. Strings-and-Text-Processing\07. EncodingAndDecoding\bin\Debug\_07.EncodingAndDecoding.pdb
+D:\Projects\C# 2\08. Strings-and-Text-Processing\07. EncodingAndDecoding\obj\Debug\_07.EncodingAndDecoding.exe
+D:\Projects\C# 2\08. Strings-and-Text-Processing\07. EncodingAndDecoding\obj\Debug\_07.EncodingAndDecoding.pdb
+D:\Projects\C# 2\08. Strings-and-Text-Processing\07. EncodingAndDecoding\obj\Debug\07. EncodingAndDecoding.csprojResolveAssemblyReference.cache

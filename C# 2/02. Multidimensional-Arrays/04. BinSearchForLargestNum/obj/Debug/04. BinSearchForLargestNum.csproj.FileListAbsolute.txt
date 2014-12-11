@@ -1,0 +1,6 @@
+D:\Projects\C# 2\02. Multidimensional-Arrays\04. BinSearchForLargestNum\bin\Debug\_04.BinSearchForLargestNum.exe.config
+D:\Projects\C# 2\02. Multidimensional-Arrays\04. BinSearchForLargestNum\bin\Debug\_04.BinSearchForLargestNum.exe
+D:\Projects\C# 2\02. Multidimensional-Arrays\04. BinSearchForLargestNum\bin\Debug\_04.BinSearchForLargestNum.pdb
+D:\Projects\C# 2\02. Multidimensional-Arrays\04. BinSearchForLargestNum\obj\Debug\04. BinSearchForLargestNum.csprojResolveAssemblyReference.cache
+D:\Projects\C# 2\02. Multidimensional-Arrays\04. BinSearchForLargestNum\obj\Debug\_04.BinSearchForLargestNum.exe
+D:\Projects\C# 2\02. Multidimensional-Arrays\04. BinSearchForLargestNum\obj\Debug\_04.BinSearchForLargestNum.pdb

@@ -1,0 +1,5 @@
+D:\Projects\C# 2\04. Numeral-Systems\04. HexToDec\bin\Debug\_04.HexToDec.exe.config
+D:\Projects\C# 2\04. Numeral-Systems\04. HexToDec\bin\Debug\_04.HexToDec.exe
+D:\Projects\C# 2\04. Numeral-Systems\04. HexToDec\bin\Debug\_04.HexToDec.pdb
+D:\Projects\C# 2\04. Numeral-Systems\04. HexToDec\obj\Debug\_04.HexToDec.exe
+D:\Projects\C# 2\04. Numeral-Systems\04. HexToDec\obj\Debug\_04.HexToDec.pdb

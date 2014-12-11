@@ -1,0 +1,6 @@
+D:\Projects\C# 2\07. Text-Files\01. ReadAndPrintOddLines\bin\Debug\_01.ReadAndPrintOddLines.exe.config
+D:\Projects\C# 2\07. Text-Files\01. ReadAndPrintOddLines\bin\Debug\_01.ReadAndPrintOddLines.exe
+D:\Projects\C# 2\07. Text-Files\01. ReadAndPrintOddLines\bin\Debug\_01.ReadAndPrintOddLines.pdb
+D:\Projects\C# 2\07. Text-Files\01. ReadAndPrintOddLines\obj\Debug\01. ReadAndPrintOddLines.csprojResolveAssemblyReference.cache
+D:\Projects\C# 2\07. Text-Files\01. ReadAndPrintOddLines\obj\Debug\_01.ReadAndPrintOddLines.exe
+D:\Projects\C# 2\07. Text-Files\01. ReadAndPrintOddLines\obj\Debug\_01.ReadAndPrintOddLines.pdb

@@ -1,0 +1,6 @@
+D:\Projects\C# 2\02. Multidimensional-Arrays\03. LongestSecOfEqualStrings\bin\Debug\_03.LongestSecOfEqualStrings.exe.config
+D:\Projects\C# 2\02. Multidimensional-Arrays\03. LongestSecOfEqualStrings\bin\Debug\_03.LongestSecOfEqualStrings.exe
+D:\Projects\C# 2\02. Multidimensional-Arrays\03. LongestSecOfEqualStrings\bin\Debug\_03.LongestSecOfEqualStrings.pdb
+D:\Projects\C# 2\02. Multidimensional-Arrays\03. LongestSecOfEqualStrings\obj\Debug\03. LongestSecOfEqualStrings.csprojResolveAssemblyReference.cache
+D:\Projects\C# 2\02. Multidimensional-Arrays\03. LongestSecOfEqualStrings\obj\Debug\_03.LongestSecOfEqualStrings.exe
+D:\Projects\C# 2\02. Multidimensional-Arrays\03. LongestSecOfEqualStrings\obj\Debug\_03.LongestSecOfEqualStrings.pdb

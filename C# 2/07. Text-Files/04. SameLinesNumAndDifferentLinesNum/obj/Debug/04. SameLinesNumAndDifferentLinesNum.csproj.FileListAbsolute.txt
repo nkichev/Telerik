@@ -1,0 +1,5 @@
+D:\Projects\C# 2\07. Text-Files\04. SameLinesNumAndDifferentLinesNum\bin\Debug\_04.SameLinesNumAndDifferentLinesNum.exe.config
+D:\Projects\C# 2\07. Text-Files\04. SameLinesNumAndDifferentLinesNum\bin\Debug\_04.SameLinesNumAndDifferentLinesNum.exe
+D:\Projects\C# 2\07. Text-Files\04. SameLinesNumAndDifferentLinesNum\bin\Debug\_04.SameLinesNumAndDifferentLinesNum.pdb
+D:\Projects\C# 2\07. Text-Files\04. SameLinesNumAndDifferentLinesNum\obj\Debug\_04.SameLinesNumAndDifferentLinesNum.exe
+D:\Projects\C# 2\07. Text-Files\04. SameLinesNumAndDifferentLinesNum\obj\Debug\_04.SameLinesNumAndDifferentLinesNum.pdb

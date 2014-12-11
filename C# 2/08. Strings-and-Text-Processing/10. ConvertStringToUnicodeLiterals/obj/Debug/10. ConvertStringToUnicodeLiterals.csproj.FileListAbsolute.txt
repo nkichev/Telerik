@@ -1,0 +1,5 @@
+D:\Projects\C# 2\08. Strings-and-Text-Processing\10. ConvertStringToUnicodeLiterals\bin\Debug\_10.ConvertStringToUnicodeLiterals.exe.config
+D:\Projects\C# 2\08. Strings-and-Text-Processing\10. ConvertStringToUnicodeLiterals\bin\Debug\_10.ConvertStringToUnicodeLiterals.exe
+D:\Projects\C# 2\08. Strings-and-Text-Processing\10. ConvertStringToUnicodeLiterals\bin\Debug\_10.ConvertStringToUnicodeLiterals.pdb
+D:\Projects\C# 2\08. Strings-and-Text-Processing\10. ConvertStringToUnicodeLiterals\obj\Debug\_10.ConvertStringToUnicodeLiterals.exe
+D:\Projects\C# 2\08. Strings-and-Text-Processing\10. ConvertStringToUnicodeLiterals\obj\Debug\_10.ConvertStringToUnicodeLiterals.pdb

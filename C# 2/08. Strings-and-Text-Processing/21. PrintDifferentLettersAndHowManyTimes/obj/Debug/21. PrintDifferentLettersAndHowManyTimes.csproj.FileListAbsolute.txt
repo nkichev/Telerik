@@ -1,0 +1,6 @@
+D:\Projects\C# 2\08. Strings-and-Text-Processing\21. PrintDifferentLettersAndHowManyTimes\bin\Debug\_21.PrintDifferentLettersAndHowManyTimes.exe.config
+D:\Projects\C# 2\08. Strings-and-Text-Processing\21. PrintDifferentLettersAndHowManyTimes\bin\Debug\_21.PrintDifferentLettersAndHowManyTimes.exe
+D:\Projects\C# 2\08. Strings-and-Text-Processing\21. PrintDifferentLettersAndHowManyTimes\bin\Debug\_21.PrintDifferentLettersAndHowManyTimes.pdb
+D:\Projects\C# 2\08. Strings-and-Text-Processing\21. PrintDifferentLettersAndHowManyTimes\obj\Debug\_21.PrintDifferentLettersAndHowManyTimes.exe
+D:\Projects\C# 2\08. Strings-and-Text-Processing\21. PrintDifferentLettersAndHowManyTimes\obj\Debug\_21.PrintDifferentLettersAndHowManyTimes.pdb
+D:\Projects\C# 2\08. Strings-and-Text-Processing\21. PrintDifferentLettersAndHowManyTimes\obj\Debug\21. PrintDifferentLettersAndHowManyTimes.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\kichev\Desktop\5. Using-Classes-and-Objects\02. GenerateRandomValuesBtw100and200\bin\Debug\_02.GenerateRandomValuesBtw100and200.exe.config
+C:\Users\kichev\Desktop\5. Using-Classes-and-Objects\02. GenerateRandomValuesBtw100and200\bin\Debug\_02.GenerateRandomValuesBtw100and200.exe
+C:\Users\kichev\Desktop\5. Using-Classes-and-Objects\02. GenerateRandomValuesBtw100and200\bin\Debug\_02.GenerateRandomValuesBtw100and200.pdb
+C:\Users\kichev\Desktop\5. Using-Classes-and-Objects\02. GenerateRandomValuesBtw100and200\obj\Debug\_02.GenerateRandomValuesBtw100and200.exe
+C:\Users\kichev\Desktop\5. Using-Classes-and-Objects\02. GenerateRandomValuesBtw100and200\obj\Debug\_02.GenerateRandomValuesBtw100and200.pdb

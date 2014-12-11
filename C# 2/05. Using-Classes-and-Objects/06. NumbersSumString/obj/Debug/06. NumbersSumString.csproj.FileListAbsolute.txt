@@ -1,0 +1,5 @@
+C:\Users\kichev\Desktop\5. Using-Classes-and-Objects\06. NumbersSumString\bin\Debug\_06.NumbersSumString.exe.config
+C:\Users\kichev\Desktop\5. Using-Classes-and-Objects\06. NumbersSumString\bin\Debug\_06.NumbersSumString.exe
+C:\Users\kichev\Desktop\5. Using-Classes-and-Objects\06. NumbersSumString\bin\Debug\_06.NumbersSumString.pdb
+C:\Users\kichev\Desktop\5. Using-Classes-and-Objects\06. NumbersSumString\obj\Debug\_06.NumbersSumString.exe
+C:\Users\kichev\Desktop\5. Using-Classes-and-Objects\06. NumbersSumString\obj\Debug\_06.NumbersSumString.pdb

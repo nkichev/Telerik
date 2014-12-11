@@ -1,0 +1,6 @@
+D:\Projects\C# 2\07. Text-Files\05. ReadMatrixFromFile\bin\Debug\_05.ReadMatrixFromFile.exe.config
+D:\Projects\C# 2\07. Text-Files\05. ReadMatrixFromFile\bin\Debug\_05.ReadMatrixFromFile.exe
+D:\Projects\C# 2\07. Text-Files\05. ReadMatrixFromFile\bin\Debug\_05.ReadMatrixFromFile.pdb
+D:\Projects\C# 2\07. Text-Files\05. ReadMatrixFromFile\obj\Debug\05. ReadMatrixFromFile.csprojResolveAssemblyReference.cache
+D:\Projects\C# 2\07. Text-Files\05. ReadMatrixFromFile\obj\Debug\_05.ReadMatrixFromFile.exe
+D:\Projects\C# 2\07. Text-Files\05. ReadMatrixFromFile\obj\Debug\_05.ReadMatrixFromFile.pdb

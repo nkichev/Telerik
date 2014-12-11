@@ -1,0 +1,5 @@
+D:\Projects\C# 2\08. Strings-and-Text-Processing\11. NumberAsDecHexPercentageScientific\bin\Debug\_11.NumberAsDecHexPercentageScientific.exe.config
+D:\Projects\C# 2\08. Strings-and-Text-Processing\11. NumberAsDecHexPercentageScientific\bin\Debug\_11.NumberAsDecHexPercentageScientific.exe
+D:\Projects\C# 2\08. Strings-and-Text-Processing\11. NumberAsDecHexPercentageScientific\bin\Debug\_11.NumberAsDecHexPercentageScientific.pdb
+D:\Projects\C# 2\08. Strings-and-Text-Processing\11. NumberAsDecHexPercentageScientific\obj\Debug\_11.NumberAsDecHexPercentageScientific.exe
+D:\Projects\C# 2\08. Strings-and-Text-Processing\11. NumberAsDecHexPercentageScientific\obj\Debug\_11.NumberAsDecHexPercentageScientific.pdb

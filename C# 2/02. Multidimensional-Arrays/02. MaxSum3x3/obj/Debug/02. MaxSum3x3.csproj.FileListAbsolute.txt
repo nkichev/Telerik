@@ -1,0 +1,6 @@
+D:\Projects\C# 2\02. Multidimensional-Arrays\02. MaxSum3x3\bin\Debug\_02.MaxSum3x3.exe.config
+D:\Projects\C# 2\02. Multidimensional-Arrays\02. MaxSum3x3\bin\Debug\_02.MaxSum3x3.exe
+D:\Projects\C# 2\02. Multidimensional-Arrays\02. MaxSum3x3\bin\Debug\_02.MaxSum3x3.pdb
+D:\Projects\C# 2\02. Multidimensional-Arrays\02. MaxSum3x3\obj\Debug\02. MaxSum3x3.csprojResolveAssemblyReference.cache
+D:\Projects\C# 2\02. Multidimensional-Arrays\02. MaxSum3x3\obj\Debug\_02.MaxSum3x3.exe
+D:\Projects\C# 2\02. Multidimensional-Arrays\02. MaxSum3x3\obj\Debug\_02.MaxSum3x3.pdb

@@ -1,0 +1,6 @@
+D:\Projects\C# 2\08. Strings-and-Text-Processing\05. UpcaseTag\bin\Debug\_05.UpcaseTag.exe.config
+D:\Projects\C# 2\08. Strings-and-Text-Processing\05. UpcaseTag\obj\Debug\05. UpcaseTag.csprojResolveAssemblyReference.cache
+D:\Projects\C# 2\08. Strings-and-Text-Processing\05. UpcaseTag\bin\Debug\_05.UpcaseTag.exe
+D:\Projects\C# 2\08. Strings-and-Text-Processing\05. UpcaseTag\bin\Debug\_05.UpcaseTag.pdb
+D:\Projects\C# 2\08. Strings-and-Text-Processing\05. UpcaseTag\obj\Debug\_05.UpcaseTag.exe
+D:\Projects\C# 2\08. Strings-and-Text-Processing\05. UpcaseTag\obj\Debug\_05.UpcaseTag.pdb

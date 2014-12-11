@@ -1,0 +1,6 @@
+D:\Projects\C# 2\08. Strings-and-Text-Processing\08. ExtractSentencesContainingTheWord\bin\Debug\_08.ExtractSentencesContainingTheWord.exe.config
+D:\Projects\C# 2\08. Strings-and-Text-Processing\08. ExtractSentencesContainingTheWord\bin\Debug\_08.ExtractSentencesContainingTheWord.exe
+D:\Projects\C# 2\08. Strings-and-Text-Processing\08. ExtractSentencesContainingTheWord\bin\Debug\_08.ExtractSentencesContainingTheWord.pdb
+D:\Projects\C# 2\08. Strings-and-Text-Processing\08. ExtractSentencesContainingTheWord\obj\Debug\08. ExtractSentencesContainingTheWord.csprojResolveAssemblyReference.cache
+D:\Projects\C# 2\08. Strings-and-Text-Processing\08. ExtractSentencesContainingTheWord\obj\Debug\_08.ExtractSentencesContainingTheWord.exe
+D:\Projects\C# 2\08. Strings-and-Text-Processing\08. ExtractSentencesContainingTheWord\obj\Debug\_08.ExtractSentencesContainingTheWord.pdb

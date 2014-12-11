@@ -1,0 +1,5 @@
+D:\Projects\C# 2\08. Strings-and-Text-Processing\24. PrintListInAlphabeticalOrder\bin\Debug\_24.PrintListInAlphabeticalOrder.exe.config
+D:\Projects\C# 2\08. Strings-and-Text-Processing\24. PrintListInAlphabeticalOrder\bin\Debug\_24.PrintListInAlphabeticalOrder.exe
+D:\Projects\C# 2\08. Strings-and-Text-Processing\24. PrintListInAlphabeticalOrder\bin\Debug\_24.PrintListInAlphabeticalOrder.pdb
+D:\Projects\C# 2\08. Strings-and-Text-Processing\24. PrintListInAlphabeticalOrder\obj\Debug\_24.PrintListInAlphabeticalOrder.exe
+D:\Projects\C# 2\08. Strings-and-Text-Processing\24. PrintListInAlphabeticalOrder\obj\Debug\_24.PrintListInAlphabeticalOrder.pdb

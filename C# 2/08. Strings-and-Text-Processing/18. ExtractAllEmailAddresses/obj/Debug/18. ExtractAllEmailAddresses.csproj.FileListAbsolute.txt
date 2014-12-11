@@ -1,0 +1,5 @@
+D:\Projects\C# 2\08. Strings-and-Text-Processing\18. ExtractAllEmailAddresses\bin\Debug\_18.ExtractAllEmailAddresses.exe.config
+D:\Projects\C# 2\08. Strings-and-Text-Processing\18. ExtractAllEmailAddresses\bin\Debug\_18.ExtractAllEmailAddresses.exe
+D:\Projects\C# 2\08. Strings-and-Text-Processing\18. ExtractAllEmailAddresses\bin\Debug\_18.ExtractAllEmailAddresses.pdb
+D:\Projects\C# 2\08. Strings-and-Text-Processing\18. ExtractAllEmailAddresses\obj\Debug\_18.ExtractAllEmailAddresses.exe
+D:\Projects\C# 2\08. Strings-and-Text-Processing\18. ExtractAllEmailAddresses\obj\Debug\_18.ExtractAllEmailAddresses.pdb

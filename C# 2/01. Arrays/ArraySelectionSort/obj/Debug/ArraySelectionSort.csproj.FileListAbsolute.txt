@@ -1,0 +1,6 @@
+D:\Projects\01. Arrays\ArraySelectionSort\bin\Debug\ArraySelectionSort.exe.config
+D:\Projects\01. Arrays\ArraySelectionSort\bin\Debug\ArraySelectionSort.exe
+D:\Projects\01. Arrays\ArraySelectionSort\bin\Debug\ArraySelectionSort.pdb
+D:\Projects\01. Arrays\ArraySelectionSort\obj\Debug\ArraySelectionSort.csprojResolveAssemblyReference.cache
+D:\Projects\01. Arrays\ArraySelectionSort\obj\Debug\ArraySelectionSort.exe
+D:\Projects\01. Arrays\ArraySelectionSort\obj\Debug\ArraySelectionSort.pdb

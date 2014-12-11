@@ -1,0 +1,5 @@
+D:\Projects\C# 2\08. Strings-and-Text-Processing\25. ExtractHTMLTitleAndBody\bin\Debug\_25.ExtractHTMLTitleAndBody.exe.config
+D:\Projects\C# 2\08. Strings-and-Text-Processing\25. ExtractHTMLTitleAndBody\bin\Debug\_25.ExtractHTMLTitleAndBody.exe
+D:\Projects\C# 2\08. Strings-and-Text-Processing\25. ExtractHTMLTitleAndBody\bin\Debug\_25.ExtractHTMLTitleAndBody.pdb
+D:\Projects\C# 2\08. Strings-and-Text-Processing\25. ExtractHTMLTitleAndBody\obj\Debug\_25.ExtractHTMLTitleAndBody.exe
+D:\Projects\C# 2\08. Strings-and-Text-Processing\25. ExtractHTMLTitleAndBody\obj\Debug\_25.ExtractHTMLTitleAndBody.pdb

@@ -1,0 +1,5 @@
+D:\Projects\C# 2\08. Strings-and-Text-Processing\15. ReplaceAllTagsInHTMLDoc\bin\Debug\_15.ReplaceAllTagsInHTMLDoc.exe.config
+D:\Projects\C# 2\08. Strings-and-Text-Processing\15. ReplaceAllTagsInHTMLDoc\bin\Debug\_15.ReplaceAllTagsInHTMLDoc.exe
+D:\Projects\C# 2\08. Strings-and-Text-Processing\15. ReplaceAllTagsInHTMLDoc\bin\Debug\_15.ReplaceAllTagsInHTMLDoc.pdb
+D:\Projects\C# 2\08. Strings-and-Text-Processing\15. ReplaceAllTagsInHTMLDoc\obj\Debug\_15.ReplaceAllTagsInHTMLDoc.exe
+D:\Projects\C# 2\08. Strings-and-Text-Processing\15. ReplaceAllTagsInHTMLDoc\obj\Debug\_15.ReplaceAllTagsInHTMLDoc.pdb

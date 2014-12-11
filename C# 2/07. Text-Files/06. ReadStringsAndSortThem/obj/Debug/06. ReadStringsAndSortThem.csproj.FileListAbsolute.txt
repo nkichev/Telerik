@@ -1,0 +1,5 @@
+D:\Projects\C# 2\07. Text-Files\06. ReadStringsAndSortThem\bin\Debug\_06.ReadStringsAndSortThem.exe.config
+D:\Projects\C# 2\07. Text-Files\06. ReadStringsAndSortThem\bin\Debug\_06.ReadStringsAndSortThem.exe
+D:\Projects\C# 2\07. Text-Files\06. ReadStringsAndSortThem\bin\Debug\_06.ReadStringsAndSortThem.pdb
+D:\Projects\C# 2\07. Text-Files\06. ReadStringsAndSortThem\obj\Debug\_06.ReadStringsAndSortThem.exe
+D:\Projects\C# 2\07. Text-Files\06. ReadStringsAndSortThem\obj\Debug\_06.ReadStringsAndSortThem.pdb

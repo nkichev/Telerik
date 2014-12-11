@@ -1,0 +1,15 @@
+D:\Projects\01. Arrays\10. FindSequenceOfGivenSum\bin\Debug\_10.FindSequenceOfGivenSum.exe.config
+D:\Projects\01. Arrays\10. FindSequenceOfGivenSum\bin\Debug\_10.FindSequenceOfGivenSum.exe
+D:\Projects\01. Arrays\10. FindSequenceOfGivenSum\bin\Debug\_10.FindSequenceOfGivenSum.pdb
+D:\Projects\01. Arrays\10. FindSequenceOfGivenSum\obj\Debug\10. FindSequenceOfGivenSum.csprojResolveAssemblyReference.cache
+D:\Projects\01. Arrays\10. FindSequenceOfGivenSum\obj\Debug\_10.FindSequenceOfGivenSum.exe
+D:\Projects\01. Arrays\10. FindSequenceOfGivenSum\obj\Debug\_10.FindSequenceOfGivenSum.pdb
+D:\Projects\C# 2\01. Arrays\10. FindSequenceOfGivenSum\bin\Debug\_10.FindSequenceOfGivenSum.exe.config
+D:\Projects\C# 2\01. Arrays\10. FindSequenceOfGivenSum\obj\Debug\_10.FindSequenceOfGivenSum.exe
+D:\Projects\C# 2\01. Arrays\10. FindSequenceOfGivenSum\obj\Debug\_10.FindSequenceOfGivenSum.pdb
+E:\Projects\Telerik\C# 2\HW\01. Arrays\10. FindSequenceOfGivenSum\bin\Debug\_10.FindSequenceOfGivenSum.exe.config
+E:\Projects\Telerik\C# 2\HW\01. Arrays\10. FindSequenceOfGivenSum\obj\Debug\_10.FindSequenceOfGivenSum.exe
+E:\Projects\Telerik\C# 2\HW\01. Arrays\10. FindSequenceOfGivenSum\obj\Debug\_10.FindSequenceOfGivenSum.pdb
+D:\Projects\Telerik\C# 2\HW\01. Arrays\10. FindSequenceOfGivenSum\bin\Debug\_10.FindSequenceOfGivenSum.exe.config
+D:\Projects\Telerik\C# 2\HW\01. Arrays\10. FindSequenceOfGivenSum\obj\Debug\_10.FindSequenceOfGivenSum.exe
+D:\Projects\Telerik\C# 2\HW\01. Arrays\10. FindSequenceOfGivenSum\obj\Debug\_10.FindSequenceOfGivenSum.pdb

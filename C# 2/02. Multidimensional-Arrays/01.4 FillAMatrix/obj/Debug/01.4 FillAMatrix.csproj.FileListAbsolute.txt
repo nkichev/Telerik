@@ -1,0 +1,5 @@
+D:\Projects\C# 2\02. Multidimensional-Arrays\01.4 FillAMatrix\bin\Debug\01.4 FillAMatrix.exe.config
+D:\Projects\C# 2\02. Multidimensional-Arrays\01.4 FillAMatrix\bin\Debug\01.4 FillAMatrix.exe
+D:\Projects\C# 2\02. Multidimensional-Arrays\01.4 FillAMatrix\bin\Debug\01.4 FillAMatrix.pdb
+D:\Projects\C# 2\02. Multidimensional-Arrays\01.4 FillAMatrix\obj\Debug\01.4 FillAMatrix.exe
+D:\Projects\C# 2\02. Multidimensional-Arrays\01.4 FillAMatrix\obj\Debug\01.4 FillAMatrix.pdb

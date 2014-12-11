@@ -1,0 +1,12 @@
+D:\Projects\01. Arrays\01. IndexMultipliedBy5\bin\Debug\_01.IndexMultipliedBy5.exe.config
+D:\Projects\01. Arrays\01. IndexMultipliedBy5\bin\Debug\_01.IndexMultipliedBy5.exe
+D:\Projects\01. Arrays\01. IndexMultipliedBy5\bin\Debug\_01.IndexMultipliedBy5.pdb
+D:\Projects\01. Arrays\01. IndexMultipliedBy5\obj\Debug\01. IndexMultipliedBy5.csprojResolveAssemblyReference.cache
+D:\Projects\01. Arrays\01. IndexMultipliedBy5\obj\Debug\_01.IndexMultipliedBy5.exe
+D:\Projects\01. Arrays\01. IndexMultipliedBy5\obj\Debug\_01.IndexMultipliedBy5.pdb
+D:\Projects\C# 2\01. Arrays\01. IndexMultipliedBy5\bin\Debug\_01.IndexMultipliedBy5.exe.config
+D:\Projects\C# 2\01. Arrays\01. IndexMultipliedBy5\obj\Debug\_01.IndexMultipliedBy5.exe
+D:\Projects\C# 2\01. Arrays\01. IndexMultipliedBy5\obj\Debug\_01.IndexMultipliedBy5.pdb
+D:\Projects\Telerik\C# 2\HW\01. Arrays\01. IndexMultipliedBy5\bin\Debug\_01.IndexMultipliedBy5.exe.config
+D:\Projects\Telerik\C# 2\HW\01. Arrays\01. IndexMultipliedBy5\obj\Debug\_01.IndexMultipliedBy5.exe
+D:\Projects\Telerik\C# 2\HW\01. Arrays\01. IndexMultipliedBy5\obj\Debug\_01.IndexMultipliedBy5.pdb

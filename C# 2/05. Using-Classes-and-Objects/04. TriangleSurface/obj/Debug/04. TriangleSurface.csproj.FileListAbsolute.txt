@@ -1,0 +1,6 @@
+C:\Users\kichev\Desktop\5. Using-Classes-and-Objects\04. TriangleSurface\bin\Debug\_04.TriangleSurface.exe.config
+C:\Users\kichev\Desktop\5. Using-Classes-and-Objects\04. TriangleSurface\bin\Debug\_04.TriangleSurface.exe
+C:\Users\kichev\Desktop\5. Using-Classes-and-Objects\04. TriangleSurface\bin\Debug\_04.TriangleSurface.pdb
+C:\Users\kichev\Desktop\5. Using-Classes-and-Objects\04. TriangleSurface\obj\Debug\04. TriangleSurface.csprojResolveAssemblyReference.cache
+C:\Users\kichev\Desktop\5. Using-Classes-and-Objects\04. TriangleSurface\obj\Debug\_04.TriangleSurface.exe
+C:\Users\kichev\Desktop\5. Using-Classes-and-Objects\04. TriangleSurface\obj\Debug\_04.TriangleSurface.pdb

@@ -1,0 +1,5 @@
+D:\Projects\C# 2\04. Numeral-Systems\06. BinToHexDirectly\bin\Debug\_06.BinToHexDirectly.exe.config
+D:\Projects\C# 2\04. Numeral-Systems\06. BinToHexDirectly\bin\Debug\_06.BinToHexDirectly.exe
+D:\Projects\C# 2\04. Numeral-Systems\06. BinToHexDirectly\bin\Debug\_06.BinToHexDirectly.pdb
+D:\Projects\C# 2\04. Numeral-Systems\06. BinToHexDirectly\obj\Debug\_06.BinToHexDirectly.exe
+D:\Projects\C# 2\04. Numeral-Systems\06. BinToHexDirectly\obj\Debug\_06.BinToHexDirectly.pdb

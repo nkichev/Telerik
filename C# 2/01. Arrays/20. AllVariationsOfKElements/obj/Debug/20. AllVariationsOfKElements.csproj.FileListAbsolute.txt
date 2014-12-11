@@ -1,0 +1,8 @@
+D:\Projects\01. Arrays\20. AllVariationsOfKElements\bin\Debug\_20.AllVariationsOfKElements.exe.config
+D:\Projects\01. Arrays\20. AllVariationsOfKElements\bin\Debug\_20.AllVariationsOfKElements.exe
+D:\Projects\01. Arrays\20. AllVariationsOfKElements\bin\Debug\_20.AllVariationsOfKElements.pdb
+D:\Projects\01. Arrays\20. AllVariationsOfKElements\obj\Debug\_20.AllVariationsOfKElements.exe
+D:\Projects\01. Arrays\20. AllVariationsOfKElements\obj\Debug\_20.AllVariationsOfKElements.pdb
+D:\Projects\C# 2\01. Arrays\20. AllVariationsOfKElements\bin\Debug\_20.AllVariationsOfKElements.exe.config
+D:\Projects\C# 2\01. Arrays\20. AllVariationsOfKElements\obj\Debug\_20.AllVariationsOfKElements.exe
+D:\Projects\C# 2\01. Arrays\20. AllVariationsOfKElements\obj\Debug\_20.AllVariationsOfKElements.pdb

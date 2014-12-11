@@ -1,0 +1,6 @@
+D:\Projects\C# 2\07. Text-Files\10. ExtractTextWithoutTags\bin\Debug\_10.ExtractTextWithoutTags.exe.config
+D:\Projects\C# 2\07. Text-Files\10. ExtractTextWithoutTags\bin\Debug\_10.ExtractTextWithoutTags.exe
+D:\Projects\C# 2\07. Text-Files\10. ExtractTextWithoutTags\bin\Debug\_10.ExtractTextWithoutTags.pdb
+D:\Projects\C# 2\07. Text-Files\10. ExtractTextWithoutTags\obj\Debug\10. ExtractTextWithoutTags.csprojResolveAssemblyReference.cache
+D:\Projects\C# 2\07. Text-Files\10. ExtractTextWithoutTags\obj\Debug\_10.ExtractTextWithoutTags.exe
+D:\Projects\C# 2\07. Text-Files\10. ExtractTextWithoutTags\obj\Debug\_10.ExtractTextWithoutTags.pdb

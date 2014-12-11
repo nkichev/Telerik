@@ -1,0 +1,5 @@
+D:\Projects\C# 2\07. Text-Files\07. ReplaceStartWithFinish\bin\Debug\_07.ReplaceStartWithFinish.exe.config
+D:\Projects\C# 2\07. Text-Files\07. ReplaceStartWithFinish\bin\Debug\_07.ReplaceStartWithFinish.exe
+D:\Projects\C# 2\07. Text-Files\07. ReplaceStartWithFinish\bin\Debug\_07.ReplaceStartWithFinish.pdb
+D:\Projects\C# 2\07. Text-Files\07. ReplaceStartWithFinish\obj\Debug\_07.ReplaceStartWithFinish.exe
+D:\Projects\C# 2\07. Text-Files\07. ReplaceStartWithFinish\obj\Debug\_07.ReplaceStartWithFinish.pdb

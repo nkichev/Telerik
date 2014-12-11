@@ -1,0 +1,6 @@
+D:\Projects\C# 2\02. Multidimensional-Arrays\01.2 FillAMatrix\bin\Debug\01.2 FillAMatrix.exe.config
+D:\Projects\C# 2\02. Multidimensional-Arrays\01.2 FillAMatrix\bin\Debug\01.2 FillAMatrix.exe
+D:\Projects\C# 2\02. Multidimensional-Arrays\01.2 FillAMatrix\bin\Debug\01.2 FillAMatrix.pdb
+D:\Projects\C# 2\02. Multidimensional-Arrays\01.2 FillAMatrix\obj\Debug\01.2 FillAMatrix.exe
+D:\Projects\C# 2\02. Multidimensional-Arrays\01.2 FillAMatrix\obj\Debug\01.2 FillAMatrix.pdb
+D:\Projects\C# 2\02. Multidimensional-Arrays\01.2 FillAMatrix\obj\Debug\01.2 FillAMatrix.csprojResolveAssemblyReference.cache

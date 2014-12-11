@@ -1,0 +1,5 @@
+D:\Projects\C# 2\07. Text-Files\11. DeleteWordStartingWithTest\bin\Debug\_11.DeleteWordStartingWithTest.exe.config
+D:\Projects\C# 2\07. Text-Files\11. DeleteWordStartingWithTest\bin\Debug\_11.DeleteWordStartingWithTest.exe
+D:\Projects\C# 2\07. Text-Files\11. DeleteWordStartingWithTest\bin\Debug\_11.DeleteWordStartingWithTest.pdb
+D:\Projects\C# 2\07. Text-Files\11. DeleteWordStartingWithTest\obj\Debug\_11.DeleteWordStartingWithTest.exe
+D:\Projects\C# 2\07. Text-Files\11. DeleteWordStartingWithTest\obj\Debug\_11.DeleteWordStartingWithTest.pdb

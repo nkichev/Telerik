@@ -1,0 +1,6 @@
+D:\Projects\C# 2\08. Strings-and-Text-Processing\12. URLAddress\bin\Debug\_12.URLAddress.exe.config
+D:\Projects\C# 2\08. Strings-and-Text-Processing\12. URLAddress\bin\Debug\_12.URLAddress.exe
+D:\Projects\C# 2\08. Strings-and-Text-Processing\12. URLAddress\bin\Debug\_12.URLAddress.pdb
+D:\Projects\C# 2\08. Strings-and-Text-Processing\12. URLAddress\obj\Debug\12. URLAddress.csprojResolveAssemblyReference.cache
+D:\Projects\C# 2\08. Strings-and-Text-Processing\12. URLAddress\obj\Debug\_12.URLAddress.exe
+D:\Projects\C# 2\08. Strings-and-Text-Processing\12. URLAddress\obj\Debug\_12.URLAddress.pdb

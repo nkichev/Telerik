@@ -1,0 +1,5 @@
+D:\Projects\C# 2\08. Strings-and-Text-Processing\19. ExtractAllDatesMatchingTheFormat\bin\Debug\_19.ExtractAllDatesMatchingTheFormat.exe.config
+D:\Projects\C# 2\08. Strings-and-Text-Processing\19. ExtractAllDatesMatchingTheFormat\bin\Debug\_19.ExtractAllDatesMatchingTheFormat.exe
+D:\Projects\C# 2\08. Strings-and-Text-Processing\19. ExtractAllDatesMatchingTheFormat\bin\Debug\_19.ExtractAllDatesMatchingTheFormat.pdb
+D:\Projects\C# 2\08. Strings-and-Text-Processing\19. ExtractAllDatesMatchingTheFormat\obj\Debug\_19.ExtractAllDatesMatchingTheFormat.exe
+D:\Projects\C# 2\08. Strings-and-Text-Processing\19. ExtractAllDatesMatchingTheFormat\obj\Debug\_19.ExtractAllDatesMatchingTheFormat.pdb

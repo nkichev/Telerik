@@ -1,0 +1,5 @@
+D:\Projects\C# 2\07. Text-Files\08. PreviousExerciseModified\bin\Debug\_08.PreviousExerciseModified.exe.config
+D:\Projects\C# 2\07. Text-Files\08. PreviousExerciseModified\bin\Debug\_08.PreviousExerciseModified.exe
+D:\Projects\C# 2\07. Text-Files\08. PreviousExerciseModified\bin\Debug\_08.PreviousExerciseModified.pdb
+D:\Projects\C# 2\07. Text-Files\08. PreviousExerciseModified\obj\Debug\_08.PreviousExerciseModified.exe
+D:\Projects\C# 2\07. Text-Files\08. PreviousExerciseModified\obj\Debug\_08.PreviousExerciseModified.pdb

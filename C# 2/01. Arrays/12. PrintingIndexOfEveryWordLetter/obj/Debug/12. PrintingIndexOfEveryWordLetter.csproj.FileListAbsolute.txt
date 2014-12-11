@@ -1,0 +1,8 @@
+D:\Projects\01. Arrays\12. PrintingIndexOfEveryWordLetter\bin\Debug\_12.PrintingIndexOfEveryWordLetter.exe.config
+D:\Projects\01. Arrays\12. PrintingIndexOfEveryWordLetter\bin\Debug\_12.PrintingIndexOfEveryWordLetter.exe
+D:\Projects\01. Arrays\12. PrintingIndexOfEveryWordLetter\bin\Debug\_12.PrintingIndexOfEveryWordLetter.pdb
+D:\Projects\01. Arrays\12. PrintingIndexOfEveryWordLetter\obj\Debug\_12.PrintingIndexOfEveryWordLetter.exe
+D:\Projects\01. Arrays\12. PrintingIndexOfEveryWordLetter\obj\Debug\_12.PrintingIndexOfEveryWordLetter.pdb
+D:\Projects\C# 2\01. Arrays\12. PrintingIndexOfEveryWordLetter\bin\Debug\_12.PrintingIndexOfEveryWordLetter.exe.config
+D:\Projects\C# 2\01. Arrays\12. PrintingIndexOfEveryWordLetter\obj\Debug\_12.PrintingIndexOfEveryWordLetter.exe
+D:\Projects\C# 2\01. Arrays\12. PrintingIndexOfEveryWordLetter\obj\Debug\_12.PrintingIndexOfEveryWordLetter.pdb

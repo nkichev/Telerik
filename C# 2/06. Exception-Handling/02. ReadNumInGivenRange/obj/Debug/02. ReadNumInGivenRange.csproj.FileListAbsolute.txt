@@ -1,0 +1,6 @@
+D:\Projects\C# 2\06. Exception-Handling\02. ReadNumInGivenRange\bin\Debug\_02.ReadNumInGivenRange.exe.config
+D:\Projects\C# 2\06. Exception-Handling\02. ReadNumInGivenRange\bin\Debug\_02.ReadNumInGivenRange.exe
+D:\Projects\C# 2\06. Exception-Handling\02. ReadNumInGivenRange\bin\Debug\_02.ReadNumInGivenRange.pdb
+D:\Projects\C# 2\06. Exception-Handling\02. ReadNumInGivenRange\obj\Debug\_02.ReadNumInGivenRange.exe
+D:\Projects\C# 2\06. Exception-Handling\02. ReadNumInGivenRange\obj\Debug\_02.ReadNumInGivenRange.pdb
+D:\Projects\C# 2\06. Exception-Handling\02. ReadNumInGivenRange\obj\Debug\02. ReadNumInGivenRange.csprojResolveAssemblyReference.cache

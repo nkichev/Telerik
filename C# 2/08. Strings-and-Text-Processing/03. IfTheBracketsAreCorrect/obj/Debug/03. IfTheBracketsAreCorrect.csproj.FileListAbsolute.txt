@@ -1,0 +1,5 @@
+D:\Projects\C# 2\08. Strings-and-Text-Processing\03. IfTheBracketsAreCorrect\bin\Debug\_03.IfTheBracketsAreCorrect.exe.config
+D:\Projects\C# 2\08. Strings-and-Text-Processing\03. IfTheBracketsAreCorrect\bin\Debug\_03.IfTheBracketsAreCorrect.exe
+D:\Projects\C# 2\08. Strings-and-Text-Processing\03. IfTheBracketsAreCorrect\bin\Debug\_03.IfTheBracketsAreCorrect.pdb
+D:\Projects\C# 2\08. Strings-and-Text-Processing\03. IfTheBracketsAreCorrect\obj\Debug\_03.IfTheBracketsAreCorrect.exe
+D:\Projects\C# 2\08. Strings-and-Text-Processing\03. IfTheBracketsAreCorrect\obj\Debug\_03.IfTheBracketsAreCorrect.pdb

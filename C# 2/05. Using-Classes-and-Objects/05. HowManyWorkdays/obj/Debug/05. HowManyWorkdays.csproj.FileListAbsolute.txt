@@ -1,0 +1,6 @@
+C:\Users\kichev\Desktop\5. Using-Classes-and-Objects\05. HowManyWorkdays\bin\Debug\_05.HowManyWorkdays.exe.config
+C:\Users\kichev\Desktop\5. Using-Classes-and-Objects\05. HowManyWorkdays\obj\Debug\05. HowManyWorkdays.csprojResolveAssemblyReference.cache
+C:\Users\kichev\Desktop\5. Using-Classes-and-Objects\05. HowManyWorkdays\bin\Debug\_05.HowManyWorkdays.exe
+C:\Users\kichev\Desktop\5. Using-Classes-and-Objects\05. HowManyWorkdays\bin\Debug\_05.HowManyWorkdays.pdb
+C:\Users\kichev\Desktop\5. Using-Classes-and-Objects\05. HowManyWorkdays\obj\Debug\_05.HowManyWorkdays.exe
+C:\Users\kichev\Desktop\5. Using-Classes-and-Objects\05. HowManyWorkdays\obj\Debug\_05.HowManyWorkdays.pdb

@@ -1,0 +1,1 @@
+D:\Projects\01. Arrays\14. ArrayQuickSort\bin\Debug\_14.ArrayQuickSort.exe.config

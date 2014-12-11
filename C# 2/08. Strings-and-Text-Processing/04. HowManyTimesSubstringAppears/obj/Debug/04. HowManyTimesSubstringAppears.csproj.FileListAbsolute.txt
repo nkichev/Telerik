@@ -1,0 +1,5 @@
+D:\Projects\C# 2\08. Strings-and-Text-Processing\04. HowManyTimesSubstringAppears\bin\Debug\_04.HowManyTimesSubstringAppears.exe.config
+D:\Projects\C# 2\08. Strings-and-Text-Processing\04. HowManyTimesSubstringAppears\bin\Debug\_04.HowManyTimesSubstringAppears.exe
+D:\Projects\C# 2\08. Strings-and-Text-Processing\04. HowManyTimesSubstringAppears\bin\Debug\_04.HowManyTimesSubstringAppears.pdb
+D:\Projects\C# 2\08. Strings-and-Text-Processing\04. HowManyTimesSubstringAppears\obj\Debug\_04.HowManyTimesSubstringAppears.exe
+D:\Projects\C# 2\08. Strings-and-Text-Processing\04. HowManyTimesSubstringAppears\obj\Debug\_04.HowManyTimesSubstringAppears.pdb

@@ -1,0 +1,16 @@
+C:\Users\kichev\Desktop\Deal Or No Deal\Deal Or No Deal Game\bin\Debug\Deal Or No Deal Game.exe.config
+C:\Users\kichev\Desktop\Deal Or No Deal\Deal Or No Deal Game\bin\Debug\Deal Or No Deal Game.exe
+C:\Users\kichev\Desktop\Deal Or No Deal\Deal Or No Deal Game\bin\Debug\Deal Or No Deal Game.pdb
+C:\Users\kichev\Desktop\Deal Or No Deal\Deal Or No Deal Game\obj\Debug\Deal Or No Deal Game.csprojResolveAssemblyReference.cache
+C:\Users\kichev\Desktop\Deal Or No Deal\Deal Or No Deal Game\obj\Debug\Deal Or No Deal Game.exe
+C:\Users\kichev\Desktop\Deal Or No Deal\Deal Or No Deal Game\obj\Debug\Deal Or No Deal Game.pdb
+C:\Users\kichev\Desktop\Game\Deal Or No Deal\Deal Or No Deal Game\bin\Debug\Deal Or No Deal Game.exe.config
+C:\Users\kichev\Desktop\Game\Deal Or No Deal\Deal Or No Deal Game\obj\Debug\Deal Or No Deal Game.exe
+C:\Users\kichev\Desktop\Game\Deal Or No Deal\Deal Or No Deal Game\obj\Debug\Deal Or No Deal Game.pdb
+D:\Projects\C# 2\Game\Deal Or No Deal\Unit Tests For Deal Or No Deal Game\bin\Debug\Deal Or No Deal Game.exe.config
+D:\Projects\C# 2\Game\Deal Or No Deal\Deal Or No Deal Game\obj\Debug\Deal Or No Deal Game.exe
+D:\Projects\C# 2\Game\Deal Or No Deal\Deal Or No Deal Game\obj\Debug\Deal Or No Deal Game.pdb
+D:\Projects\C# 2\Game\Deal Or No Deal\Deal Or No Deal Game\bin\Debug\Deal Or No Deal Game.exe.config
+D:\Projects\C# 2\Game\Deal Or No Deal\Deal Or No Deal Game\bin\Debug\Deal Or No Deal Game.exe
+D:\Projects\C# 2\Game\Deal Or No Deal\Deal Or No Deal Game\bin\Debug\Deal Or No Deal Game.pdb
+D:\Projects\C# 2\Game\Deal Or No Deal\Deal Or No Deal Game\obj\Debug\Deal Or No Deal Game.csprojResolveAssemblyReference.cache

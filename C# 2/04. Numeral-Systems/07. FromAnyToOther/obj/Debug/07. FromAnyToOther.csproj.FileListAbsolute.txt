@@ -1,0 +1,6 @@
+D:\Projects\C# 2\04. Numeral-Systems\07. FromAnyToOther\bin\Debug\_07.FromAnyToOther.exe.config
+D:\Projects\C# 2\04. Numeral-Systems\07. FromAnyToOther\bin\Debug\_07.FromAnyToOther.exe
+D:\Projects\C# 2\04. Numeral-Systems\07. FromAnyToOther\bin\Debug\_07.FromAnyToOther.pdb
+D:\Projects\C# 2\04. Numeral-Systems\07. FromAnyToOther\obj\Debug\07. FromAnyToOther.csprojResolveAssemblyReference.cache
+D:\Projects\C# 2\04. Numeral-Systems\07. FromAnyToOther\obj\Debug\_07.FromAnyToOther.exe
+D:\Projects\C# 2\04. Numeral-Systems\07. FromAnyToOther\obj\Debug\_07.FromAnyToOther.pdb

@@ -1,0 +1,5 @@
+D:\Projects\C# 2\08. Strings-and-Text-Processing\22. ListDifferentLettersAndHowManyTimes\bin\Debug\_22.ListDifferentLettersAndHowManyTimes.exe.config
+D:\Projects\C# 2\08. Strings-and-Text-Processing\22. ListDifferentLettersAndHowManyTimes\bin\Debug\_22.ListDifferentLettersAndHowManyTimes.exe
+D:\Projects\C# 2\08. Strings-and-Text-Processing\22. ListDifferentLettersAndHowManyTimes\bin\Debug\_22.ListDifferentLettersAndHowManyTimes.pdb
+D:\Projects\C# 2\08. Strings-and-Text-Processing\22. ListDifferentLettersAndHowManyTimes\obj\Debug\_22.ListDifferentLettersAndHowManyTimes.exe
+D:\Projects\C# 2\08. Strings-and-Text-Processing\22. ListDifferentLettersAndHowManyTimes\obj\Debug\_22.ListDifferentLettersAndHowManyTimes.pdb

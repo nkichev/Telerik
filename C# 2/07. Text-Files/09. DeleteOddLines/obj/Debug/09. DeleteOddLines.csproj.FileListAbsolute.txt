@@ -1,0 +1,5 @@
+D:\Projects\C# 2\07. Text-Files\09. DeleteOddLines\bin\Debug\_09.DeleteOddLines.exe.config
+D:\Projects\C# 2\07. Text-Files\09. DeleteOddLines\bin\Debug\_09.DeleteOddLines.exe
+D:\Projects\C# 2\07. Text-Files\09. DeleteOddLines\bin\Debug\_09.DeleteOddLines.pdb
+D:\Projects\C# 2\07. Text-Files\09. DeleteOddLines\obj\Debug\_09.DeleteOddLines.exe
+D:\Projects\C# 2\07. Text-Files\09. DeleteOddLines\obj\Debug\_09.DeleteOddLines.pdb

@@ -1,0 +1,5 @@
+D:\Projects\C# 2\06. Exception-Handling\04. DownloadAFile\bin\Debug\_04.DownloadAFile.exe.config
+D:\Projects\C# 2\06. Exception-Handling\04. DownloadAFile\bin\Debug\_04.DownloadAFile.exe
+D:\Projects\C# 2\06. Exception-Handling\04. DownloadAFile\bin\Debug\_04.DownloadAFile.pdb
+D:\Projects\C# 2\06. Exception-Handling\04. DownloadAFile\obj\Debug\_04.DownloadAFile.exe
+D:\Projects\C# 2\06. Exception-Handling\04. DownloadAFile\obj\Debug\_04.DownloadAFile.pdb

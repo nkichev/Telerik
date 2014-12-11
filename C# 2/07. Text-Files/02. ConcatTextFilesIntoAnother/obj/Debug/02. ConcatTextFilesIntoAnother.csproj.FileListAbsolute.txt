@@ -1,0 +1,6 @@
+D:\Projects\C# 2\07. Text-Files\02. ConcatTextFilesIntoAnother\bin\Debug\_02.ConcatTextFilesIntoAnother.exe.config
+D:\Projects\C# 2\07. Text-Files\02. ConcatTextFilesIntoAnother\bin\Debug\_02.ConcatTextFilesIntoAnother.exe
+D:\Projects\C# 2\07. Text-Files\02. ConcatTextFilesIntoAnother\bin\Debug\_02.ConcatTextFilesIntoAnother.pdb
+D:\Projects\C# 2\07. Text-Files\02. ConcatTextFilesIntoAnother\obj\Debug\02. ConcatTextFilesIntoAnother.csprojResolveAssemblyReference.cache
+D:\Projects\C# 2\07. Text-Files\02. ConcatTextFilesIntoAnother\obj\Debug\_02.ConcatTextFilesIntoAnother.exe
+D:\Projects\C# 2\07. Text-Files\02. ConcatTextFilesIntoAnother\obj\Debug\_02.ConcatTextFilesIntoAnother.pdb

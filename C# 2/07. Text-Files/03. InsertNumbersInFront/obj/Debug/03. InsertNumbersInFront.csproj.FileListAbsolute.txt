@@ -1,0 +1,5 @@
+D:\Projects\C# 2\07. Text-Files\03. InsertNumbersInFront\bin\Debug\_03.InsertNumbersInFront.exe.config
+D:\Projects\C# 2\07. Text-Files\03. InsertNumbersInFront\bin\Debug\_03.InsertNumbersInFront.exe
+D:\Projects\C# 2\07. Text-Files\03. InsertNumbersInFront\bin\Debug\_03.InsertNumbersInFront.pdb
+D:\Projects\C# 2\07. Text-Files\03. InsertNumbersInFront\obj\Debug\_03.InsertNumbersInFront.exe
+D:\Projects\C# 2\07. Text-Files\03. InsertNumbersInFront\obj\Debug\_03.InsertNumbersInFront.pdb

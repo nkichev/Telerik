@@ -1,0 +1,8 @@
+D:\Projects\01. Arrays\ArraySelectionSort\bin\Debug\ArraySelectionSort.exe.config
+D:\Projects\01. Arrays\ArraySelectionSort\obj\Debug\ArraySelectionSort.exe
+D:\Projects\01. Arrays\ArraySelectionSort\obj\Debug\ArraySelectionSort.pdb
+D:\Projects\C# 2\01. Arrays\ArraySelectionSort\bin\Debug\ArraySelectionSort.exe.config
+D:\Projects\C# 2\01. Arrays\ArraySelectionSort\obj\Debug\ArraySelectionSort.exe
+D:\Projects\C# 2\01. Arrays\ArraySelectionSort\obj\Debug\ArraySelectionSort.pdb
+D:\Projects\C# 2\01. Arrays\ArraySelectionSort\bin\Debug\ArraySelectionSort.exe
+D:\Projects\C# 2\01. Arrays\ArraySelectionSort\bin\Debug\ArraySelectionSort.pdb

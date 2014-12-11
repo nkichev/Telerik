@@ -1,0 +1,5 @@
+D:\Projects\C# 2\08. Strings-and-Text-Processing\16. CalculateDaysBtw2Dates\bin\Debug\_16.CalculateDaysBtw2Dates.exe.config
+D:\Projects\C# 2\08. Strings-and-Text-Processing\16. CalculateDaysBtw2Dates\bin\Debug\_16.CalculateDaysBtw2Dates.exe
+D:\Projects\C# 2\08. Strings-and-Text-Processing\16. CalculateDaysBtw2Dates\bin\Debug\_16.CalculateDaysBtw2Dates.pdb
+D:\Projects\C# 2\08. Strings-and-Text-Processing\16. CalculateDaysBtw2Dates\obj\Debug\_16.CalculateDaysBtw2Dates.exe
+D:\Projects\C# 2\08. Strings-and-Text-Processing\16. CalculateDaysBtw2Dates\obj\Debug\_16.CalculateDaysBtw2Dates.pdb

@@ -1,0 +1,6 @@
+D:\Projects\C# 2\08. Strings-and-Text-Processing\02. PrintReversedString\bin\Debug\_02.PrintReversedString.exe.config
+D:\Projects\C# 2\08. Strings-and-Text-Processing\02. PrintReversedString\obj\Debug\02. PrintReversedString.csprojResolveAssemblyReference.cache
+D:\Projects\C# 2\08. Strings-and-Text-Processing\02. PrintReversedString\bin\Debug\_02.PrintReversedString.exe
+D:\Projects\C# 2\08. Strings-and-Text-Processing\02. PrintReversedString\bin\Debug\_02.PrintReversedString.pdb
+D:\Projects\C# 2\08. Strings-and-Text-Processing\02. PrintReversedString\obj\Debug\_02.PrintReversedString.exe
+D:\Projects\C# 2\08. Strings-and-Text-Processing\02. PrintReversedString\obj\Debug\_02.PrintReversedString.pdb

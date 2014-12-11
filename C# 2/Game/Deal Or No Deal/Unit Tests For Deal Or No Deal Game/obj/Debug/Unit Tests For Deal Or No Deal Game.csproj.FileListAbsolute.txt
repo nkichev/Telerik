@@ -1,0 +1,5 @@
+C:\Users\kichev\Desktop\Deal Or No Deal\Unit Tests For Deal Or No Deal Game\bin\Debug\Unit Tests For Deal Or No Deal Game.dll
+C:\Users\kichev\Desktop\Deal Or No Deal\Unit Tests For Deal Or No Deal Game\bin\Debug\Unit Tests For Deal Or No Deal Game.pdb
+C:\Users\kichev\Desktop\Deal Or No Deal\Unit Tests For Deal Or No Deal Game\obj\Debug\Unit Tests For Deal Or No Deal Game.csprojResolveAssemblyReference.cache
+C:\Users\kichev\Desktop\Deal Or No Deal\Unit Tests For Deal Or No Deal Game\obj\Debug\Unit Tests For Deal Or No Deal Game.dll
+C:\Users\kichev\Desktop\Deal Or No Deal\Unit Tests For Deal Or No Deal Game\obj\Debug\Unit Tests For Deal Or No Deal Game.pdb

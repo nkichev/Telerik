@@ -1,0 +1,6 @@
+D:\Projects\C# 2\08. Strings-and-Text-Processing\09. ReplaceForbiddenWordsWithAsterisks\bin\Debug\_09.ReplaceForbiddenWordsWithAsterisks.exe.config
+D:\Projects\C# 2\08. Strings-and-Text-Processing\09. ReplaceForbiddenWordsWithAsterisks\bin\Debug\_09.ReplaceForbiddenWordsWithAsterisks.exe
+D:\Projects\C# 2\08. Strings-and-Text-Processing\09. ReplaceForbiddenWordsWithAsterisks\bin\Debug\_09.ReplaceForbiddenWordsWithAsterisks.pdb
+D:\Projects\C# 2\08. Strings-and-Text-Processing\09. ReplaceForbiddenWordsWithAsterisks\obj\Debug\09. ReplaceForbiddenWordsWithAsterisks.csprojResolveAssemblyReference.cache
+D:\Projects\C# 2\08. Strings-and-Text-Processing\09. ReplaceForbiddenWordsWithAsterisks\obj\Debug\_09.ReplaceForbiddenWordsWithAsterisks.exe
+D:\Projects\C# 2\08. Strings-and-Text-Processing\09. ReplaceForbiddenWordsWithAsterisks\obj\Debug\_09.ReplaceForbiddenWordsWithAsterisks.pdb

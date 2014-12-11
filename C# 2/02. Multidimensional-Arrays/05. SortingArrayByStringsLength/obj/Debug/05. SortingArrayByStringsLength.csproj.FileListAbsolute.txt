@@ -1,0 +1,6 @@
+D:\Projects\C# 2\02. Multidimensional-Arrays\05. SortingArrayByStringsLength\bin\Debug\_05.SortingArrayByStringsLength.exe.config
+D:\Projects\C# 2\02. Multidimensional-Arrays\05. SortingArrayByStringsLength\bin\Debug\_05.SortingArrayByStringsLength.exe
+D:\Projects\C# 2\02. Multidimensional-Arrays\05. SortingArrayByStringsLength\bin\Debug\_05.SortingArrayByStringsLength.pdb
+D:\Projects\C# 2\02. Multidimensional-Arrays\05. SortingArrayByStringsLength\obj\Debug\05. SortingArrayByStringsLength.csprojResolveAssemblyReference.cache
+D:\Projects\C# 2\02. Multidimensional-Arrays\05. SortingArrayByStringsLength\obj\Debug\_05.SortingArrayByStringsLength.exe
+D:\Projects\C# 2\02. Multidimensional-Arrays\05. SortingArrayByStringsLength\obj\Debug\_05.SortingArrayByStringsLength.pdb

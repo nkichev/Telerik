@@ -1,0 +1,6 @@
+D:\Projects\C# 2\08. Strings-and-Text-Processing\17. After6hs30minsAndDayOfWeek\bin\Debug\_17.After6hs30minsAndDayOfWeek.exe.config
+D:\Projects\C# 2\08. Strings-and-Text-Processing\17. After6hs30minsAndDayOfWeek\bin\Debug\_17.After6hs30minsAndDayOfWeek.exe
+D:\Projects\C# 2\08. Strings-and-Text-Processing\17. After6hs30minsAndDayOfWeek\bin\Debug\_17.After6hs30minsAndDayOfWeek.pdb
+D:\Projects\C# 2\08. Strings-and-Text-Processing\17. After6hs30minsAndDayOfWeek\obj\Debug\17. After6hs30minsAndDayOfWeek.csprojResolveAssemblyReference.cache
+D:\Projects\C# 2\08. Strings-and-Text-Processing\17. After6hs30minsAndDayOfWeek\obj\Debug\_17.After6hs30minsAndDayOfWeek.exe
+D:\Projects\C# 2\08. Strings-and-Text-Processing\17. After6hs30minsAndDayOfWeek\obj\Debug\_17.After6hs30minsAndDayOfWeek.pdb

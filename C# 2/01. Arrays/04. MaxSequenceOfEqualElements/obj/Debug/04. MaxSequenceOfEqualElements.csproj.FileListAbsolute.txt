@@ -1,0 +1,8 @@
+D:\Projects\01. Arrays\04. MaxSequenceOfEqualElements\bin\Debug\_04.MaxSequenceOfEqualElements.exe.config
+D:\Projects\01. Arrays\04. MaxSequenceOfEqualElements\bin\Debug\_04.MaxSequenceOfEqualElements.exe
+D:\Projects\01. Arrays\04. MaxSequenceOfEqualElements\bin\Debug\_04.MaxSequenceOfEqualElements.pdb
+D:\Projects\01. Arrays\04. MaxSequenceOfEqualElements\obj\Debug\_04.MaxSequenceOfEqualElements.exe
+D:\Projects\01. Arrays\04. MaxSequenceOfEqualElements\obj\Debug\_04.MaxSequenceOfEqualElements.pdb
+D:\Projects\C# 2\01. Arrays\04. MaxSequenceOfEqualElements\bin\Debug\_04.MaxSequenceOfEqualElements.exe.config
+D:\Projects\C# 2\01. Arrays\04. MaxSequenceOfEqualElements\obj\Debug\_04.MaxSequenceOfEqualElements.exe
+D:\Projects\C# 2\01. Arrays\04. MaxSequenceOfEqualElements\obj\Debug\_04.MaxSequenceOfEqualElements.pdb

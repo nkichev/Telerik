@@ -1,0 +1,5 @@
+C:\Users\kichev\Desktop\5. Using-Classes-and-Objects\03. WhichDayOfTheWeek\bin\Debug\_03.WhichDayOfTheWeek.exe.config
+C:\Users\kichev\Desktop\5. Using-Classes-and-Objects\03. WhichDayOfTheWeek\bin\Debug\_03.WhichDayOfTheWeek.exe
+C:\Users\kichev\Desktop\5. Using-Classes-and-Objects\03. WhichDayOfTheWeek\bin\Debug\_03.WhichDayOfTheWeek.pdb
+C:\Users\kichev\Desktop\5. Using-Classes-and-Objects\03. WhichDayOfTheWeek\obj\Debug\_03.WhichDayOfTheWeek.exe
+C:\Users\kichev\Desktop\5. Using-Classes-and-Objects\03. WhichDayOfTheWeek\obj\Debug\_03.WhichDayOfTheWeek.pdb

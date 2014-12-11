@@ -1,0 +1,5 @@
+D:\Projects\C# 2\08. Strings-and-Text-Processing\23. ReplaceAllSeriesWithSingleOne\bin\Debug\_23.ReplaceAllSeriesWithSingleOne.exe.config
+D:\Projects\C# 2\08. Strings-and-Text-Processing\23. ReplaceAllSeriesWithSingleOne\bin\Debug\_23.ReplaceAllSeriesWithSingleOne.exe
+D:\Projects\C# 2\08. Strings-and-Text-Processing\23. ReplaceAllSeriesWithSingleOne\bin\Debug\_23.ReplaceAllSeriesWithSingleOne.pdb
+D:\Projects\C# 2\08. Strings-and-Text-Processing\23. ReplaceAllSeriesWithSingleOne\obj\Debug\_23.ReplaceAllSeriesWithSingleOne.exe
+D:\Projects\C# 2\08. Strings-and-Text-Processing\23. ReplaceAllSeriesWithSingleOne\obj\Debug\_23.ReplaceAllSeriesWithSingleOne.pdb

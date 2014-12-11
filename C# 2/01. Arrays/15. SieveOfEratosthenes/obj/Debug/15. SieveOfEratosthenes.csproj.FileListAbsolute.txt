@@ -1,0 +1,9 @@
+D:\Projects\01. Arrays\15. SieveOfEratosthenes\bin\Debug\_15.SieveOfEratosthenes.exe.config
+D:\Projects\01. Arrays\15. SieveOfEratosthenes\bin\Debug\_15.SieveOfEratosthenes.exe
+D:\Projects\01. Arrays\15. SieveOfEratosthenes\bin\Debug\_15.SieveOfEratosthenes.pdb
+D:\Projects\01. Arrays\15. SieveOfEratosthenes\obj\Debug\15. SieveOfEratosthenes.csprojResolveAssemblyReference.cache
+D:\Projects\01. Arrays\15. SieveOfEratosthenes\obj\Debug\_15.SieveOfEratosthenes.exe
+D:\Projects\01. Arrays\15. SieveOfEratosthenes\obj\Debug\_15.SieveOfEratosthenes.pdb
+D:\Projects\C# 2\01. Arrays\15. SieveOfEratosthenes\bin\Debug\_15.SieveOfEratosthenes.exe.config
+D:\Projects\C# 2\01. Arrays\15. SieveOfEratosthenes\obj\Debug\_15.SieveOfEratosthenes.exe
+D:\Projects\C# 2\01. Arrays\15. SieveOfEratosthenes\obj\Debug\_15.SieveOfEratosthenes.pdb

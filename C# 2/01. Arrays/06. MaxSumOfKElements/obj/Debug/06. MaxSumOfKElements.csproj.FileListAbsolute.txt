@@ -1,0 +1,9 @@
+D:\Projects\01. Arrays\06. MaxSumOfKElements\bin\Debug\_06.MaxSumOfKElements.exe.config
+D:\Projects\01. Arrays\06. MaxSumOfKElements\bin\Debug\_06.MaxSumOfKElements.exe
+D:\Projects\01. Arrays\06. MaxSumOfKElements\bin\Debug\_06.MaxSumOfKElements.pdb
+D:\Projects\01. Arrays\06. MaxSumOfKElements\obj\Debug\06. MaxSumOfKElements.csprojResolveAssemblyReference.cache
+D:\Projects\01. Arrays\06. MaxSumOfKElements\obj\Debug\_06.MaxSumOfKElements.exe
+D:\Projects\01. Arrays\06. MaxSumOfKElements\obj\Debug\_06.MaxSumOfKElements.pdb
+D:\Projects\C# 2\01. Arrays\06. MaxSumOfKElements\bin\Debug\_06.MaxSumOfKElements.exe.config
+D:\Projects\C# 2\01. Arrays\06. MaxSumOfKElements\obj\Debug\_06.MaxSumOfKElements.exe
+D:\Projects\C# 2\01. Arrays\06. MaxSumOfKElements\obj\Debug\_06.MaxSumOfKElements.pdb

@@ -1,0 +1,5 @@
+D:\Projects\C# 2\06. Exception-Handling\03. ReadAllText\bin\Debug\_03.ReadAllText.exe.config
+D:\Projects\C# 2\06. Exception-Handling\03. ReadAllText\bin\Debug\_03.ReadAllText.exe
+D:\Projects\C# 2\06. Exception-Handling\03. ReadAllText\bin\Debug\_03.ReadAllText.pdb
+D:\Projects\C# 2\06. Exception-Handling\03. ReadAllText\obj\Debug\_03.ReadAllText.exe
+D:\Projects\C# 2\06. Exception-Handling\03. ReadAllText\obj\Debug\_03.ReadAllText.pdb

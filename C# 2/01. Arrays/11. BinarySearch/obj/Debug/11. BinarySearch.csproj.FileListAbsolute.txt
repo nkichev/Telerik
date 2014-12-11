@@ -1,0 +1,12 @@
+D:\Projects\01. Arrays\11. BinarySearch\bin\Debug\_11.BinarySearch.exe.config
+D:\Projects\01. Arrays\11. BinarySearch\bin\Debug\_11.BinarySearch.exe
+D:\Projects\01. Arrays\11. BinarySearch\bin\Debug\_11.BinarySearch.pdb
+D:\Projects\01. Arrays\11. BinarySearch\obj\Debug\11. BinarySearch.csprojResolveAssemblyReference.cache
+D:\Projects\01. Arrays\11. BinarySearch\obj\Debug\_11.BinarySearch.exe
+D:\Projects\01. Arrays\11. BinarySearch\obj\Debug\_11.BinarySearch.pdb
+D:\Projects\C# 2\01. Arrays\11. BinarySearch\bin\Debug\_11.BinarySearch.exe.config
+D:\Projects\C# 2\01. Arrays\11. BinarySearch\obj\Debug\_11.BinarySearch.exe
+D:\Projects\C# 2\01. Arrays\11. BinarySearch\obj\Debug\_11.BinarySearch.pdb
+E:\Projects\Telerik\C# 2\HW\01. Arrays\11. BinarySearch\bin\Debug\_11.BinarySearch.exe.config
+E:\Projects\Telerik\C# 2\HW\01. Arrays\11. BinarySearch\obj\Debug\_11.BinarySearch.exe
+E:\Projects\Telerik\C# 2\HW\01. Arrays\11. BinarySearch\obj\Debug\_11.BinarySearch.pdb

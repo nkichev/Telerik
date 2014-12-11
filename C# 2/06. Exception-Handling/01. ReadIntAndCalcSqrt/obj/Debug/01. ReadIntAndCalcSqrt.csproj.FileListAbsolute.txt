@@ -1,0 +1,6 @@
+D:\Projects\C# 2\06. Exception-Handling\01. ReadIntAndCalcSqrt\bin\Debug\_01.ReadIntAndCalcSqrt.exe.config
+D:\Projects\C# 2\06. Exception-Handling\01. ReadIntAndCalcSqrt\bin\Debug\_01.ReadIntAndCalcSqrt.exe
+D:\Projects\C# 2\06. Exception-Handling\01. ReadIntAndCalcSqrt\bin\Debug\_01.ReadIntAndCalcSqrt.pdb
+D:\Projects\C# 2\06. Exception-Handling\01. ReadIntAndCalcSqrt\obj\Debug\01. ReadIntAndCalcSqrt.csprojResolveAssemblyReference.cache
+D:\Projects\C# 2\06. Exception-Handling\01. ReadIntAndCalcSqrt\obj\Debug\_01.ReadIntAndCalcSqrt.exe
+D:\Projects\C# 2\06. Exception-Handling\01. ReadIntAndCalcSqrt\obj\Debug\_01.ReadIntAndCalcSqrt.pdb
