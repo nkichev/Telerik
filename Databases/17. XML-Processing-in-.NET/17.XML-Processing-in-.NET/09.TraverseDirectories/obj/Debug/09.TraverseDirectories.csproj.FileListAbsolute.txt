@@ -1,0 +1,5 @@
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\09.TraverseDirectories\bin\Debug\09.TraverseDirectories.exe.config
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\09.TraverseDirectories\bin\Debug\09.TraverseDirectories.exe
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\09.TraverseDirectories\bin\Debug\09.TraverseDirectories.pdb
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\09.TraverseDirectories\obj\Debug\09.TraverseDirectories.exe
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\09.TraverseDirectories\obj\Debug\09.TraverseDirectories.pdb

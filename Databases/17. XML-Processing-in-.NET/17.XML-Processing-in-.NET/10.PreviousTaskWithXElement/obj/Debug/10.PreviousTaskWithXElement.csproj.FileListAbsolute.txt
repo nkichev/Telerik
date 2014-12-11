@@ -1,0 +1,5 @@
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\10.PreviousTaskWithXElement\bin\Debug\10.PreviousTaskWithXElement.exe.config
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\10.PreviousTaskWithXElement\bin\Debug\10.PreviousTaskWithXElement.exe
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\10.PreviousTaskWithXElement\bin\Debug\10.PreviousTaskWithXElement.pdb
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\10.PreviousTaskWithXElement\obj\Debug\10.PreviousTaskWithXElement.exe
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\10.PreviousTaskWithXElement\obj\Debug\10.PreviousTaskWithXElement.pdb

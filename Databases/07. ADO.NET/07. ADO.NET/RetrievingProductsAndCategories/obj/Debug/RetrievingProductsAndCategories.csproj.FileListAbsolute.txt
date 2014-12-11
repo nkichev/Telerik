@@ -1,0 +1,6 @@
+E:\Projects\Telerik\Databases\HW\07. ADO.NET\07. ADO.NET\RetrievingProductsAndCategories\bin\Debug\RetrievingProductsAndCategories.exe.config
+E:\Projects\Telerik\Databases\HW\07. ADO.NET\07. ADO.NET\RetrievingProductsAndCategories\obj\Debug\RetrievingProductsAndCategories.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\Databases\HW\07. ADO.NET\07. ADO.NET\RetrievingProductsAndCategories\bin\Debug\RetrievingProductsAndCategories.exe
+E:\Projects\Telerik\Databases\HW\07. ADO.NET\07. ADO.NET\RetrievingProductsAndCategories\bin\Debug\RetrievingProductsAndCategories.pdb
+E:\Projects\Telerik\Databases\HW\07. ADO.NET\07. ADO.NET\RetrievingProductsAndCategories\obj\Debug\RetrievingProductsAndCategories.exe
+E:\Projects\Telerik\Databases\HW\07. ADO.NET\07. ADO.NET\RetrievingProductsAndCategories\obj\Debug\RetrievingProductsAndCategories.pdb

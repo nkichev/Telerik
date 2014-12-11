@@ -1,0 +1,5 @@
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\12. PreviousTaskWithLINQ\bin\Debug\_12.PreviousTaskWithLINQ.exe.config
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\12. PreviousTaskWithLINQ\bin\Debug\_12.PreviousTaskWithLINQ.exe
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\12. PreviousTaskWithLINQ\bin\Debug\_12.PreviousTaskWithLINQ.pdb
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\12. PreviousTaskWithLINQ\obj\Debug\_12.PreviousTaskWithLINQ.exe
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\12. PreviousTaskWithLINQ\obj\Debug\_12.PreviousTaskWithLINQ.pdb

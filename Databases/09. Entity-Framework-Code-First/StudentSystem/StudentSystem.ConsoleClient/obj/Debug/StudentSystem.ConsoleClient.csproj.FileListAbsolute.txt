@@ -1,0 +1,14 @@
+E:\Projects\Telerik\Databases\HW\09. Entity-Framework-Code-First\StudentSystem\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.ConsoleClient.exe.config
+E:\Projects\Telerik\Databases\HW\09. Entity-Framework-Code-First\StudentSystem\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.ConsoleClient.exe
+E:\Projects\Telerik\Databases\HW\09. Entity-Framework-Code-First\StudentSystem\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.ConsoleClient.pdb
+E:\Projects\Telerik\Databases\HW\09. Entity-Framework-Code-First\StudentSystem\StudentSystem.ConsoleClient\bin\Debug\EntityFramework.dll
+E:\Projects\Telerik\Databases\HW\09. Entity-Framework-Code-First\StudentSystem\StudentSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\Telerik\Databases\HW\09. Entity-Framework-Code-First\StudentSystem\StudentSystem.ConsoleClient\bin\Debug\EntityFramework.xml
+E:\Projects\Telerik\Databases\HW\09. Entity-Framework-Code-First\StudentSystem\StudentSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\Telerik\Databases\HW\09. Entity-Framework-Code-First\StudentSystem\StudentSystem.ConsoleClient\obj\Debug\StudentSystem.ConsoleClient.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\Databases\HW\09. Entity-Framework-Code-First\StudentSystem\StudentSystem.ConsoleClient\obj\Debug\StudentSystem.ConsoleClient.exe
+E:\Projects\Telerik\Databases\HW\09. Entity-Framework-Code-First\StudentSystem\StudentSystem.ConsoleClient\obj\Debug\StudentSystem.ConsoleClient.pdb
+E:\Projects\Telerik\Databases\HW\09. Entity-Framework-Code-First\StudentSystem\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.Data.dll
+E:\Projects\Telerik\Databases\HW\09. Entity-Framework-Code-First\StudentSystem\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.Models.dll
+E:\Projects\Telerik\Databases\HW\09. Entity-Framework-Code-First\StudentSystem\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.Data.pdb
+E:\Projects\Telerik\Databases\HW\09. Entity-Framework-Code-First\StudentSystem\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.Models.pdb

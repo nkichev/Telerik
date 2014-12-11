@@ -1,0 +1,51 @@
+<?xml version ="1.0" encoding ="utf-8"?>
+<albums>
+  <album>
+    <name>Signs Of Life</name>
+    <artist>Poets of the Fall</artist>
+    <producer>Poets of the Fall</producer>
+    <price>33.00</price >
+    <songs>
+      <song>
+        <title>Don't Mess With Me</title>
+        <duration>4.21</duration>
+      </song>
+      <song>
+        <title>3 AM</title>
+        <duration>3.31</duration>
+      </song>
+    </songs >
+  </album>
+  <album>
+    <name>Carnival of Rust</name>
+    <artist>Poets of the Fall</artist>
+    <producer>Poets of the Fall</producer>
+    <price>6.00</price >
+    <songs>
+      <song>
+        <title>Carnival of rust</title>
+        <duration>4.21</duration>
+      </song>
+      <song>
+        <title>Gravity</title>
+        <duration>3.31</duration>
+      </song>
+    </songs >
+  </album>
+  <album>
+    <name>SkyWorld</name>
+    <artist>Two Steps From Hell</artist>
+    <producer>Two Steps From Hell</producer>
+    <price>8.00</price >
+    <songs>
+      <song>
+        <title>For the Win</title>
+        <duration>3.58</duration>
+      </song>
+      <song>
+        <title>SkyWorld</title>
+        <duration>4.14</duration>
+      </song>
+    </songs >
+  </album>
+</albums>

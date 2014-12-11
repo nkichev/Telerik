@@ -1,0 +1,6 @@
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\08.CreateXMLWithXMLWriter\bin\Debug\08.CreateXMLWithXMLWriter.exe.config
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\08.CreateXMLWithXMLWriter\bin\Debug\08.CreateXMLWithXMLWriter.exe
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\08.CreateXMLWithXMLWriter\bin\Debug\08.CreateXMLWithXMLWriter.pdb
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\08.CreateXMLWithXMLWriter\obj\Debug\08.CreateXMLWithXMLWriter.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\08.CreateXMLWithXMLWriter\obj\Debug\08.CreateXMLWithXMLWriter.exe
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\08.CreateXMLWithXMLWriter\obj\Debug\08.CreateXMLWithXMLWriter.pdb

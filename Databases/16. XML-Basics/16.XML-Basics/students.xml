@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="students.xsl"?>
+<students>
+  <student>
+    <name>Bogo</name>
+    <sex>m</sex>
+    <birth-date>14.05.1990</birth-date>
+    <phone>0885888588</phone>
+    <email>bogo@abv.bg</email>
+    <course>4</course>
+    <specialty>Astronomy</specialty>
+    <faculty-number>2693856</faculty-number>
+    <taken-exams>
+      <exam>
+        <name>Astronomy 1</name>
+        <tutor>Gosho</tutor>
+        <score>4.50</score>
+      </exam>
+      <exam>
+        <name>Astronomy 2</name>
+        <tutor>Boni</tutor>
+        <score>5</score>
+      </exam>
+    </taken-exams>
+  </student>
+  <student>
+    <name>Dani</name>
+    <sex>f</sex>
+    <birth-date>14.05.1989</birth-date>
+    <phone>0885888585</phone>
+    <email>dani@abv.bg</email>
+    <course>1</course>
+    <specialty>Physics</specialty>
+    <faculty-number>2693855</faculty-number>
+    <taken-exams>
+      <exam>
+        <name>Physics 1</name>
+        <tutor>Moni</tutor>
+        <score>5.50</score>
+      </exam>
+      <exam>
+        <name>Physics 2</name>
+        <tutor>Moni</tutor>
+        <score>5</score>
+      </exam>
+    </taken-exams>
+  </student>
+</students>

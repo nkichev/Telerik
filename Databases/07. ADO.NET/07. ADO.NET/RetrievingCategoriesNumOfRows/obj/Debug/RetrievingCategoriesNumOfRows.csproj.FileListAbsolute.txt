@@ -1,0 +1,6 @@
+E:\Projects\Telerik\Databases\HW\07. ADO.NET\07. ADO.NET\RetrievingCategoriesNumOfRows\bin\Debug\RetrievingCategoriesNumOfRows.exe.config
+E:\Projects\Telerik\Databases\HW\07. ADO.NET\07. ADO.NET\RetrievingCategoriesNumOfRows\obj\Debug\RetrievingCategoriesNumOfRows.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\Databases\HW\07. ADO.NET\07. ADO.NET\RetrievingCategoriesNumOfRows\bin\Debug\RetrievingCategoriesNumOfRows.exe
+E:\Projects\Telerik\Databases\HW\07. ADO.NET\07. ADO.NET\RetrievingCategoriesNumOfRows\bin\Debug\RetrievingCategoriesNumOfRows.pdb
+E:\Projects\Telerik\Databases\HW\07. ADO.NET\07. ADO.NET\RetrievingCategoriesNumOfRows\obj\Debug\RetrievingCategoriesNumOfRows.exe
+E:\Projects\Telerik\Databases\HW\07. ADO.NET\07. ADO.NET\RetrievingCategoriesNumOfRows\obj\Debug\RetrievingCategoriesNumOfRows.pdb

@@ -1,0 +1,12 @@
+E:\Projects\Telerik\Databases\HW\09. Entity-Framework-Code-First\StudentSystem\StudentSystem.Data\bin\Debug\StudentSystem.Data.dll.config
+E:\Projects\Telerik\Databases\HW\09. Entity-Framework-Code-First\StudentSystem\StudentSystem.Data\bin\Debug\StudentSystem.Data.dll
+E:\Projects\Telerik\Databases\HW\09. Entity-Framework-Code-First\StudentSystem\StudentSystem.Data\bin\Debug\StudentSystem.Data.pdb
+E:\Projects\Telerik\Databases\HW\09. Entity-Framework-Code-First\StudentSystem\StudentSystem.Data\bin\Debug\EntityFramework.dll
+E:\Projects\Telerik\Databases\HW\09. Entity-Framework-Code-First\StudentSystem\StudentSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\Telerik\Databases\HW\09. Entity-Framework-Code-First\StudentSystem\StudentSystem.Data\bin\Debug\StudentSystem.Models.dll
+E:\Projects\Telerik\Databases\HW\09. Entity-Framework-Code-First\StudentSystem\StudentSystem.Data\bin\Debug\StudentSystem.Models.pdb
+E:\Projects\Telerik\Databases\HW\09. Entity-Framework-Code-First\StudentSystem\StudentSystem.Data\bin\Debug\EntityFramework.xml
+E:\Projects\Telerik\Databases\HW\09. Entity-Framework-Code-First\StudentSystem\StudentSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\Telerik\Databases\HW\09. Entity-Framework-Code-First\StudentSystem\StudentSystem.Data\obj\Debug\StudentSystem.Data.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\Databases\HW\09. Entity-Framework-Code-First\StudentSystem\StudentSystem.Data\obj\Debug\StudentSystem.Data.dll
+E:\Projects\Telerik\Databases\HW\09. Entity-Framework-Code-First\StudentSystem\StudentSystem.Data\obj\Debug\StudentSystem.Data.pdb

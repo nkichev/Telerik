@@ -1,0 +1,5 @@
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\05.XMLReaderExtractsAllSongs\bin\Debug\05.XMLReaderExtractsAllSongs.exe.config
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\05.XMLReaderExtractsAllSongs\bin\Debug\05.XMLReaderExtractsAllSongs.exe
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\05.XMLReaderExtractsAllSongs\bin\Debug\05.XMLReaderExtractsAllSongs.pdb
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\05.XMLReaderExtractsAllSongs\obj\Debug\05.XMLReaderExtractsAllSongs.exe
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\05.XMLReaderExtractsAllSongs\obj\Debug\05.XMLReaderExtractsAllSongs.pdb

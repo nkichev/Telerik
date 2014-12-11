@@ -1,0 +1,6 @@
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\04.DeleteAlbumsWithPriceMoreThan20\bin\Debug\04.DeleteAlbumsWithPriceMoreThan20.exe.config
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\04.DeleteAlbumsWithPriceMoreThan20\bin\Debug\04.DeleteAlbumsWithPriceMoreThan20.exe
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\04.DeleteAlbumsWithPriceMoreThan20\bin\Debug\04.DeleteAlbumsWithPriceMoreThan20.pdb
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\04.DeleteAlbumsWithPriceMoreThan20\obj\Debug\04.DeleteAlbumsWithPriceMoreThan20.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\04.DeleteAlbumsWithPriceMoreThan20\obj\Debug\04.DeleteAlbumsWithPriceMoreThan20.exe
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\04.DeleteAlbumsWithPriceMoreThan20\obj\Debug\04.DeleteAlbumsWithPriceMoreThan20.pdb

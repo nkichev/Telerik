@@ -1,0 +1,21 @@
+E:\Projects\Telerik\Databases\HW\16. XML-Basics\16. XML-Basics\16.XML-Basics\bin\Debug\16.XML-Basics.exe.config
+E:\Projects\Telerik\Databases\HW\16. XML-Basics\16. XML-Basics\16.XML-Basics\bin\Debug\16.XML-Basics.exe
+E:\Projects\Telerik\Databases\HW\16. XML-Basics\16. XML-Basics\16.XML-Basics\bin\Debug\16.XML-Basics.pdb
+E:\Projects\Telerik\Databases\HW\16. XML-Basics\16. XML-Basics\16.XML-Basics\obj\Debug\16.XML-Basics.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\Databases\HW\16. XML-Basics\16. XML-Basics\16.XML-Basics\obj\Debug\16.XML-Basics.exe
+E:\Projects\Telerik\Databases\HW\16. XML-Basics\16. XML-Basics\16.XML-Basics\obj\Debug\16.XML-Basics.pdb
+C:\Users\Nikolai\Desktop\HW_nkichev_XML-osnovi_2014-09-04_14-57\16.XML-Basics\bin\Debug\16.XML-Basics.exe.config
+C:\Users\Nikolai\Desktop\HW_nkichev_XML-osnovi_2014-09-04_14-57\16.XML-Basics\obj\Debug\16.XML-Basics.exe
+C:\Users\Nikolai\Desktop\HW_nkichev_XML-osnovi_2014-09-04_14-57\16.XML-Basics\obj\Debug\16.XML-Basics.pdb
+C:\Users\Nikolai\Desktop\HW_nkichev_XML-osnovi_2014-09-04_14-57\16.XML-Basics\bin\Debug\16.XML-Basics.exe
+C:\Users\Nikolai\Desktop\HW_nkichev_XML-osnovi_2014-09-04_14-57\16.XML-Basics\bin\Debug\16.XML-Basics.pdb
+C:\Users\Nikolai\Desktop\HW_nkichev_XML-osnovi_2014-09-04_14-57\16.XML-Basics\obj\Debug\16.XML-Basics.csprojResolveAssemblyReference.cache
+C:\Users\Nikolai\Desktop\HW_nkichev_XML-osnovi_2014-09-04_14-59\16.XML-Basics\bin\Debug\16.XML-Basics.exe.config
+C:\Users\Nikolai\Desktop\HW_nkichev_XML-osnovi_2014-09-04_14-59\16.XML-Basics\obj\Debug\16.XML-Basics.exe
+C:\Users\Nikolai\Desktop\HW_nkichev_XML-osnovi_2014-09-04_14-59\16.XML-Basics\obj\Debug\16.XML-Basics.pdb
+C:\Users\Nikolai\Desktop\HW_nkichev_XML-osnovi_2014-09-04_14-59\16.XML-Basics\bin\Debug\16.XML-Basics.exe
+C:\Users\Nikolai\Desktop\HW_nkichev_XML-osnovi_2014-09-04_14-59\16.XML-Basics\bin\Debug\16.XML-Basics.pdb
+C:\Users\Nikolai\Desktop\HW_nkichev_XML-osnovi_2014-09-04_14-59\16.XML-Basics\obj\Debug\16.XML-Basics.csprojResolveAssemblyReference.cache
+C:\Users\Nikolai\Desktop\HW_nkichev_XML-osnovi_2014-09-04_15-02\16.XML-Basics\bin\Debug\16.XML-Basics.exe.config
+C:\Users\Nikolai\Desktop\HW_nkichev_XML-osnovi_2014-09-04_15-02\16.XML-Basics\obj\Debug\16.XML-Basics.exe
+C:\Users\Nikolai\Desktop\HW_nkichev_XML-osnovi_2014-09-04_15-02\16.XML-Basics\obj\Debug\16.XML-Basics.pdb

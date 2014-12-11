@@ -1,0 +1,11 @@
+E:\Projects\Telerik\Databases\HW\08. Entity-Framework\NorthwindDB\NorthwindDB\bin\Debug\NorthwindDB.exe.config
+E:\Projects\Telerik\Databases\HW\08. Entity-Framework\NorthwindDB\NorthwindDB\bin\Debug\NorthwindDB.exe
+E:\Projects\Telerik\Databases\HW\08. Entity-Framework\NorthwindDB\NorthwindDB\bin\Debug\NorthwindDB.pdb
+E:\Projects\Telerik\Databases\HW\08. Entity-Framework\NorthwindDB\NorthwindDB\bin\Debug\EntityFramework.dll
+E:\Projects\Telerik\Databases\HW\08. Entity-Framework\NorthwindDB\NorthwindDB\bin\Debug\EntityFramework.xml
+E:\Projects\Telerik\Databases\HW\08. Entity-Framework\NorthwindDB\NorthwindDB\obj\Debug\NorthwindDB.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\Databases\HW\08. Entity-Framework\NorthwindDB\NorthwindDB\obj\Debug\NorthwindDB.exe
+E:\Projects\Telerik\Databases\HW\08. Entity-Framework\NorthwindDB\NorthwindDB\obj\Debug\NorthwindDB.pdb
+E:\Projects\Telerik\Databases\HW\08. Entity-Framework\08. Entity-Framework\NorthwindDB\bin\Debug\NorthwindDB.exe.config
+E:\Projects\Telerik\Databases\HW\08. Entity-Framework\08. Entity-Framework\NorthwindDB\obj\Debug\NorthwindDB.exe
+E:\Projects\Telerik\Databases\HW\08. Entity-Framework\08. Entity-Framework\NorthwindDB\obj\Debug\NorthwindDB.pdb

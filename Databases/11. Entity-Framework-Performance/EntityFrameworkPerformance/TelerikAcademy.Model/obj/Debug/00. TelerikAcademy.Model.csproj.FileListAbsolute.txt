@@ -1,0 +1,8 @@
+E:\Projects\Telerik\Databases\HW\11. Entity-Framework-Performance\EntityFrameworkPerformance\TelerikAcademy.Model\bin\Debug\TelerikAcademy.Model.dll.config
+E:\Projects\Telerik\Databases\HW\11. Entity-Framework-Performance\EntityFrameworkPerformance\TelerikAcademy.Model\bin\Debug\TelerikAcademy.Model.dll
+E:\Projects\Telerik\Databases\HW\11. Entity-Framework-Performance\EntityFrameworkPerformance\TelerikAcademy.Model\bin\Debug\TelerikAcademy.Model.pdb
+E:\Projects\Telerik\Databases\HW\11. Entity-Framework-Performance\EntityFrameworkPerformance\TelerikAcademy.Model\bin\Debug\EntityFramework.dll
+E:\Projects\Telerik\Databases\HW\11. Entity-Framework-Performance\EntityFrameworkPerformance\TelerikAcademy.Model\bin\Debug\EntityFramework.xml
+E:\Projects\Telerik\Databases\HW\11. Entity-Framework-Performance\EntityFrameworkPerformance\TelerikAcademy.Model\obj\Debug\00. TelerikAcademy.Model.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\Databases\HW\11. Entity-Framework-Performance\EntityFrameworkPerformance\TelerikAcademy.Model\obj\Debug\TelerikAcademy.Model.dll
+E:\Projects\Telerik\Databases\HW\11. Entity-Framework-Performance\EntityFrameworkPerformance\TelerikAcademy.Model\obj\Debug\TelerikAcademy.Model.pdb

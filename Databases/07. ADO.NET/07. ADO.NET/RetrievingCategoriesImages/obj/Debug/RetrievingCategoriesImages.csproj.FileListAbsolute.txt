@@ -1,0 +1,6 @@
+E:\Projects\Telerik\Databases\HW\07. ADO.NET\07. ADO.NET\RetrievingCategoriesImages\bin\Debug\RetrievingCategoriesImages.exe.config
+E:\Projects\Telerik\Databases\HW\07. ADO.NET\07. ADO.NET\RetrievingCategoriesImages\bin\Debug\RetrievingCategoriesImages.exe
+E:\Projects\Telerik\Databases\HW\07. ADO.NET\07. ADO.NET\RetrievingCategoriesImages\bin\Debug\RetrievingCategoriesImages.pdb
+E:\Projects\Telerik\Databases\HW\07. ADO.NET\07. ADO.NET\RetrievingCategoriesImages\obj\Debug\RetrievingCategoriesImages.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\Databases\HW\07. ADO.NET\07. ADO.NET\RetrievingCategoriesImages\obj\Debug\RetrievingCategoriesImages.exe
+E:\Projects\Telerik\Databases\HW\07. ADO.NET\07. ADO.NET\RetrievingCategoriesImages\obj\Debug\RetrievingCategoriesImages.pdb

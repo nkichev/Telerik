@@ -1,0 +1,6 @@
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\02. ExtractingArtistsAndNumberOfAlbums\bin\Debug\_02.ExtractingArtistsAndNumberOfAlbums.exe.config
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\02. ExtractingArtistsAndNumberOfAlbums\bin\Debug\_02.ExtractingArtistsAndNumberOfAlbums.exe
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\02. ExtractingArtistsAndNumberOfAlbums\bin\Debug\_02.ExtractingArtistsAndNumberOfAlbums.pdb
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\02. ExtractingArtistsAndNumberOfAlbums\obj\Debug\02. ExtractingArtistsAndNumberOfAlbums.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\02. ExtractingArtistsAndNumberOfAlbums\obj\Debug\_02.ExtractingArtistsAndNumberOfAlbums.exe
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\02. ExtractingArtistsAndNumberOfAlbums\obj\Debug\_02.ExtractingArtistsAndNumberOfAlbums.pdb

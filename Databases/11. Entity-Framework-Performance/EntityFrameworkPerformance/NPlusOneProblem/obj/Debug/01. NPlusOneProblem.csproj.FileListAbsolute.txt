@@ -1,0 +1,11 @@
+E:\Databases\EntityFrameworkPerformance\NPlusOneProblem\bin\Debug\NPlusOneProblem.exe.config
+E:\Projects\Telerik\Databases\HW\11. Entity-Framework-Performance\EntityFrameworkPerformance\NPlusOneProblem\bin\Debug\NPlusOneProblem.exe.config
+E:\Projects\Telerik\Databases\HW\11. Entity-Framework-Performance\EntityFrameworkPerformance\NPlusOneProblem\bin\Debug\NPlusOneProblem.exe
+E:\Projects\Telerik\Databases\HW\11. Entity-Framework-Performance\EntityFrameworkPerformance\NPlusOneProblem\bin\Debug\NPlusOneProblem.pdb
+E:\Projects\Telerik\Databases\HW\11. Entity-Framework-Performance\EntityFrameworkPerformance\NPlusOneProblem\bin\Debug\EntityFramework.dll
+E:\Projects\Telerik\Databases\HW\11. Entity-Framework-Performance\EntityFrameworkPerformance\NPlusOneProblem\bin\Debug\TelerikAcademy.Model.dll
+E:\Projects\Telerik\Databases\HW\11. Entity-Framework-Performance\EntityFrameworkPerformance\NPlusOneProblem\bin\Debug\TelerikAcademy.Model.pdb
+E:\Projects\Telerik\Databases\HW\11. Entity-Framework-Performance\EntityFrameworkPerformance\NPlusOneProblem\bin\Debug\EntityFramework.xml
+E:\Projects\Telerik\Databases\HW\11. Entity-Framework-Performance\EntityFrameworkPerformance\NPlusOneProblem\obj\Debug\01. NPlusOneProblem.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\Databases\HW\11. Entity-Framework-Performance\EntityFrameworkPerformance\NPlusOneProblem\obj\Debug\NPlusOneProblem.exe
+E:\Projects\Telerik\Databases\HW\11. Entity-Framework-Performance\EntityFrameworkPerformance\NPlusOneProblem\obj\Debug\NPlusOneProblem.pdb

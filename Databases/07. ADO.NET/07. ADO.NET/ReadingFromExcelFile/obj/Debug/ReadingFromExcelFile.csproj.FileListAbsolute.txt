@@ -1,0 +1,6 @@
+E:\Projects\Telerik\Databases\HW\07. ADO.NET\07. ADO.NET\ReadingFromExcelFile\bin\Debug\ReadingFromExcelFile.exe.config
+E:\Projects\Telerik\Databases\HW\07. ADO.NET\07. ADO.NET\ReadingFromExcelFile\bin\Debug\ReadingFromExcelFile.exe
+E:\Projects\Telerik\Databases\HW\07. ADO.NET\07. ADO.NET\ReadingFromExcelFile\bin\Debug\ReadingFromExcelFile.pdb
+E:\Projects\Telerik\Databases\HW\07. ADO.NET\07. ADO.NET\ReadingFromExcelFile\obj\Debug\ReadingFromExcelFile.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\Databases\HW\07. ADO.NET\07. ADO.NET\ReadingFromExcelFile\obj\Debug\ReadingFromExcelFile.exe
+E:\Projects\Telerik\Databases\HW\07. ADO.NET\07. ADO.NET\ReadingFromExcelFile\obj\Debug\ReadingFromExcelFile.pdb

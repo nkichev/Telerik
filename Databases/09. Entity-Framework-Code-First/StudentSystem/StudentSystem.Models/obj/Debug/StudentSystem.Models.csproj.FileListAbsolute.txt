@@ -1,0 +1,9 @@
+E:\Projects\Telerik\Databases\HW\09. Entity-Framework-Code-First\StudentSystem\StudentSystem.Models\bin\Debug\StudentSystem.Models.dll.config
+E:\Projects\Telerik\Databases\HW\09. Entity-Framework-Code-First\StudentSystem\StudentSystem.Models\bin\Debug\StudentSystem.Models.dll
+E:\Projects\Telerik\Databases\HW\09. Entity-Framework-Code-First\StudentSystem\StudentSystem.Models\bin\Debug\StudentSystem.Models.pdb
+E:\Projects\Telerik\Databases\HW\09. Entity-Framework-Code-First\StudentSystem\StudentSystem.Models\bin\Debug\EntityFramework.dll
+E:\Projects\Telerik\Databases\HW\09. Entity-Framework-Code-First\StudentSystem\StudentSystem.Models\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\Telerik\Databases\HW\09. Entity-Framework-Code-First\StudentSystem\StudentSystem.Models\bin\Debug\EntityFramework.xml
+E:\Projects\Telerik\Databases\HW\09. Entity-Framework-Code-First\StudentSystem\StudentSystem.Models\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\Telerik\Databases\HW\09. Entity-Framework-Code-First\StudentSystem\StudentSystem.Models\obj\Debug\StudentSystem.Models.dll
+E:\Projects\Telerik\Databases\HW\09. Entity-Framework-Code-First\StudentSystem\StudentSystem.Models\obj\Debug\StudentSystem.Models.pdb

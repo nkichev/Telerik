@@ -1,0 +1,8 @@
+E:\Projects\Telerik\Databases\HW\18. Processing-JSON-in-.NET\18.Processing-JSON-in-.NET\JSON.NETAndRSS\bin\Debug\JSON.NETAndRSS.exe.config
+E:\Projects\Telerik\Databases\HW\18. Processing-JSON-in-.NET\18.Processing-JSON-in-.NET\JSON.NETAndRSS\bin\Debug\JSON.NETAndRSS.exe
+E:\Projects\Telerik\Databases\HW\18. Processing-JSON-in-.NET\18.Processing-JSON-in-.NET\JSON.NETAndRSS\bin\Debug\JSON.NETAndRSS.pdb
+E:\Projects\Telerik\Databases\HW\18. Processing-JSON-in-.NET\18.Processing-JSON-in-.NET\JSON.NETAndRSS\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\Telerik\Databases\HW\18. Processing-JSON-in-.NET\18.Processing-JSON-in-.NET\JSON.NETAndRSS\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\Telerik\Databases\HW\18. Processing-JSON-in-.NET\18.Processing-JSON-in-.NET\JSON.NETAndRSS\obj\Debug\JSON.NETAndRSS.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\Databases\HW\18. Processing-JSON-in-.NET\18.Processing-JSON-in-.NET\JSON.NETAndRSS\obj\Debug\JSON.NETAndRSS.exe
+E:\Projects\Telerik\Databases\HW\18. Processing-JSON-in-.NET\18.Processing-JSON-in-.NET\JSON.NETAndRSS\obj\Debug\JSON.NETAndRSS.pdb

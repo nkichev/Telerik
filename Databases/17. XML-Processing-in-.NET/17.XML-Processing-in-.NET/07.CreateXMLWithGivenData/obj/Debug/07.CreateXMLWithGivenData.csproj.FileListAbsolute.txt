@@ -1,0 +1,6 @@
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\07.CreateXMLWithGivenData\bin\Debug\07.CreateXMLWithGivenData.exe.config
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\07.CreateXMLWithGivenData\bin\Debug\07.CreateXMLWithGivenData.exe
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\07.CreateXMLWithGivenData\bin\Debug\07.CreateXMLWithGivenData.pdb
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\07.CreateXMLWithGivenData\obj\Debug\07.CreateXMLWithGivenData.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\07.CreateXMLWithGivenData\obj\Debug\07.CreateXMLWithGivenData.exe
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\07.CreateXMLWithGivenData\obj\Debug\07.CreateXMLWithGivenData.pdb

@@ -1,0 +1,5 @@
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\13.CreateXSL\bin\Debug\13.CreateXSL.exe.config
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\13.CreateXSL\bin\Debug\13.CreateXSL.exe
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\13.CreateXSL\bin\Debug\13.CreateXSL.pdb
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\13.CreateXSL\obj\Debug\13.CreateXSL.exe
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\13.CreateXSL\obj\Debug\13.CreateXSL.pdb

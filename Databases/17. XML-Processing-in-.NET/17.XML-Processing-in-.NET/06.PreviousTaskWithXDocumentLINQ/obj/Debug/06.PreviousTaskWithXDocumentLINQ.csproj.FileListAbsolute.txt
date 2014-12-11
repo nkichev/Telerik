@@ -1,0 +1,6 @@
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\06.PreviousTaskWithXDocumentLINQ\bin\Debug\06.PreviousTaskWithXDocumentLINQ.exe.config
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\06.PreviousTaskWithXDocumentLINQ\bin\Debug\06.PreviousTaskWithXDocumentLINQ.exe
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\06.PreviousTaskWithXDocumentLINQ\bin\Debug\06.PreviousTaskWithXDocumentLINQ.pdb
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\06.PreviousTaskWithXDocumentLINQ\obj\Debug\06.PreviousTaskWithXDocumentLINQ.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\06.PreviousTaskWithXDocumentLINQ\obj\Debug\06.PreviousTaskWithXDocumentLINQ.exe
+E:\Projects\Telerik\Databases\HW\17. XML-Processing-in-.NET\17.XML-Processing-in-.NET\06.PreviousTaskWithXDocumentLINQ\obj\Debug\06.PreviousTaskWithXDocumentLINQ.pdb
