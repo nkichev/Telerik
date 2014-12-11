@@ -1,0 +1,5 @@
+D:\StudentsAcademy\CSS\LeSS\LeSS\LeSS_SimpleLgo\bin\LeSS_SimpleLgo.dll
+D:\StudentsAcademy\CSS\LeSS\LeSS\LeSS_SimpleLgo\bin\LeSS_SimpleLgo.pdb
+D:\StudentsAcademy\CSS\LeSS\LeSS\LeSS_SimpleLgo\obj\Debug\LeSS_SimpleLgo.csprojResolveAssemblyReference.cache
+D:\StudentsAcademy\CSS\LeSS\LeSS\LeSS_SimpleLgo\obj\Debug\LeSS_SimpleLgo.dll
+D:\StudentsAcademy\CSS\LeSS\LeSS\LeSS_SimpleLgo\obj\Debug\LeSS_SimpleLgo.pdb
