@@ -1,0 +1,10 @@
+C:\Users\kichev\Desktop\02. HTML.Tables\02. HTML.Tables\bin\_02.HTML.Tables.dll
+C:\Users\kichev\Desktop\02. HTML.Tables\02. HTML.Tables\bin\_02.HTML.Tables.pdb
+C:\Users\kichev\Desktop\02. HTML.Tables\02. HTML.Tables\obj\Debug\02. HTML.Tables.csprojResolveAssemblyReference.cache
+C:\Users\kichev\Desktop\02. HTML.Tables\02. HTML.Tables\obj\Debug\_02.HTML.Tables.dll
+C:\Users\kichev\Desktop\02. HTML.Tables\02. HTML.Tables\obj\Debug\_02.HTML.Tables.pdb
+D:\Projects\HTML\02. HTML.Tables\02. HTML.Tables\bin\_02.HTML.Tables.dll
+D:\Projects\HTML\02. HTML.Tables\02. HTML.Tables\bin\_02.HTML.Tables.pdb
+D:\Projects\HTML\02. HTML.Tables\02. HTML.Tables\obj\Debug\02. HTML.Tables.csprojResolveAssemblyReference.cache
+D:\Projects\HTML\02. HTML.Tables\02. HTML.Tables\obj\Debug\_02.HTML.Tables.dll
+D:\Projects\HTML\02. HTML.Tables\02. HTML.Tables\obj\Debug\_02.HTML.Tables.pdb

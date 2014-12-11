@@ -1,0 +1,4 @@
+D:\Projects\HTML\03. HTML.Forms.and.Frames\03. HTML.Forms.and.Frames\bin\_03.HTML.Forms.and.Frames.dll
+D:\Projects\HTML\03. HTML.Forms.and.Frames\03. HTML.Forms.and.Frames\bin\_03.HTML.Forms.and.Frames.pdb
+D:\Projects\HTML\03. HTML.Forms.and.Frames\03. HTML.Forms.and.Frames\obj\Debug\_03.HTML.Forms.and.Frames.dll
+D:\Projects\HTML\03. HTML.Forms.and.Frames\03. HTML.Forms.and.Frames\obj\Debug\_03.HTML.Forms.and.Frames.pdb

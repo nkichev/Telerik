@@ -1,0 +1,5 @@
+D:\Projects\HTML\01. HTML.Intro\01. HTML.Intro\bin\_01.HTML.Intro.dll
+D:\Projects\HTML\01. HTML.Intro\01. HTML.Intro\bin\_01.HTML.Intro.pdb
+D:\Projects\HTML\01. HTML.Intro\01. HTML.Intro\obj\Debug\01. HTML.Intro.csprojResolveAssemblyReference.cache
+D:\Projects\HTML\01. HTML.Intro\01. HTML.Intro\obj\Debug\_01.HTML.Intro.dll
+D:\Projects\HTML\01. HTML.Intro\01. HTML.Intro\obj\Debug\_01.HTML.Intro.pdb

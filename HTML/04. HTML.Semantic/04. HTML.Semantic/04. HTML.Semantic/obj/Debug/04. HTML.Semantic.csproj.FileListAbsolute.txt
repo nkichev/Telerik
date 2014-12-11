@@ -1,0 +1,5 @@
+C:\Users\kichev\Desktop\Course\HTML\4. HTML Semantic\semantic-web-homework\04. HTML.Semantic\04. HTML.Semantic\bin\_04.HTML.Semantic.dll
+C:\Users\kichev\Desktop\Course\HTML\4. HTML Semantic\semantic-web-homework\04. HTML.Semantic\04. HTML.Semantic\bin\_04.HTML.Semantic.pdb
+C:\Users\kichev\Desktop\Course\HTML\4. HTML Semantic\semantic-web-homework\04. HTML.Semantic\04. HTML.Semantic\obj\Debug\04. HTML.Semantic.csprojResolveAssemblyReference.cache
+C:\Users\kichev\Desktop\Course\HTML\4. HTML Semantic\semantic-web-homework\04. HTML.Semantic\04. HTML.Semantic\obj\Debug\_04.HTML.Semantic.dll
+C:\Users\kichev\Desktop\Course\HTML\4. HTML Semantic\semantic-web-homework\04. HTML.Semantic\04. HTML.Semantic\obj\Debug\_04.HTML.Semantic.pdb
