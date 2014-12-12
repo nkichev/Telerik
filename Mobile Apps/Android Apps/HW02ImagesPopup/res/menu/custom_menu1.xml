@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.apppractice.MainActivity" >
+
+    <item
+        android:id="@+id/image1_name"
+        android:orderInCategory="100"
+        android:title="@string/image1_name"
+        app:showAsAction="always"/>
+    
+    <item
+        android:id="@+id/image1_location"
+        android:orderInCategory="200"
+        android:title="@string/image1_activity"
+        app:showAsAction="always"/>
+    
+
+</menu>

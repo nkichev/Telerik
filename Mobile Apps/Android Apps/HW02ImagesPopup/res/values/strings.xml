@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HW02Popup</string>
+    <string name="image1_name">Name: Gogo</string>
+    <string name="image2_name">Name: Baro</string>
+    <string name="image3_name">Name: Djaro</string>
+    <string name="image1_activity">Activity: Just Chillin</string>
+    <string name="image2_activity">Activity: Are You Talkin To Me?</string>
+    <string name="image3_activity">Activity: Relax Baby!</string>
+
+</resources>
