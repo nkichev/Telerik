@@ -1,2 +1,2 @@
-Telerik Academy / Software Engineering Program
-==============================================
+Telerik Academy Homeworks
+=========================
